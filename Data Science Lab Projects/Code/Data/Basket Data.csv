@@ -1,0 +1,786 @@
+"","UNIVERSITY.NAME","STATUS","TARGET.MAJOR","TERM","GRE.Q.","GRE.V.","GRE.AWA.","GRE.TOTAL.","TOEFL","UG.COLLEGE","UG.MAJOR","CGPA","PAPERS","WORK.EXPERIENCE.M."
+"1","University of Texas, Austin","Admit","Civil Engineering","Fall 2018",170,149,3,319,88,"IIT Bombay","Civil Engineering",7.39,0,0
+"2","Penn State Harrisburg","Admit","Computer Science","Fall 2016",170,162,4,332,110,"IIT Bombay","Computer Science",8.93,0,0
+"3","University of Massachusetts, Amherst","Admit","Chemical Engineering","Fall 2019",170,153,4.5,323,104,"IIT Bombay","Chemical Engineering",7.04,0,18
+"4","University of Texas, Dallas","Admit","Computer Science","Fall 2019",168,149,3,317,106,"IIT Bombay","Electrical Engineering",7.07,0,0
+"5","University of Washington","Admit","Electrical Engineering","Fall 2018",170,168,4.5,338,116,"IIT Bombay","Computer Science",9.14,0,0
+"6","The University of Chicago","Admit","AI_ML_DS","Fall 2019",169,156,4,325,113,"IIT Bombay","Physics",7.39,0,0
+"7","University of Texas, Austin","Reject","Aerospace Engineering","Fall 2020",167,157,4,324,113,"IIT Bombay","Aeronautical Engineering",7.65,0,27
+"8","North Carolina State University","Reject","Computer Science","Fall 2013",164,161,3,325,110,"IIT Bombay","Computer Science",7.56,0,0
+"9","Duke University","Reject","Computer Science","Fall 2019",170,150,3.5,320,106,"IIT Bombay","Civil Engineering",7.43,0,0
+"10","University of Wisconsin, Madison","Reject","Computer Science","Fall 2020",170,166,4,336,113,"IIT Bombay","Computer Science",6.98,0,18
+"11","Arizona State University","Admit","Computer Science","Fall 2019",161,151,3.5,312,96,"IIT Bombay","Computer Science",7.5,0,0
+"12","Stanford University","Reject","Computer Science","Fall 2017",168,155,4,323,114,"IIT Bombay","Computer Science",8.4,0,0
+"13","New York University","Reject","AI_ML_DS","Fall 2020",168,153,3.5,321,105,"IIT Bombay","Chemical Engineering",7.53,2,66
+"14","University of Wisconsin, Madison","Admit","Mechanical Engineering","Fall 2017",170,153,4,323,110,"IIT Bombay","Chemical Engineering",7.9,0,0
+"15","University of Maryland, College Park","Reject","Mechanical Engineering","Fall 2018",168,158,4.5,326,114,"IIT Bombay","Mechanical Engineering",7.88,0,0
+"16","Indiana University - Purdue University, Indianapolis","Admit","Computer Science","Fall 2019",161,151,3.5,312,96,"IIT Bombay","Computer Science",7.5,0,0
+"17","Northwestern University","Admit","AI_ML_DS","Fall 2017",170,158,4,328,107,"IIT Bombay","Chemical Engineering",7.56,0,18
+"18","University of California, San Diego","Reject","Computer Science","Fall 2017",168,155,4,323,114,"IIT Bombay","Computer Science",8.4,0,0
+"19","University of Texas, Austin","Reject","Civil Engineering","Fall 2016",170,164,4,334,119,"IIT Bombay","Civil Engineering",9.67,0,0
+"20","University of Texas, Dallas","Admit","Computer Science","Fall 2013",164,161,3,325,110,"IIT Bombay","Computer Science",7.56,0,0
+"21","New York University","Reject","AI_ML_DS","Fall 2019",170,150,3.5,320,106,"IIT Bombay","Civil Engineering",7.43,0,0
+"22","University of Florida, Gainesville","Admit","Chemical Engineering","Fall 2018",168,147,3.5,315,96,"IIT Bombay","Chemical Engineering",7.17,0,0
+"23","University of Texas, Austin","Reject","Computer Science","Fall 2017",168,155,4,323,114,"IIT Bombay","Computer Science",8.4,0,0
+"24","University of Southern California","Reject","Computer Science","Fall 2020",168,158,3,326,109,"IIT Bombay","Electrical Engineering",6.42,0,18
+"25","University of Texas, Dallas","Admit","Business Studies","Fall 2018",170,151,4,321,107,"IIT Bombay","Civil Engineering",7.73,0,0
+"26","University of California, San Diego","Admit","Computer Science","Fall 2020",169,154,3,323,108,"IIT Bombay","Electrical Engineering",8.66,0,43
+"27","Columbia University","Reject","AI_ML_DS","Fall 2019",169,163,4,332,114,"IIT Bombay","Electrical Engineering",6.17,0,56
+"28","University of Florida, Gainesville","Reject","Computer Science","Fall 2019",161,151,3.5,312,96,"IIT Bombay","Computer Science",7.5,0,0
+"29","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2020",168,161,3,329,109,"IIT Bombay","Mechanical Engineering",9.04,0,0
+"30","University of Colorado, Boulder","Admit","Mechanical Engineering","Fall 2018",166,155,4,321,107,"IIT Bombay","Mechanical Engineering",8.12,0,0
+"31","Georgia Institute of Technology","Reject","Computer Science","Fall 2018",170,154,4,324,109,"IIT Bombay","Electrical Engineering",6.87,0,0
+"32","University of Florida, Gainesville","Admit","Computer Science","Fall 2019",168,149,3,317,106,"IIT Bombay","Electrical Engineering",7.07,0,0
+"33","University of California, Davis","Admit","Civil Engineering","Fall 2013",170,149,4.5,319,110,"IIT Bombay","Civil Engineering",8,0,0
+"34","Rutgers University, Newark","Admit","Business Studies","Fall 2019",168,152,3.5,320,95,"IIT Bombay","Chemical Engineering",6.49,0,2
+"35","Virginia Tech University","Admit","Civil Engineering","Fall 2017",167,166,4,333,111,"IIT Bombay","Civil Engineering",8.69,0,6
+"36","Purdue University, West Lafayette","Admit","Civil Engineering","Fall 2016",170,164,4,334,119,"IIT Bombay","Civil Engineering",9.67,0,0
+"37","Johns Hopkins University","Reject","Civil Engineering","Fall 2013",170,149,4.5,319,110,"IIT Bombay","Civil Engineering",8,0,0
+"38","North Carolina State University","Reject","Computer Science","Fall 2019",166,153,3,319,103,"IIT Bombay","Computer Science",7.15,0,42
+"39","University of California, Los Angeles","Admit","Computer Science","Fall 2017",168,155,4,323,114,"IIT Bombay","Computer Science",8.4,0,0
+"40","University of Pennsylvania","Reject","AI_ML_DS","Fall 2020",168,157,4.5,325,105,"IIT Bombay","Mechanical Engineering",8.77,0,0
+"41","University of Southern California","Reject","Computer Science","Fall 2020",170,166,4,336,113,"IIT Bombay","Computer Science",6.98,0,18
+"42","University of Michigan, Ann Arbor","Reject","AI_ML_DS","Fall 2020",168,153,3.5,321,105,"IIT Bombay","Chemical Engineering",7.53,2,66
+"43","University of Southern California","Admit","Electrical Engineering","Fall 2020",170,157,4,327,113,"IIT Bombay","Electrical Engineering",8.5,0,0
+"44","Northwestern University","Reject","AI_ML_DS","Fall 2020",168,153,3.5,321,105,"IIT Bombay","Chemical Engineering",7.53,2,66
+"45","Georgia Institute of Technology","Reject","AI_ML_DS","Fall 2017",170,158,4,328,107,"IIT Bombay","Chemical Engineering",7.56,0,18
+"46","University of Texas, Austin","Admit","Civil Engineering","Fall 2017",167,166,4,333,111,"IIT Bombay","Civil Engineering",8.69,0,6
+"47","Arizona State University","Admit","Computer Science","Fall 2016",170,162,4,332,110,"IIT Bombay","Computer Science",8.93,0,0
+"48","Simon Fraser University","Reject","Computer Science","Fall 2019",161,151,3.5,312,96,"IIT Bombay","Computer Science",7.5,0,0
+"49","The University of Chicago","Admit","Computer Science","Fall 2020",168,153,3.5,321,105,"IIT Bombay","Chemical Engineering",7.53,2,66
+"50","University of Illinois, Urbana Champaign","Reject","Civil Engineering","Fall 2020",167,150,3.5,317,105,"IIT Bombay","Mechanical Engineering",6.5,0,0
+"51","University of Maryland, College Park","Reject","Computer Science","Fall 2020",170,166,4,336,113,"IIT Bombay","Computer Science",6.98,0,18
+"52","University of Washington","Reject","Computer Science","Fall 2017",168,155,4,323,114,"IIT Bombay","Computer Science",8.4,0,0
+"53","University of California, Los Angeles","Admit","Civil Engineering","Fall 2017",167,166,4,333,111,"IIT Bombay","Civil Engineering",8.69,0,6
+"54","University of Texas, Austin","Reject","Business Studies","Fall 2017",170,158,4,328,107,"IIT Bombay","Chemical Engineering",7.56,0,18
+"55","Johns Hopkins University","Reject","Computer Science","Fall 2019",170,150,3.5,320,106,"IIT Bombay","Civil Engineering",7.43,0,0
+"56","University of Illinois, Chicago","Admit","Mechanical Engineering","Fall 2020",167,150,3.5,317,105,"IIT Bombay","Mechanical Engineering",6.5,0,0
+"57","Carnegie Mellon University","Admit","Computer Science","Fall 2020",170,157,4,327,113,"IIT Bombay","Electrical Engineering",8.5,0,0
+"58","University of Maryland, College Park","Admit","Computer Science","Fall 2020",170,158,3,328,106,"IIT Bombay","Electrical Engineering",8.43,0,0
+"59","Georgia Institute of Technology","Admit","AI_ML_DS","Fall 2019",164,167,4.5,331,118,"IIT Bombay","Statistics",8.72,0,0
+"60","University of Texas, Austin","Admit","Computer Science","Fall 2018",170,159,4,329,112,"IIT Bombay","Computer Science",9,0,0
+"61","University of Michigan, Ann Arbor","Reject","AI_ML_DS","Fall 2019",169,163,4,332,114,"IIT Bombay","Electrical Engineering",6.17,0,56
+"62","University of Southern California","Admit","Electrical Engineering","Fall 2020",170,162,5,332,115,"IIT Bombay","Electrical Engineering",9.6,0,0
+"63","Massachusetts Institute of Technology","Reject","Mechanical Engineering","Fall 2020",168,157,4.5,325,105,"IIT Bombay","Mechanical Engineering",8.77,0,0
+"64","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2020",169,154,3,323,108,"IIT Bombay","Electrical Engineering",8.66,0,43
+"65","Ohio State University","Admit","Mechanical Engineering","Fall 2018",166,155,4,321,107,"IIT Bombay","Mechanical Engineering",8.12,0,0
+"66","North Carolina State University","Reject","AI_ML_DS","Fall 2019",169,156,4,325,113,"IIT Bombay","Physics",7.39,0,0
+"67","Cornell University","Reject","Computer Science","Fall 2017",168,155,4,323,114,"IIT Bombay","Computer Science",8.4,0,0
+"68","Massachusetts Institute of Technology","Reject","Computer Science","Fall 2019",170,161,3.5,331,108,"IIT Bombay","Computer Science",8.7,0,0
+"69","University of Minnesota, Twin Cities","Admit","Business Studies","Fall 2020",170,159,3.5,329,115,"IIT Bombay","Civil Engineering",6.9,0,8
+"70","Georgia Institute of Technology","Reject","Computer Science","Fall 2020",168,153,3.5,321,105,"IIT Bombay","Chemical Engineering",7.53,2,66
+"71","Columbia University","Reject","Management Studies","Fall 2017",170,153,4,323,110,"IIT Bombay","Chemical Engineering",7.9,0,0
+"72","Stanford University","Reject","Electrical Engineering","Fall 2017",170,153,4,323,110,"IIT Bombay","Chemical Engineering",7.9,0,0
+"73","Stanford University","Admit","Electrical Engineering","Fall 2020",170,162,5,332,115,"IIT Bombay","Electrical Engineering",9.6,0,0
+"74","Tufts University","Admit","Mechanical Engineering","Fall 2016",170,154,4.5,324,108,"IIT Bombay","Mechanical Engineering",6.62,0,0
+"75","University of Texas, Austin","Reject","Mechanical Engineering","Fall 2018",168,158,4.5,326,114,"IIT Bombay","Mechanical Engineering",7.88,0,0
+"76","University of Illinois, Urbana Champaign","Reject","Mechanical Engineering","Fall 2018",168,158,4.5,326,114,"IIT Bombay","Mechanical Engineering",7.88,0,0
+"77","University of California, San Diego","Admit","Computer Science","Fall 2020",170,157,4,327,113,"IIT Bombay","Electrical Engineering",8.5,0,0
+"78","University of California, Los Angeles","Reject","Computer Science","Fall 2020",169,154,3,323,108,"IIT Bombay","Electrical Engineering",8.66,0,43
+"79","University of Iowa","Admit","Mechanical Engineering","Fall 2020",167,150,3.5,317,105,"IIT Bombay","Mechanical Engineering",6.5,0,0
+"80","University of Notre Dame","Reject","Civil Engineering","Fall 2020",167,150,3.5,317,105,"IIT Bombay","Mechanical Engineering",6.5,0,0
+"81","University of Michigan, Ann Arbor","Admit","Computer Science","Fall 2020",170,157,4,327,113,"IIT Bombay","Electrical Engineering",8.5,0,0
+"82","New York University","Admit","Computer Science","Fall 2013",164,161,3,325,110,"IIT Bombay","Computer Science",7.56,0,0
+"83","Cornell University","Reject","Civil Engineering","Fall 2013",170,149,4.5,319,110,"IIT Bombay","Civil Engineering",8,0,0
+"84","University of Michigan, Ann Arbor","Reject","Mechanical Engineering","Fall 2017",170,153,4,323,110,"IIT Bombay","Chemical Engineering",7.9,0,0
+"85","University of Michigan, Ann Arbor","Reject","AI_ML_DS","Fall 2020",168,157,4.5,325,105,"IIT Bombay","Mechanical Engineering",8.77,0,0
+"86","State University of New York, Stony Brook","Admit","Computer Science","Fall 2019",161,151,3.5,312,96,"IIT Bombay","Computer Science",7.5,0,0
+"87","University of Cincinnati","Admit","Business Studies","Fall 2018",170,151,4,321,107,"IIT Bombay","Civil Engineering",7.73,0,0
+"88","Carnegie Mellon University","Reject","Computer Science","Fall 2019",166,153,3,319,103,"IIT Bombay","Computer Science",7.15,0,42
+"89","University of Texas, Austin","Reject","Business Studies","Fall 2019",169,163,4,332,114,"IIT Bombay","Electrical Engineering",6.17,0,56
+"90","University of California, San Diego","Admit","Computer Science","Fall 2019",169,164,4,333,118,"IIT Bombay","Computer Science",9.15,0,0
+"91","Stanford University","Reject","Civil Engineering","Fall 2013",170,149,4.5,319,110,"IIT Bombay","Civil Engineering",8,0,0
+"92","University of North Carolina, Charlotte","Admit","Business Studies","Fall 2019",168,152,3.5,320,95,"IIT Bombay","Chemical Engineering",6.49,0,2
+"93","State University of New York, Buffalo","Admit","Computer Science","Fall 2020",170,154,4,324,106,"IIT Delhi","Computer Science",7.26,0,0
+"94","Carnegie Mellon University","Admit","Computer Science","Spring 2017",170,164,4,334,108,"IIT Delhi","Electrical Engineering",7.92,0,0
+"95","Duke University","Admit","Computer Science","Fall 2016",170,157,3,327,103,"IIT Delhi","Electrical Engineering",7.36,0,0
+"96","Johns Hopkins University","Reject","Computer Science","Fall 2019",170,159,4,329,105,"IIT Delhi","Electrical Engineering",7.95,0,0
+"97","Purdue University, West Lafayette","Admit","Computer Science","Spring 2017",170,164,4,334,108,"IIT Delhi","Electrical Engineering",7.92,0,0
+"98","University of Texas, Austin","Admit","Computer Science","Fall 2017",168,156,3,324,100,"IIT Delhi","Computer Science",8.26,0,0
+"99","National University Of Singapore","Reject","Civil Engineering","Fall 2020",170,149,3,319,93,"IIT Delhi","Civil Engineering",8.12,0,15
+"100","Kent State University","Reject","Computer Science","Spring 2017",154,146,3,300,91,"IIT Delhi","Computer Science",7.9,0,0
+"101","University of Alabama, Birmingham","Admit","Computer Science","Spring 2017",154,146,3,300,91,"IIT Delhi","Computer Science",7.9,0,0
+"102","Texas A&M University, College Station","Admit","Computer Science","Fall 2020",169,156,4,325,110,"IIT Delhi","Electrical Engineering",8.1,1,29
+"103","University of Michigan, Ann Arbor","Reject","Computer Science","Fall 2018",170,161,3.5,331,113,"IIT Delhi","Electrical Engineering",8.2,0,19
+"104","University of Iowa","Admit","Computer Science","Fall 2017",165,152,3,317,108,"IIT Delhi","Computer Science",8.14,0,0
+"105","University of Texas, Dallas","Admit","Computer Science","Fall 2020",170,154,4,324,106,"IIT Delhi","Computer Science",7.26,0,0
+"106","Texas A&M University, College Station","Admit","Computer Science","Fall 2018",169,149,3.5,318,102,"IIT Delhi","Computer Science",7.96,0,0
+"107","Stanford University","Reject","Civil Engineering","Fall 2020",170,149,3,319,93,"IIT Delhi","Civil Engineering",8.12,0,15
+"108","Virginia Tech University","Admit","Civil Engineering","Fall 2017",160,154,4,314,114,"IIT Delhi","Civil Engineering",8.5,0,0
+"109","University of Texas, Austin","Reject","Civil Engineering","Fall 2017",170,152,3.5,322,100,"IIT Delhi","Civil Engineering",8.33,2,0
+"110","University of California, Irvine","Reject","Electrical Engineering","Fall 2016",170,157,3,327,103,"IIT Delhi","Electrical Engineering",7.36,0,0
+"111","University of California, Los Angeles","Reject","Computer Science","Fall 2017",168,156,3,324,100,"IIT Delhi","Computer Science",8.26,0,0
+"112","Purdue University, West Lafayette","Admit","Computer Science","Fall 2020",170,154,4,324,108,"IIT Delhi","Electrical Engineering",8.34,0,0
+"113","Johns Hopkins University","Admit","Computer Science","Fall 2019",170,157,4,327,108,"IIT Delhi","Mathematics",8.1,0,0
+"114","Columbia University","Admit","Computer Science","Fall 2019",169,166,5,335,114,"IIT Delhi","Electrical Engineering",8.9,0,42
+"115","University of Michigan, Ann Arbor","Admit","Computer Science","Fall 2020",169,151,3.5,320,102,"IIT Delhi","Electrical Engineering",8.6,0,0
+"116","University of Illinois, Urbana Champaign","Admit","Mechanical Engineering","Fall 2020",167,154,3.5,321,107,"IIT Delhi","Mechanical Engineering",8.54,0,18
+"117","Columbia University","Reject","Computer Science","Fall 2017",168,157,4,325,108,"IIT Delhi","Computer Science",7.32,0,0
+"118","North Carolina State University","Reject","Computer Science","Fall 2017",163,143,3,306,92,"IIT Delhi","Electrical Engineering",9.1,2,41
+"119","State University of New York, Stony Brook","Admit","Computer Science","Fall 2018",170,161,4,331,115,"IIT Delhi","Computer Science",8.5,0,0
+"120","University of Illinois, Urbana Champaign","Admit","Civil Engineering","Fall 2020",170,149,3,319,93,"IIT Delhi","Civil Engineering",8.12,0,15
+"121","State University of New York, Buffalo","Admit","Mechanical Engineering","Fall 2020",167,154,3.5,321,107,"IIT Delhi","Mechanical Engineering",8.54,0,18
+"122","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2017",160,160,3.5,320,111,"IIT Delhi","Computer Science",7.43,0,0
+"123","University of Minnesota, Twin Cities","Reject","Computer Science","Fall 2019",166,151,3,317,95,"IIT Delhi","Electrical Engineering",7.22,0,18
+"124","State University of New York, Stony Brook","Admit","Computer Science","Fall 2018",168,156,4.5,324,111,"IIT Delhi","Computer Science",8.3,0,0
+"125","The University of Alabama","Admit","Computer Science","Fall 2017",165,152,3,317,108,"IIT Delhi","Computer Science",8.14,0,0
+"126","State University of New York, Stony Brook","Admit","Computer Science","Fall 2020",170,154,4,324,106,"IIT Delhi","Computer Science",7.26,0,0
+"127","University of Minnesota, Twin Cities","Reject","Computer Science","Fall 2020",170,154,4,324,108,"IIT Delhi","Electrical Engineering",8.34,0,0
+"128","Georgia Institute of Technology","Reject","Computer Science","Fall 2017",168,157,4,325,108,"IIT Delhi","Computer Science",7.32,0,0
+"129","Texas A&M University, College Station","Admit","Civil Engineering","Fall 2020",170,149,3,319,93,"IIT Delhi","Civil Engineering",8.12,0,15
+"130","University of California, San Diego","Admit","Computer Science","Fall 2016",170,164,4,334,117,"IIT Delhi","Electrical Engineering",8.7,0,0
+"131","Drexel University","Reject","Computer Science","Spring 2017",154,146,3,300,91,"IIT Delhi","Computer Science",7.9,0,0
+"132","Columbia University","Reject","AI_ML_DS","Fall 2019",170,164,4.5,334,115,"IIT Delhi","Physics",8.1,0,52
+"133","Columbia University","Admit","Electrical Engineering","Spring 2017",170,164,4,334,108,"IIT Delhi","Electrical Engineering",7.92,0,0
+"134","Georgia Institute of Technology","Admit","Computer Science","Fall 2018",170,161,3.5,331,113,"IIT Delhi","Electrical Engineering",8.2,0,19
+"135","New Jersey Institute of Technology","Reject","Computer Science","Spring 2017",154,146,3,300,91,"IIT Delhi","Computer Science",7.9,0,0
+"136","University of Maryland, Baltimore County","Reject","AI_ML_DS","Spring 2018",170,152,3,322,92,"IIT Delhi","Electrical Engineering",6.45,0,2
+"137","University of Massachusetts, Amherst","Reject","Computer Science","Fall 2019",167,158,4,325,108,"IIT Delhi","Textile Engineering",7.9,0,16
+"138","University of Cincinnati","Admit","Computer Science","Fall 2018",170,161,4,331,115,"IIT Delhi","Computer Science",8.5,0,0
+"139","ETH Zurich","Reject","Mechanical Engineering","Fall 2019",169,156,3.5,325,116,"IIT Delhi","Mechanical Engineering",8.9,0,0
+"140","Purdue University, West Lafayette","Admit","Civil Engineering","Fall 2017",160,154,4,314,114,"IIT Delhi","Civil Engineering",8.5,0,0
+"141","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2019",169,166,5,335,114,"IIT Delhi","Electrical Engineering",8.9,0,42
+"142","Texas A&M University, College Station","Admit","Civil Engineering","Fall 2017",170,152,3.5,322,100,"IIT Delhi","Civil Engineering",8.33,2,0
+"143","University of Maryland, College Park","Admit","Civil Engineering","Fall 2017",170,159,4,329,114,"IIT Delhi","Civil Engineering",8.29,0,0
+"144","Rutgers University, New Brunswick","Admit","Computer Science","Fall 2018",169,149,3.5,318,102,"IIT Delhi","Computer Science",7.96,0,0
+"145","University of Maryland, College Park","Reject","Computer Science","Fall 2019",170,159,4,329,105,"IIT Delhi","Electrical Engineering",7.95,0,0
+"146","University of Massachusetts, Amherst","Reject","Computer Science","Fall 2019",170,164,4.5,334,115,"IIT Delhi","Physics",8.1,0,52
+"147","University of Houston","Admit","Electrical Engineering","Fall 2016",162,152,3.5,314,109,"IIT Delhi","Electrical Engineering",8,0,0
+"148","Texas A&M University, College Station","Admit","Civil Engineering","Fall 2017",170,159,4,329,114,"IIT Delhi","Civil Engineering",8.29,0,0
+"149","Cornell University","Reject","Computer Science","Fall 2019",170,160,4,330,111,"IIT Delhi","Electrical Engineering",7.54,0,18
+"150","Arizona State University","Reject","Computer Science","Spring 2017",154,146,3,300,91,"IIT Delhi","Computer Science",7.9,0,0
+"151","University of Maryland, College Park","Reject","Computer Science","Fall 2016",170,143,3,313,98,"IIT Delhi","Computer Science",7.36,0,0
+"152","Carnegie Mellon University","Admit","Computer Science","Fall 2019",170,157,4,327,108,"IIT Delhi","Mathematics",8.1,0,0
+"153","Georgia Institute of Technology","Admit","Civil Engineering","Fall 2017",170,159,4,329,114,"IIT Delhi","Civil Engineering",8.29,0,0
+"154","Delft University of Technology","Admit","Chemical Engineering","Fall 2018",170,158,4,328,106,"IIT Delhi","Chemical Engineering",8.22,0,0
+"155","Texas Tech University","Admit","Electrical Engineering","Fall 2016",162,152,3.5,314,109,"IIT Delhi","Electrical Engineering",8,0,0
+"156","Pennsylvania State University","Reject","Computer Science","Fall 2020",170,154,4,324,106,"IIT Delhi","Computer Science",7.26,0,0
+"157","Carnegie Mellon University","Reject","AI_ML_DS","Fall 2019",167,158,4,325,108,"IIT Delhi","Textile Engineering",7.9,0,16
+"158","New York University","Reject","AI_ML_DS","Fall 2019",167,158,4,325,108,"IIT Delhi","Textile Engineering",7.9,0,16
+"159","University of California, San Diego","Admit","Computer Science","Fall 2020",168,158,4,326,108,"IIT Delhi","Electrical Engineering",9.2,0,0
+"160","State University of New York, Stony Brook","Admit","Computer Science","Fall 2016",170,143,3,313,98,"IIT Delhi","Computer Science",7.36,0,0
+"161","Ohio State University","Admit","Civil Engineering","Fall 2017",170,159,4,329,114,"IIT Delhi","Civil Engineering",8.29,0,0
+"162","University of Florida, Gainesville","Admit","Computer Science","Fall 2019",166,151,3,317,95,"IIT Delhi","Electrical Engineering",7.22,0,18
+"163","University of Massachusetts, Amherst","Reject","Computer Science","Fall 2019",170,160,4,330,111,"IIT Delhi","Electrical Engineering",7.54,0,18
+"164","University of Pennsylvania","Reject","AI_ML_DS","Fall 2019",170,164,4.5,334,115,"IIT Delhi","Physics",8.1,0,52
+"165","Purdue University, West Lafayette","Reject","Computer Science","Fall 2020",170,154,4,324,106,"IIT Delhi","Computer Science",7.26,0,0
+"166","Georgia Institute of Technology","Reject","Computer Science","Fall 2019",170,159,4,329,105,"IIT Delhi","Electrical Engineering",7.95,0,0
+"167","University of California, Davis","Admit","Civil Engineering","Fall 2017",170,159,4,329,114,"IIT Delhi","Civil Engineering",8.29,0,0
+"168","Cornell University","Admit","Civil Engineering","Fall 2017",170,159,4,329,114,"IIT Delhi","Civil Engineering",8.29,0,0
+"169","University of California, San Diego","Reject","Computer Science","Fall 2019",170,160,4,330,111,"IIT Delhi","Electrical Engineering",7.54,0,18
+"170","University of Michigan, Ann Arbor","Admit","AI_ML_DS","Fall 2019",170,164,4.5,334,115,"IIT Delhi","Physics",8.1,0,52
+"171","Rice University","Reject","Computer Science","Fall 2019",166,151,3,317,95,"IIT Delhi","Electrical Engineering",7.22,0,18
+"172","Texas A&M University, College Station","Admit","Computer Science","Fall 2020",170,154,4,324,108,"IIT Delhi","Electrical Engineering",8.34,0,0
+"173","Rochester Institute of Technology","Admit","Computer Science","Fall 2018",170,161,4.5,331,109,"IIT Delhi","Chemical Engineering",6.19,0,0
+"174","University of Pennsylvania","Admit","AI_ML_DS","Fall 2020",170,158,4.5,328,116,"IIT Delhi","Mechanical Engineering",7.93,0,0
+"175","Iowa State University","Admit","Electrical Engineering","Fall 2018",167,155,3.5,322,104,"IIT Madras","Electrical Engineering",8.4,0,0
+"176","University of Maryland, College Park","Reject","Computer Science","Fall 2017",168,166,4,334,110,"IIT Madras","Computer Science",8.99,0,0
+"177","Arizona State University","Admit","Computer Science","Fall 2017",170,168,5.5,338,100,"IIT Madras","Mechanical Engineering",8.4,0,0
+"178","The University of Chicago","Reject","Computer Science","Fall 2019",166,148,3,314,93,"IIT Madras","Mechanical Engineering",7.6,0,17
+"179","North Carolina State University","Reject","Computer Science","Fall 2019",170,158,4,328,107,"IIT Madras","Electrical Engineering",7.4,0,29
+"180","Texas A&M University, College Station","Reject","Computer Science","Fall 2019",170,158,4,328,107,"IIT Madras","Electrical Engineering",7.4,0,29
+"181","State University of New York, Stony Brook","Admit","Computer Science","Fall 2018",170,155,4,325,109,"IIT Madras","Aeronautical Engineering",7.96,0,0
+"182","Purdue University, West Lafayette","Admit","Civil Engineering","Fall 2018",170,159,4,329,116,"IIT Madras","Civil Engineering",8.38,0,0
+"183","University of Texas, Austin","Admit","Civil Engineering","Fall 2020",170,157,4,327,111,"IIT Madras","Civil Engineering",9.14,0,0
+"184","North Carolina State University","Admit","Aerospace Engineering","Fall 2017",161,155,0,316,102,"IIT Madras","Aeronautical Engineering",7.4,0,0
+"185","Oklahoma State University, Stillwater","Admit","AI_ML_DS","Fall 2018",168,143,4,311,93,"IIT Madras","Civil Engineering",8.12,0,14
+"186","University of Pennsylvania","Admit","Computer Science","Fall 2019",167,157,3.5,324,103,"IIT Madras","Mechanical Engineering",8.47,1,0
+"187","Georgia Institute of Technology","Admit","Civil Engineering","Fall 2018",170,159,4,329,116,"IIT Madras","Civil Engineering",8.38,0,0
+"188","State University of New York, Buffalo","Admit","Civil Engineering","Fall 2019",168,147,4,315,102,"IIT Madras","Civil Engineering",8.29,0,0
+"189","Purdue University, West Lafayette","Reject","Civil Engineering","Fall 2018",170,149,3.5,319,99,"IIT Madras","Civil Engineering",7.98,0,0
+"190","Stevens Institute of Technology","Admit","Business Studies","Fall 2018",168,143,4,311,93,"IIT Madras","Civil Engineering",8.12,0,14
+"191","University of Illinois, Urbana Champaign","Reject","Computer Science","Fall 2017",170,160,4,330,117,"IIT Madras","Electrical Engineering",8.72,0,0
+"192","University of Maryland, College Park","Reject","Mechanical Engineering","Fall 2018",170,154,3,324,105,"IIT Madras","Mechanical Engineering",8.31,0,29
+"193","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2020",170,150,3.5,320,107,"IIT Madras","Chemical Engineering",8.64,0,0
+"194","Massachusetts Institute of Technology","Reject","Electrical Engineering","Fall 2018",165,165,4,330,114,"IIT Madras","Metallurgical Engineering",7.6,1,11
+"195","Purdue University, West Lafayette","Reject","Computer Science","Fall 2018",169,155,4,324,111,"IIT Madras","Electrical Engineering",8.48,0,0
+"196","University of Wisconsin, Madison","Reject","Mechanical Engineering","Fall 2019",168,160,4,328,119,"IIT Madras","Mechanical Engineering",8.28,1,53
+"197","Purdue University, West Lafayette","Admit","Mechanical Engineering","Fall 2020",170,159,4,329,106,"IIT Madras","Aeronautical Engineering",9.6,0,0
+"198","University of Texas, Austin","Reject","Business Studies","Fall 2017",168,156,4,324,111,"IIT Madras","Aeronautical Engineering",8.53,0,33
+"199","Purdue University, West Lafayette","Admit","Mechanical Engineering","Fall 2017",170,151,3.5,321,107,"IIT Madras","Mechanical Engineering",8.75,0,0
+"200","Rutgers University, New Brunswick","Reject","Computer Science","Fall 2020",170,150,3.5,320,107,"IIT Madras","Chemical Engineering",8.64,0,0
+"201","University of Southern California","Admit","Civil Engineering","Fall 2020",170,151,3,321,96,"IIT Madras","Civil Engineering",8,0,17
+"202","Columbia University","Admit","Computer Science","Fall 2019",167,158,4.5,325,115,"IIT Madras","Computer Science",8,0,0
+"203","University of Michigan, Ann Arbor","Reject","Civil Engineering","Fall 2019",168,147,4,315,102,"IIT Madras","Civil Engineering",8.29,0,0
+"204","Georgia Institute of Technology","Admit","AI_ML_DS","Fall 2018",168,160,4,328,111,"IIT Madras","Mechanical Engineering",7.38,0,0
+"205","University of California, Los Angeles","Admit","Business Studies","Fall 2020",170,151,3.5,321,106,"IIT Madras","Mechanical Engineering",7.88,0,0
+"206","State University of New York, Buffalo","Admit","Civil Engineering","Fall 2017",167,145,3,312,97,"IIT Madras","Civil Engineering",8.15,0,0
+"207","University of Illinois, Urbana Champaign","Reject","Civil Engineering","Fall 2018",170,149,3.5,319,99,"IIT Madras","Civil Engineering",7.98,0,0
+"208","Pennsylvania State University","Admit","Computer Science","Fall 2019",167,158,4.5,325,115,"IIT Madras","Computer Science",8,0,0
+"209","Stanford University","Reject","Electrical Engineering","Fall 2018",169,163,4,332,110,"IIT Madras","Electrical Engineering",9.25,0,0
+"210","Texas A&M University, College Station","Admit","Biomedical Engineering","Fall 2018",170,156,4,326,111,"IIT Madras","Biotechnology",8.23,0,0
+"211","New York University","Admit","Computer Science","Fall 2019",167,158,4.5,325,115,"IIT Madras","Computer Science",8,0,0
+"212","University of California, San Diego","Admit","Computer Science","Fall 2018",170,154,4,324,100,"IIT Madras","Electrical Engineering",8.73,0,0
+"213","New York University","Reject","Computer Science","Fall 2018",170,161,4,331,112,"IIT Madras","Electrical Engineering",8,0,0
+"214","New York University","Admit","Mechanical Engineering","Fall 2020",169,159,3.5,328,113,"IIT Madras","Chemical Engineering",6.9,1,17
+"215","State University of New York, Buffalo","Admit","Computer Science","Fall 2017",167,150,4,317,96,"IIT Madras","Mechanical Engineering",7.35,0,18
+"216","State University of New York, Stony Brook","Admit","Computer Science","Fall 2019",170,148,3.5,318,103,"IIT Madras","Electrical Engineering",7.45,0,17
+"217","University of Florida, Gainesville","Reject","Computer Science","Fall 2017",167,150,4,317,96,"IIT Madras","Mechanical Engineering",7.35,0,18
+"218","University of Texas, Austin","Reject","Civil Engineering","Fall 2019",168,147,4,315,102,"IIT Madras","Civil Engineering",8.29,0,0
+"219","Georgia Institute of Technology","Admit","Civil Engineering","Fall 2020",170,151,3,321,96,"IIT Madras","Civil Engineering",8,0,17
+"220","Carnegie Mellon University","Reject","Computer Science","Fall 2019",170,151,3.5,321,111,"IIT Madras","Computer Science",9.07,0,0
+"221","Indiana University, Bloomington","Admit","AI_ML_DS","Fall 2020",166,152,3.5,318,108,"IIT Madras","Mechanical Engineering",8.27,0,0
+"222","University of Illinois, Urbana Champaign","Reject","Mechanical Engineering","Fall 2017",168,159,3,327,108,"IIT Madras","Mechanical Engineering",8.53,0,18
+"223","University of Minnesota, Twin Cities","Admit","Computer Science","Fall 2017",168,166,4,334,110,"IIT Madras","Computer Science",8.99,0,0
+"224","University of Texas, Dallas","Admit","Computer Science","Fall 2018",161,148,3.5,309,93,"IIT Madras","Electrical Engineering",6.35,0,42
+"225","University of California, Berkeley","Reject","Computer Science","Fall 2020",166,152,3.5,318,108,"IIT Madras","Mechanical Engineering",8.27,0,0
+"226","Nanyang Technological University","Admit","Business Studies","Fall 2020",170,152,3.5,322,107,"IIT Madras","Civil Engineering",7.6,0,29
+"227","University of British Columbia","Reject","Civil Engineering","Fall 2017",168,159,4.5,327,116,"IIT Madras","Civil Engineering",8.42,0,0
+"228","University of Southern California","Reject","Computer Science","Fall 2019",164,150,3.5,314,93,"IIT Madras","Electrical Engineering",7.1,0,16
+"229","University of Wisconsin, Madison","Admit","Mechanical Engineering","Fall 2020",170,151,4,321,110,"IIT Madras","Mechanical Engineering",8.32,1,0
+"230","University of Illinois, Urbana Champaign","Reject","Computer Science","Fall 2017",170,165,4.5,335,115,"IIT Madras","Computer Science",8.56,0,18
+"231","University of Massachusetts, Amherst","Reject","Computer Science","Fall 2019",169,154,3.5,323,101,"IIT Madras","Computer Science",6.96,1,43
+"232","Arizona State University","Admit","Computer Science","Fall 2018",165,165,4,330,114,"IIT Madras","Metallurgical Engineering",7.6,1,11
+"233","University of Illinois, Urbana Champaign","Reject","Civil Engineering","Fall 2018",170,159,4,329,116,"IIT Madras","Civil Engineering",8.38,0,0
+"234","Carnegie Mellon University","Reject","AI_ML_DS","Fall 2017",168,159,3,327,108,"IIT Madras","Mechanical Engineering",8.53,0,18
+"235","University of California, San Diego","Admit","Computer Science","Fall 2018",169,163,4,332,110,"IIT Madras","Electrical Engineering",9.25,0,0
+"236","University of Washington","Reject","Environmental Engineering","Fall 2018",170,158,4,328,110,"IIT Madras","Civil Engineering",8.22,0,0
+"237","University of Michigan, Ann Arbor","Reject","Materials Science & Engineering","Fall 2018",167,161,5,328,117,"IIT Madras","Metallurgical Engineering",7.81,0,0
+"238","North Carolina State University","Admit","Electrical Engineering","Fall 2016",163,155,3.5,318,109,"IIT Madras","Electrical Engineering",6.99,0,0
+"239","State University of New York, Buffalo","Admit","Computer Science","Fall 2019",164,150,3.5,314,93,"IIT Madras","Electrical Engineering",7.1,0,16
+"240","University of Texas, Austin","Admit","Civil Engineering","Fall 2018",170,159,4,329,116,"IIT Madras","Civil Engineering",8.38,0,0
+"241","Columbia University","Admit","Management Studies","Fall 2018",170,162,3.5,332,111,"IIT Madras","Metallurgical Engineering",8.76,0,0
+"242","University of Texas, Dallas","Admit","Business Studies","Fall 2018",168,143,4,311,93,"IIT Madras","Civil Engineering",8.12,0,14
+"243","Georgia Institute of Technology","Admit","Business Studies","Fall 2019",168,152,3.5,320,106,"IIT Madras","Electrical Engineering",7.2,0,0
+"244","University of Illinois, Urbana Champaign","Admit","Mechanical Engineering","Fall 2017",170,151,3.5,321,107,"IIT Madras","Mechanical Engineering",8.75,0,0
+"245","Carnegie Mellon University","Reject","AI_ML_DS","Fall 2020",170,151,4,321,110,"IIT Madras","Mechanical Engineering",8.32,1,0
+"246","Columbia University","Reject","Computer Science","Fall 2019",170,151,3.5,321,111,"IIT Madras","Computer Science",9.07,0,0
+"247","University of British Columbia","Admit","Mechanical Engineering","Fall 2019",168,165,4,333,119,"IIT Madras","Mechanical Engineering",8.1,0,0
+"248","Boston University","Reject","Computer Science","Fall 2019",170,151,3.5,321,111,"IIT Madras","Computer Science",9.07,0,0
+"249","Iowa State University","Admit","Aerospace Engineering","Spring 2015",166,159,3,325,111,"IIT Madras","Aeronautical Engineering",7.53,0,0
+"250","University of Texas, Austin","Reject","Civil Engineering","Fall 2018",170,149,3.5,319,99,"IIT Madras","Civil Engineering",7.98,0,0
+"251","Carnegie Mellon University","Reject","Business Studies","Fall 2020",170,152,3.5,322,107,"IIT Madras","Civil Engineering",7.6,0,29
+"252","Massachusetts Institute of Technology","Reject","Business Studies","Fall 2020",169,152,3,321,110,"IIT Madras","Civil Engineering",8.72,0,27
+"253","Georgia Institute of Technology","Admit","AI_ML_DS","Fall 2017",168,156,4,324,111,"IIT Madras","Aeronautical Engineering",8.53,0,33
+"254","University of Colorado, Boulder","Admit","Computer Science","Fall 2019",164,150,3.5,314,93,"IIT Madras","Electrical Engineering",7.1,0,16
+"255","Dartmouth College","Reject","Management Studies","Fall 2017",165,151,3.5,316,100,"IIT Madras","Mechanical Engineering",8,0,16
+"256","University of Maryland, College Park","Reject","Computer Science","Fall 2019",164,150,3.5,314,93,"IIT Madras","Electrical Engineering",7.1,0,16
+"257","Stanford University","Reject","Electrical Engineering","Fall 2019",168,160,4.5,328,115,"IIT Madras","Chemical Engineering",9.15,0,0
+"258","University of California, Santa Cruz","Reject","Computer Science","Fall 2019",170,158,4,328,107,"IIT Madras","Electrical Engineering",7.4,0,29
+"259","North Carolina State University","Reject","Electrical Engineering","Fall 2018",167,155,3.5,322,104,"IIT Madras","Electrical Engineering",8.4,0,0
+"260","University of Maryland, College Park","Admit","Transportation Engineering","Fall 2018",170,149,3.5,319,99,"IIT Madras","Civil Engineering",7.98,0,0
+"261","University of Warwick","Admit","Business Studies","Fall 2020",169,159,3.5,328,113,"IIT Madras","Chemical Engineering",6.9,1,17
+"262","Columbia University","Admit","Electrical Engineering","Fall 2018",169,155,4,324,111,"IIT Madras","Electrical Engineering",8.48,0,0
+"263","University of California, Los Angeles","Reject","Computer Science","Fall 2018",170,154,4,324,100,"IIT Madras","Electrical Engineering",8.73,0,0
+"264","University of Texas, Dallas","Admit","Business Studies","Fall 2019",167,150,4,317,105,"IIT Madras","Mechanical Engineering",8.26,0,40
+"265","North Carolina State University","Reject","AI_ML_DS","Fall 2017",168,156,4,324,111,"IIT Madras","Aeronautical Engineering",8.53,0,33
+"266","University of Colorado, Boulder","Admit","Computer Science","Fall 2018",169,159,4,328,116,"IIT Madras","Biotechnology",8.1,0,32
+"267","Columbia University","Admit","AI_ML_DS","Fall 2020",169,150,3.5,319,106,"IIT Madras","Electrical Engineering",7.8,0,6
+"268","University of Texas, Dallas","Admit","Computer Science","Fall 2019",164,150,3.5,314,93,"IIT Madras","Electrical Engineering",7.1,0,16
+"269","University of Pennsylvania","Reject","Computer Science","Fall 2020",169,159,4,328,116,"IIT Kanpur","Computer Science",9.3,0,19
+"270","State University of New York, Stony Brook","Admit","Computer Science","Fall 2020",170,163,4,333,114,"IIT Kanpur","Metallurgical Engineering",6.1,0,19
+"271","Georgia Institute of Technology","Reject","Computer Science","Fall 2019",170,160,3.5,330,108,"IIT Kanpur","Electrical Engineering",9,1,17
+"272","University of Illinois, Urbana Champaign","Reject","Computer Science","Fall 2018",169,155,3.5,324,113,"IIT Kanpur","Computer Science",8.4,0,17
+"273","Columbia University","Admit","Business Studies","Fall 2019",170,157,4.5,327,116,"IIT Kanpur","Mechanical Engineering",8.6,0,17
+"274","University of Southern California","Reject","Computer Science","Fall 2016",168,148,3.5,316,101,"IIT Kanpur","Electrical Engineering",7.2,0,0
+"275","University of Texas, Austin","Reject","Computer Science","Fall 2020",170,162,4.5,332,111,"IIT Kanpur","Mathematics",8.1,0,29
+"276","State University of New York, Stony Brook","Admit","Computer Science","Fall 2020",170,159,4,329,110,"IIT Kanpur","Computer Science",7.5,0,0
+"277","Texas A&M University, College Station","Admit","Computer Science","Fall 2020",169,155,3,324,102,"IIT Kanpur","Electrical Engineering",8.2,0,18
+"278","Texas A&M University, College Station","Reject","Computer Science","Fall 2016",168,148,3.5,316,101,"IIT Kanpur","Electrical Engineering",7.2,0,0
+"279","Carnegie Mellon University","Admit","Computer Science","Fall 2019",170,160,3.5,330,108,"IIT Kanpur","Electrical Engineering",9,1,17
+"280","Georgia Institute of Technology","Reject","Computer Science","Fall 2020",170,162,4.5,332,111,"IIT Kanpur","Mathematics",8.1,0,29
+"281","University of Michigan, Ann Arbor","Admit","Computer Science","Fall 2019",170,160,3.5,330,108,"IIT Kanpur","Electrical Engineering",9,1,17
+"282","University of Texas, Austin","Reject","Computer Science","Fall 2018",169,155,3.5,324,113,"IIT Kanpur","Computer Science",8.4,0,17
+"283","University of Houston","Reject","Computer Science","Fall 2016",168,148,3.5,316,101,"IIT Kanpur","Electrical Engineering",7.2,0,0
+"284","Harvard University","Reject","AI_ML_DS","Fall 2020",169,159,4,328,116,"IIT Kanpur","Computer Science",9.3,0,19
+"285","University of California, Irvine","Admit","Computer Science","Fall 2020",170,155,3.5,325,102,"IIT Kanpur","Electrical Engineering",8.4,0,0
+"286","Columbia University","Admit","Computer Science","Fall 2020",170,162,4.5,332,111,"IIT Kanpur","Mathematics",8.1,0,29
+"287","University of California, San Diego","Reject","Computer Science","Fall 2020",170,162,4.5,332,111,"IIT Kanpur","Mathematics",8.1,0,29
+"288","New York University","Admit","Computer Science","Fall 2020",170,148,3,318,111,"IIT Kanpur","Electrical Engineering",8.1,0,17
+"289","University of Alberta","Reject","Computer Science","Fall 2020",170,159,4,329,110,"IIT Kanpur","Computer Science",7.5,0,0
+"290","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2020",169,159,4,328,116,"IIT Kanpur","Computer Science",9.3,0,19
+"291","Georgia Institute of Technology","Reject","Computer Science","Fall 2020",170,155,3.5,325,102,"IIT Kanpur","Electrical Engineering",8.4,0,0
+"292","University of Maryland, College Park","Admit","AI_ML_DS","Fall 2018",163,155,3.5,318,105,"IIT Kanpur","Aeronautical Engineering",8.7,0,0
+"293","University of Florida, Gainesville","Admit","Computer Science","Fall 2016",168,148,3.5,316,101,"IIT Kanpur","Electrical Engineering",7.2,0,0
+"294","ETH Zurich","Reject","AI_ML_DS","Fall 2020",168,163,4,331,109,"IIT Kanpur","Electrical Engineering",8.3,0,0
+"295","University of Wisconsin, Madison","Admit","Computer Science","Fall 2019",168,157,4.5,325,104,"IIT Kanpur","Electrical Engineering",9.3,0,0
+"296","Michigan Technological University","Admit","Mechanical Engineering","Fall 2018",160,153,3,313,107,"IIT Kanpur","Mechanical Engineering",9.22,0,0
+"297","University of Illinois, Urbana Champaign","Reject","Computer Science","Fall 2017",170,154,3.5,324,110,"IIT Kanpur","Electrical Engineering",8,0,0
+"298","Purdue University, West Lafayette","Admit","Computer Science","Fall 2020",169,155,3,324,102,"IIT Kanpur","Electrical Engineering",8.2,0,18
+"299","State University of New York, Buffalo","Admit","Civil Engineering","Fall 2018",169,157,4.5,326,107,"IIT Kanpur","Civil Engineering",7,0,0
+"300","Pennsylvania State University","Admit","Computer Science","Fall 2020",170,148,3,318,111,"IIT Kanpur","Electrical Engineering",8.1,0,17
+"301","Georgia Institute of Technology","Admit","Computer Science","Fall 2018",168,157,3.5,325,110,"IIT Kanpur","Computer Science",7.5,0,0
+"302","University of Maryland, College Park","Reject","Computer Science","Fall 2020",170,155,3.5,325,102,"IIT Kanpur","Electrical Engineering",8.4,0,0
+"303","Texas A&M University, College Station","Admit","Computer Science","Fall 2019",170,152,3,322,104,"IIT Kanpur","Electrical Engineering",8.5,1,31
+"304","McGill University","Reject","Computer Science","Fall 2020",170,162,4.5,332,111,"IIT Kanpur","Mathematics",8.1,0,29
+"305","University of California, San Diego","Admit","Computer Science","Fall 2019",170,160,3.5,330,108,"IIT Kanpur","Electrical Engineering",9,1,17
+"306","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2018",169,155,3.5,324,113,"IIT Kanpur","Computer Science",8.4,0,17
+"307","NYU Tandon School of Engineering","Admit","Computer Science","Spring 2020",166,162,4.5,328,116,"IIT Kanpur","Electrical Engineering",8,0,0
+"308","Carnegie Mellon University","Reject","Computer Science","Fall 2019",170,152,3,322,104,"IIT Kanpur","Electrical Engineering",8.5,1,31
+"309","University of Texas, Dallas","Admit","Business Studies","Fall 2019",168,154,3.5,322,100,"IIT Kanpur","Civil Engineering",5.9,0,0
+"310","University of Maryland, College Park","Admit","Civil Engineering","Fall 2018",169,157,4.5,326,107,"IIT Kanpur","Civil Engineering",7,0,0
+"311","University of Minnesota, Twin Cities","Reject","AI_ML_DS","Fall 2016",168,148,3.5,316,101,"IIT Kanpur","Electrical Engineering",7.2,0,0
+"312","University of Maryland, College Park","Reject","Computer Science","Fall 2020",170,162,4.5,332,111,"IIT Kanpur","Mathematics",8.1,0,29
+"313","University of California, Los Angeles","Admit","Computer Science","Fall 2020",170,155,3.5,325,102,"IIT Kanpur","Electrical Engineering",8.4,0,0
+"314","ETH Zurich","Reject","AI_ML_DS","Fall 2020",170,162,4.5,332,111,"IIT Kanpur","Mathematics",8.1,0,29
+"315","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2020",170,155,3.5,325,102,"IIT Kanpur","Electrical Engineering",8.4,0,0
+"316","Carnegie Mellon University","Reject","AI_ML_DS","Fall 2020",170,159,4,329,110,"IIT Kanpur","Computer Science",7.5,0,0
+"317","University of Massachusetts, Amherst","Reject","Computer Science","Fall 2020",170,159,4,329,110,"IIT Kanpur","Computer Science",7.5,0,0
+"318","University of Wisconsin, Madison","Admit","Computer Science","Fall 2017",170,153,3.5,323,105,"IIT Kanpur","Electrical Engineering",8.9,0,0
+"319","Stanford University","Admit","AI_ML_DS","Fall 2020",169,159,4,328,116,"IIT Kanpur","Computer Science",9.3,0,19
+"320","University of Cincinnati","Admit","Business Studies","Fall 2018",164,155,3,319,103,"IIT Kanpur","Mechanical Engineering",7.7,0,0
+"321","San Jose State University","Admit","Computer Science","Fall 2020",168,159,4,327,110,"IIT Kanpur","Computer Science",6.7,0,43
+"322","Pennsylvania State University","Admit","Electrical Engineering","Fall 2017",170,154,3.5,324,110,"IIT Kanpur","Electrical Engineering",8,0,0
+"323","Carnegie Mellon University","Reject","AI_ML_DS","Fall 2018",169,155,3.5,324,113,"IIT Kanpur","Computer Science",8.4,0,17
+"324","Texas A&M University, College Station","Admit","Computer Science","Fall 2020",170,148,3,318,111,"IIT Kanpur","Electrical Engineering",8.1,0,17
+"325","McGill University","Reject","Computer Science","Fall 2018",169,155,3.5,324,113,"IIT Kanpur","Computer Science",8.4,0,17
+"326","Purdue University, West Lafayette","Admit","Business Studies","Fall 2019",168,154,3.5,322,100,"IIT Kanpur","Civil Engineering",5.9,0,0
+"327","University of Minnesota, Twin Cities","Admit","Mechanical Engineering","Fall 2018",160,153,3,313,107,"IIT Kanpur","Mechanical Engineering",9.22,0,0
+"328","University of Wisconsin, Madison","Reject","Electrical Engineering","Fall 2017",168,151,3.5,319,107,"IIT Kanpur","Electrical Engineering",8.6,0,0
+"329","University of Wisconsin, Madison","Reject","Computer Science","Fall 2020",169,159,4,328,116,"IIT Kanpur","Computer Science",9.3,0,19
+"330","University of Wisconsin, Madison","Reject","Computer Science","Fall 2019",170,152,3,322,104,"IIT Kanpur","Electrical Engineering",8.5,1,31
+"331","Carnegie Mellon University","Reject","AI_ML_DS","Fall 2018",163,155,3.5,318,105,"IIT Kanpur","Aeronautical Engineering",8.7,0,0
+"332","University of Massachusetts, Amherst","Reject","Computer Science","Fall 2020",170,162,4.5,332,111,"IIT Kanpur","Mathematics",8.1,0,29
+"333","University of California, San Diego","Reject","Computer Science","Fall 2018",169,155,3.5,324,113,"IIT Kanpur","Computer Science",8.4,0,17
+"334","Johns Hopkins University","Admit","AI_ML_DS","Fall 2020",168,166,4,334,117,"IIT Kanpur","Electrical Engineering",8.9,0,17
+"335","Columbia University","Admit","Computer Science","Fall 2020",169,159,4,328,116,"IIT Kanpur","Computer Science",9.3,0,19
+"336","Cornell University","Reject","Mechanical Engineering","Fall 2018",160,153,3,313,107,"IIT Kanpur","Mechanical Engineering",9.22,0,0
+"337","University of Toronto","Reject","Computer Science","Fall 2020",170,162,4.5,332,111,"IIT Kanpur","Mathematics",8.1,0,29
+"338","University of California, San Diego","Admit","Computer Science","Fall 2019",168,157,4.5,325,104,"IIT Kanpur","Electrical Engineering",9.3,0,0
+"339","Georgia Institute of Technology","Reject","Computer Science","Fall 2017",170,154,3.5,324,110,"IIT Kanpur","Electrical Engineering",8,0,0
+"340","University of California, San Diego","Reject","Computer Science","Fall 2018",170,155,3,325,106,"IIT Kanpur","Electrical Engineering",7.8,0,17
+"341","University of California, Irvine","Reject","Computer Science","Fall 2018",170,155,3,325,106,"IIT Kanpur","Electrical Engineering",7.8,0,17
+"342","Rice University","Admit","Chemical Engineering","Fall 2019",170,152,4,322,110,"IIT Kanpur","Chemical Engineering",8.9,0,0
+"343","North Carolina State University","Admit","Computer Science","Fall 2020",169,155,4,324,109,"IIT Kharagpur","Electrical Engineering",8.26,0,18
+"344","Columbia University","Admit","Computer Science","Fall 2020",170,154,4.5,324,112,"IIT Kharagpur","Electrical Engineering",9.1,2,0
+"345","University of Illinois, Urbana Champaign","Reject","Computer Science","Fall 2020",170,146,3,316,100,"IIT Kharagpur","Electrical Engineering",8.21,0,29
+"346","Arizona State University","Admit","Computer Science","Fall 2020",165,150,4,315,109,"IIT Kharagpur","Mining Engineering",7.5,0,20
+"347","University of California, Irvine","Admit","Computer Science","Fall 2020",169,153,3,322,98,"IIT Kharagpur","Electrical Engineering",9.04,0,18
+"348","Georgia State University","Admit","AI_ML_DS","Fall 2020",170,149,3,319,100,"IIT Kharagpur","Civil Engineering",6.85,0,66
+"349","Carnegie Mellon University","Admit","Computer Science","Fall 2019",170,160,5.5,330,115,"IIT Kharagpur","Computer Science",9.6,0,0
+"350","University of Colorado, Boulder","Admit","Mechanical Engineering","Fall 2020",168,158,3.5,326,110,"IIT Kharagpur","Aeronautical Engineering",8.35,0,0
+"351","University of California, Berkeley","Reject","Computer Science","Fall 2019",167,152,3,319,104,"IIT Kharagpur","Mechanical Engineering",7.83,0,30
+"352","University of Florida, Gainesville","Reject","Computer Science","Fall 2018",166,146,3,312,90,"IIT Kharagpur","Computer Science",7.39,0,0
+"353","Texas A&M University, College Station","Admit","Mechanical Engineering","Fall 2018",168,166,4,334,116,"IIT Kharagpur","Mechanical Engineering",7.85,0,41
+"354","University of Southern California","Reject","Computer Science","Fall 2019",170,154,4,324,112,"IIT Kharagpur","Computer Science",8.27,0,54
+"355","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2019",170,159,4.5,329,111,"IIT Kharagpur","Electrical Engineering",8.43,0,17
+"356","Indiana University, Bloomington","Admit","Computer Science","Fall 2020",168,153,4,321,102,"IIT Kharagpur","Aeronautical Engineering",7.71,0,42
+"357","Vanderbilt University","Reject","Mechanical Engineering","Fall 2019",170,149,4,319,107,"IIT Kharagpur","Metallurgical Engineering",7,0,0
+"358","Carnegie Mellon University","Reject","AI_ML_DS","Fall 2018",157,170,4,327,117,"IIT Kharagpur","Mechanical Engineering",8.44,0,19
+"359","Purdue University, West Lafayette","Admit","Business Studies","Fall 2019",168,152,3.5,320,103,"IIT Kharagpur","Chemistry",7.25,0,0
+"360","University of Texas, Austin","Admit","Computer Science","Fall 2019",170,157,4,327,116,"IIT Kharagpur","Mechanical Engineering",7,0,0
+"361","Cornell University","Reject","Computer Science","Fall 2019",167,152,3,319,104,"IIT Kharagpur","Mechanical Engineering",7.83,0,30
+"362","University of Michigan, Ann Arbor","Reject","Mechanical Engineering","Fall 2020",170,147,3.5,317,103,"IIT Kharagpur","Mechanical Engineering",7.3,0,0
+"363","Columbia University","Reject","Computer Science","Fall 2018",169,155,4,324,100,"IIT Kharagpur","Mechanical Engineering",8.48,0,0
+"364","University of Illinois, Urbana Champaign","Reject","Computer Science","Fall 2018",169,155,4,324,100,"IIT Kharagpur","Mechanical Engineering",8.48,0,0
+"365","Purdue University, West Lafayette","Reject","Computer Science","Fall 2019",167,152,3,319,104,"IIT Kharagpur","Mechanical Engineering",7.83,0,30
+"366","Pennsylvania State University","Admit","Computer Science","Fall 2020",170,146,3,316,100,"IIT Kharagpur","Electrical Engineering",8.21,0,29
+"367","Carnegie Mellon University","Admit","Mechanical Engineering","Fall 2020",160,148,4,308,107,"IIT Kharagpur","Mechanical Engineering",8.46,0,0
+"368","McGill University","Reject","Chemical Engineering","Fall 2020",169,155,4.5,324,117,"IIT Kharagpur","Chemical Engineering",9.16,0,3
+"369","University of Texas, Dallas","Admit","Computer Science","Fall 2017",168,151,4,319,98,"IIT Kharagpur","Mechanical Engineering",6.71,0,0
+"370","New York University","Admit","Computer Science","Fall 2018",167,150,3,317,99,"IIT Kharagpur","Computer Science",8.24,0,0
+"371","University of Massachusetts, Amherst","Reject","Computer Science","Fall 2018",166,146,3,312,90,"IIT Kharagpur","Computer Science",7.39,0,0
+"372","University of Virginia","Reject","Computer Science","Fall 2019",167,152,3,319,104,"IIT Kharagpur","Mechanical Engineering",7.83,0,30
+"373","University of California, Santa Barbara","Admit","Computer Science","Fall 2019",169,155,3,324,101,"IIT Kharagpur","Computer Science",8.44,0,0
+"374","Virginia Tech University","Admit","Computer Science","Fall 2019",169,152,4,321,118,"IIT Kharagpur","Electrical Engineering",8.86,1,0
+"375","University of Southern California","Admit","Electrical Engineering","Fall 2019",169,159,4.5,328,117,"IIT Kharagpur","Electrical Engineering",9.82,0,2
+"376","University of Wisconsin, Madison","Admit","Computer Science","Fall 2017",170,152,3.5,322,107,"IIT Kharagpur","Electrical Engineering",8.8,0,0
+"377","University of Minnesota, Twin Cities","Reject","Computer Science","Fall 2017",170,152,3.5,322,107,"IIT Kharagpur","Electrical Engineering",8.8,0,0
+"378","University of South Dakota","Admit","Computer Science","Fall 2020",165,150,4,315,109,"IIT Kharagpur","Mining Engineering",7.5,0,20
+"379","Duke University","Admit","Management Studies","Fall 2018",169,159,4.5,328,110,"IIT Kharagpur","Mechanical Engineering",8.94,0,0
+"380","New York University","Admit","Computer Science","Fall 2019",170,159,4.5,329,111,"IIT Kharagpur","Electrical Engineering",8.43,0,17
+"381","Purdue University, West Lafayette","Reject","Mechanical Engineering","Fall 2020",170,147,3.5,317,103,"IIT Kharagpur","Mechanical Engineering",7.3,0,0
+"382","University of Pennsylvania","Admit","AI_ML_DS","Fall 2019",170,155,3.5,325,101,"IIT Kharagpur","Electrical Engineering",9.02,0,0
+"383","University of Texas, Dallas","Admit","Computer Science","Fall 2018",167,150,3,317,99,"IIT Kharagpur","Computer Science",8.24,0,0
+"384","Purdue University, West Lafayette","Reject","Mechanical Engineering","Fall 2019",169,155,4,324,106,"IIT Kharagpur","Mechanical Engineering",7.46,0,0
+"385","University of California, San Diego","Reject","Computer Science","Fall 2020",167,155,3.5,322,110,"IIT Kharagpur","Computer Science",8.8,0,0
+"386","Arizona State University","Admit","Electrical Engineering","Fall 2018",165,159,4,324,117,"IIT Kharagpur","Electrical Engineering",9.15,0,0
+"387","University of Southern California","Reject","Mechanical Engineering","Fall 2020",170,147,3.5,317,103,"IIT Kharagpur","Mechanical Engineering",7.3,0,0
+"388","Columbia University","Reject","AI_ML_DS","Fall 2019",170,158,3,328,106,"IIT Kharagpur","Mechanical Engineering",8.17,0,30
+"389","Oregon State University","Reject","AI_ML_DS","Fall 2019",165,154,3.5,319,105,"IIT Kharagpur","Aeronautical Engineering",7.24,0,0
+"390","University of Washington","Reject","AI_ML_DS","Fall 2019",169,152,4,321,118,"IIT Kharagpur","Electrical Engineering",8.86,1,0
+"391","University of Washington","Admit","Mechanical Engineering","Fall 2019",170,149,4,319,107,"IIT Kharagpur","Metallurgical Engineering",7,0,0
+"392","Columbia University","Reject","AI_ML_DS","Fall 2019",168,154,3.5,322,108,"IIT Kharagpur","Mechanical Engineering",8.08,0,18
+"393","University of Wisconsin, Madison","Reject","Computer Science","Fall 2019",169,155,3,324,101,"IIT Kharagpur","Computer Science",8.44,0,0
+"394","Carnegie Mellon University","Admit","Computer Science","Fall 2018",167,160,4.5,327,114,"IIT Kharagpur","Electrical Engineering",8.5,0,0
+"395","Texas A&M University, College Station","Admit","Mechanical Engineering","Fall 2019",169,150,4,319,104,"IIT Kharagpur","Aeronautical Engineering",8.87,0,0
+"396","Carnegie Mellon University","Reject","Computer Science","Fall 2019",170,154,4,324,112,"IIT Kharagpur","Computer Science",8.27,0,54
+"397","Georgia Institute of Technology","Reject","Computer Science","Fall 2020",170,146,3,316,100,"IIT Kharagpur","Electrical Engineering",8.21,0,29
+"398","Oregon State University","Reject","AI_ML_DS","Fall 2019",170,157,4,327,109,"IIT Kharagpur","Mechanical Engineering",9.4,0,0
+"399","Rice University","Admit","Electrical Engineering","Fall 2016",166,161,4,327,109,"IIT Kharagpur","Electrical Engineering",8,0,0
+"400","University of Illinois, Urbana Champaign","Reject","Mechanical Engineering","Fall 2018",168,166,4,334,116,"IIT Kharagpur","Mechanical Engineering",7.85,0,41
+"401","University of Minnesota, Twin Cities","Reject","AI_ML_DS","Fall 2019",170,155,4,325,110,"IIT Kharagpur","Computer Science",7.56,0,15
+"402","Massachusetts Institute of Technology","Reject","Mechanical Engineering","Fall 2018",168,166,4,334,116,"IIT Kharagpur","Mechanical Engineering",7.85,0,41
+"403","University of Texas, Austin","Reject","Business Studies","Fall 2019",168,152,3.5,320,103,"IIT Kharagpur","Chemistry",7.25,0,0
+"404","University of California, Berkeley","Reject","Computer Science","Fall 2019",170,160,5.5,330,115,"IIT Kharagpur","Computer Science",9.6,0,0
+"405","University of Southern California","Reject","Computer Science","Fall 2019",169,156,4,325,105,"IIT Kharagpur","Agriculture",7.58,0,10
+"406","University of California, San Diego","Admit","AI_ML_DS","Fall 2019",169,152,4,321,118,"IIT Kharagpur","Electrical Engineering",8.86,1,0
+"407","Columbia University","Reject","AI_ML_DS","Fall 2019",170,154,4,324,112,"IIT Kharagpur","Mathematics",7.38,0,18
+"408","Worcester Polytechnic Institute","Admit","AI_ML_DS","Fall 2019",170,157,4,327,109,"IIT Kharagpur","Mechanical Engineering",9.4,0,0
+"409","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2019",169,152,4,321,118,"IIT Kharagpur","Electrical Engineering",8.86,1,0
+"410","University of Toronto","Admit","Computer Science","Fall 2018",170,157,3.5,327,109,"IIT Kharagpur","Biotechnology",9.29,0,0
+"411","Carnegie Mellon University","Reject","AI_ML_DS","Fall 2019",169,155,3,324,101,"IIT Kharagpur","Computer Science",8.44,0,0
+"412","University of California, Irvine","Admit","Computer Science","Fall 2019",170,155,4,325,110,"IIT Kharagpur","Computer Science",7.56,0,15
+"413","University of California, San Diego","Admit","Computer Science","Fall 2019",168,160,4.5,328,112,"IIT Kharagpur","Electrical Engineering",9.13,0,1
+"414","Columbia University","Reject","Mechanical Engineering","Fall 2018",168,166,4,334,116,"IIT Kharagpur","Mechanical Engineering",7.85,0,41
+"415","University of Texas, Austin","Reject","Mechanical Engineering","Fall 2020",170,147,3.5,317,103,"IIT Kharagpur","Mechanical Engineering",7.3,0,0
+"416","University of Illinois, Urbana Champaign","Admit","Management Studies","Fall 2019",170,146,0,316,105,"IIT Kharagpur","Electrical Engineering",7.7,0,30
+"417","Carnegie Mellon University","Reject","Computer Science","Fall 2020",169,155,4,324,109,"IIT Kharagpur","Electrical Engineering",8.26,0,18
+"418","University of Texas, Dallas","Admit","Computer Science","Fall 2018",169,155,3,324,109,"IIT Kharagpur","Civil Engineering",7.84,0,53
+"419","University of Texas, Austin","Reject","Computer Science","Fall 2019",170,154,4,324,112,"IIT Kharagpur","Computer Science",8.27,0,54
+"420","University of Minnesota, Twin Cities","Admit","Computer Science","Fall 2017",165,156,4,321,112,"IIT Kharagpur","Electrical Engineering",8.13,0,0
+"421","ETH Zurich","Reject","Computer Science","Fall 2020",167,155,3.5,322,110,"IIT Kharagpur","Computer Science",8.8,0,0
+"422","Ohio State University","Reject","Computer Science","Fall 2020",168,153,4,321,102,"IIT Kharagpur","Aeronautical Engineering",7.71,0,42
+"423","University of Illinois, Urbana Champaign","Reject","Computer Science","Fall 2020",169,155,4,324,109,"IIT Kharagpur","Electrical Engineering",8.26,0,18
+"424","University of California, Davis","Reject","Computer Science","Fall 2019",167,152,3,319,104,"IIT Kharagpur","Mechanical Engineering",7.83,0,30
+"425","Pennsylvania State University","Admit","Chemical Engineering","Fall 2017",164,150,4.5,314,105,"IIT Kharagpur","Chemical Engineering",8.81,0,0
+"426","Georgia Institute of Technology","Reject","Mechanical Engineering","Fall 2020",168,158,3.5,326,110,"IIT Kharagpur","Aeronautical Engineering",8.35,0,0
+"427","North Carolina State University","Admit","Mechanical Engineering","Fall 2018",168,166,4,334,116,"IIT Kharagpur","Mechanical Engineering",7.85,0,41
+"428","University of Minnesota, Twin Cities","Admit","Business Studies","Fall 2019",168,152,3.5,320,103,"IIT Kharagpur","Chemistry",7.25,0,0
+"429","University of Illinois, Urbana Champaign","Reject","Aerospace Engineering","Fall 2019",169,150,4,319,104,"IIT Kharagpur","Aeronautical Engineering",8.87,0,0
+"430","Columbia University","Admit","Management Studies","Fall 2018",169,159,4.5,328,110,"IIT Kharagpur","Mechanical Engineering",8.94,0,0
+"431","University of Texas, Austin","Admit","Business Studies","Fall 2019",169,162,4,331,106,"IIT Roorkee","Chemical Engineering",8.57,0,16
+"432","Purdue University, West Lafayette","Reject","Business Studies","Fall 2019",164,155,4,319,110,"IIT Roorkee","Biotechnology",7.48,0,30
+"433","University of Illinois, Chicago","Reject","Computer Science","Fall 2018",165,160,4.5,325,114,"IIT Roorkee","Computer Science",6.65,2,30
+"434","Delft University of Technology","Admit","Mechanical Engineering","Fall 2020",170,166,4.5,336,117,"IIT Roorkee","Mechanical Engineering",8.86,0,6
+"435","New York University","Admit","Computer Science","Fall 2020",168,160,4.5,328,100,"IIT Roorkee","Electrical Engineering",7.61,1,31
+"436","Texas A&M University, College Station","Admit","Mechanical Engineering","Fall 2019",167,156,3,323,104,"IIT Roorkee","Mechanical Engineering",9.18,0,30
+"437","University of Maryland, College Park","Reject","AI_ML_DS","Fall 2019",170,155,3,325,108,"IIT Roorkee","Mechanical Engineering",8.46,0,0
+"438","University of Washington","Admit","Materials Science & Engineering","Fall 2017",169,161,3.5,330,119,"IIT Roorkee","Mechanical Engineering",8.7,0,0
+"439","University of Illinois, Urbana Champaign","Reject","Mechanical Engineering","Fall 2018",167,152,4,319,99,"IIT Roorkee","Mechanical Engineering",5.7,0,0
+"440","Ohio State University","Reject","Computer Science","Fall 2016",169,155,3.5,324,106,"IIT Roorkee","Computer Science",8.19,0,0
+"441","New York University","Admit","Computer Science","Fall 2017",170,155,3,325,110,"IIT Roorkee","Electrical Engineering",7.5,0,0
+"442","Texas A&M University, College Station","Admit","Computer Science","Fall 2020",170,164,4,334,115,"IIT Roorkee","Electrical Engineering",7.71,0,0
+"443","University of California, Riverside","Reject","Computer Science","Fall 2019",167,157,3,324,101,"IIT Roorkee","Computer Science",6.4,1,79
+"444","Arizona State University","Admit","Electrical Engineering","Fall 2016",167,160,4,327,107,"IIT Roorkee","Electrical Engineering",7.8,0,0
+"445","University of California, Irvine","Reject","Computer Science","Fall 2020",170,164,4,334,115,"IIT Roorkee","Electrical Engineering",7.71,0,0
+"446","Georgia Institute of Technology","Reject","Chemical Engineering","Fall 2017",167,155,3,322,106,"IIT Roorkee","Chemical Engineering",8.21,0,13
+"447","Ohio State University","Reject","Computer Science","Fall 2019",167,154,3.5,321,105,"IIT Roorkee","Electrical Engineering",8.5,0,0
+"448","University of Minnesota, Twin Cities","Admit","Computer Science","Fall 2019",169,155,3,324,110,"IIT Roorkee","Electrical Engineering",7.8,0,0
+"449","North Carolina State University","Admit","Mechanical Engineering","Fall 2016",167,162,4,329,115,"IIT Roorkee","Mechanical Engineering",8.89,0,0
+"450","University of Texas, Austin","Reject","Computer Science","Fall 2020",168,160,4.5,328,100,"IIT Roorkee","Electrical Engineering",7.61,1,31
+"451","University of Illinois, Urbana Champaign","Reject","Computer Science","Fall 2019",170,163,3.5,333,112,"IIT Roorkee","Metallurgical Engineering",8.36,0,0
+"452","University of Washington","Reject","AI_ML_DS","Fall 2018",163,157,3.5,320,105,"IIT Roorkee","Mechanical Engineering",7.35,0,16
+"453","University of Wisconsin, Madison","Reject","Computer Science","Fall 2016",170,160,4,330,115,"IIT Roorkee","Electrical Engineering",8.04,0,0
+"454","Carnegie Mellon University","Admit","AI_ML_DS","Fall 2019",170,156,4.5,326,116,"IIT Roorkee","Computer Science",8.78,0,30
+"455","Stanford University","Reject","Computer Science","Fall 2020",168,160,4.5,328,100,"IIT Roorkee","Electrical Engineering",7.61,1,31
+"456","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2019",170,155,3,325,105,"IIT Roorkee","Computer Science",7.45,0,0
+"457","University of California, San Diego","Reject","Computer Science","Fall 2019",167,155,3.5,322,105,"IIT Roorkee","Electrical Engineering",8.55,0,0
+"458","University of Massachusetts, Amherst","Reject","Computer Science","Fall 2020",163,153,4.5,316,114,"IIT Roorkee","Electrical Engineering",7.87,0,0
+"459","New York University","Reject","Computer Science","Fall 2017",170,162,3.5,332,110,"IIT Roorkee","Mechanical Engineering",6.6,0,0
+"460","Pennsylvania State University","Reject","Computer Science","Fall 2020",170,164,4,334,115,"IIT Roorkee","Electrical Engineering",7.71,0,0
+"461","University of Illinois, Urbana Champaign","Reject","Computer Science","Fall 2020",168,163,4,331,118,"IIT Roorkee","Electrical Engineering",8.8,0,29
+"462","University of Texas, Austin","Admit","Computer Science","Fall 2020",170,158,4,328,113,"IIT Roorkee","Computer Science",9.52,0,18
+"463","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2016",170,160,4,330,115,"IIT Roorkee","Electrical Engineering",8.04,0,0
+"464","Columbia University","Admit","Mechanical Engineering","Fall 2016",169,158,4,327,113,"IIT Roorkee","Mechanical Engineering",8,0,0
+"465","University of Massachusetts, Amherst","Reject","Computer Science","Fall 2018",165,160,4.5,325,114,"IIT Roorkee","Computer Science",6.65,2,30
+"466","Virginia Tech University","Reject","Mechanical Engineering","Fall 2016",167,162,4,329,115,"IIT Roorkee","Mechanical Engineering",8.89,0,0
+"467","University of Pennsylvania","Reject","Computer Science","Fall 2019",170,163,3.5,333,112,"IIT Roorkee","Metallurgical Engineering",8.36,0,0
+"468","University of California, San Diego","Reject","Computer Science","Fall 2019",170,163,3.5,333,112,"IIT Roorkee","Metallurgical Engineering",8.36,0,0
+"469","State University of New York, Stony Brook","Admit","Computer Science","Fall 2018",170,155,5,325,118,"IIT Roorkee","Electrical Engineering",7.48,0,18
+"470","University of California, San Diego","Reject","Computer Science","Fall 2020",170,156,5,326,111,"IIT Roorkee","Electrical Engineering",9.53,0,0
+"471","University of Florida, Gainesville","Admit","Materials Science & Engineering","Fall 2017",167,153,4,320,109,"IIT Roorkee","Civil Engineering",9.01,2,0
+"472","University of Wisconsin, Madison","Reject","Computer Science","Fall 2019",169,151,3.5,320,112,"IIT Roorkee","Civil Engineering",8.75,0,18
+"473","Princeton University","Reject","Computer Science","Fall 2020",168,160,4.5,328,100,"IIT Roorkee","Electrical Engineering",7.61,1,31
+"474","Arizona State University","Admit","Computer Science","Fall 2017",170,157,2.5,327,109,"IIT Roorkee","Mechanical Engineering",7.68,0,0
+"475","Stanford University","Admit","Computer Science","Fall 2019",170,159,4,329,111,"IIT Roorkee","Electrical Engineering",9.7,2,19
+"476","Georgia Institute of Technology","Admit","Computer Science","Fall 2019",170,155,4,325,112,"IIT Roorkee","Electrical Engineering",8,0,18
+"477","Ohio State University","Reject","Computer Science","Fall 2019",167,157,3,324,101,"IIT Roorkee","Computer Science",6.4,1,79
+"478","University of Michigan, Ann Arbor","Admit","Mechanical Engineering","Fall 2016",167,162,4,329,115,"IIT Roorkee","Mechanical Engineering",8.89,0,0
+"479","University of Michigan, Dearborn","Reject","Electrical Engineering","Fall 2016",163,145,3,308,89,"IIT Roorkee","Electrical Engineering",5.8,0,0
+"480","University of Pennsylvania","Reject","AI_ML_DS","Fall 2020",169,154,4.5,323,110,"IIT Roorkee","Chemical Engineering",7.89,0,19
+"481","Georgia Institute of Technology","Reject","AI_ML_DS","Fall 2020",169,154,4.5,323,110,"IIT Roorkee","Chemical Engineering",7.89,0,19
+"482","University of California, Berkeley","Reject","Computer Science","Fall 2019",170,159,4,329,111,"IIT Roorkee","Electrical Engineering",9.7,2,19
+"483","Carnegie Mellon University","Reject","AI_ML_DS","Fall 2018",170,150,4,320,100,"IIT Roorkee","Mechanical Engineering",8.47,0,0
+"484","University of California, Irvine","Reject","Computer Science","Fall 2019",170,155,3,325,105,"IIT Roorkee","Computer Science",7.45,0,0
+"485","University of Maryland, College Park","Reject","Computer Science","Fall 2014",167,151,3.5,318,94,"IIT Roorkee","Electrical Engineering",7.39,0,0
+"486","Cornell University","Admit","Materials Science & Engineering","Fall 2017",169,161,3.5,330,119,"IIT Roorkee","Mechanical Engineering",8.7,0,0
+"487","Arizona State University","Admit","Computer Science","Fall 2019",165,159,3.5,324,112,"IIT Roorkee","Electrical Engineering",8.2,0,42
+"488","University of Wisconsin, Madison","Reject","Computer Science","Fall 2020",170,156,3.5,326,108,"IIT Roorkee","Computer Science",9.19,0,19
+"489","Pennsylvania State University","Reject","Electrical Engineering","Fall 2020",170,164,4,334,115,"IIT Roorkee","Electrical Engineering",7.71,0,0
+"490","University of California, Los Angeles","Reject","Mechanical Engineering","Fall 2016",169,158,4,327,113,"IIT Roorkee","Mechanical Engineering",8,0,0
+"491","Purdue University, West Lafayette","Reject","Mechanical Engineering","Fall 2018",167,152,4,319,99,"IIT Roorkee","Mechanical Engineering",5.7,0,0
+"492","Northeastern University","Admit","AI_ML_DS","Fall 2019",164,155,4,319,110,"IIT Roorkee","Biotechnology",7.48,0,30
+"493","Purdue University, West Lafayette","Admit","Mechanical Engineering","Fall 2020",168,152,4.5,320,116,"IIT Roorkee","Mechanical Engineering",8.9,0,31
+"494","Georgia Institute of Technology","Reject","AI_ML_DS","Fall 2019",169,162,4,331,106,"IIT Roorkee","Chemical Engineering",8.57,0,16
+"495","Georgia Institute of Technology","Reject","Computer Science","Fall 2016",169,155,3.5,324,106,"IIT Roorkee","Computer Science",8.19,0,0
+"496","Georgia Institute of Technology","Reject","Materials Science & Engineering","Fall 2017",168,153,4,321,105,"IIT Roorkee","Mechanical Engineering",8.6,1,0
+"497","University of Wisconsin, Madison","Reject","Computer Science","Fall 2019",170,156,4.5,326,116,"IIT Roorkee","Computer Science",8.78,0,30
+"498","University of Florida, Gainesville","Reject","Mechanical Engineering","Fall 2018",167,152,4,319,99,"IIT Roorkee","Mechanical Engineering",5.7,0,0
+"499","Columbia University","Admit","Mechanical Engineering","Fall 2019",167,156,3,323,104,"IIT Roorkee","Mechanical Engineering",9.18,0,30
+"500","Carnegie Mellon University","Admit","Computer Science","Fall 2020",168,163,4,331,118,"IIT Roorkee","Electrical Engineering",8.8,0,29
+"501","University of California, Irvine","Reject","Computer Science","Fall 2020",170,164,4,334,115,"IIT Roorkee","Electrical Engineering",7.71,0,0
+"502","Carnegie Mellon University","Reject","Computer Science","Fall 2020",170,158,4,328,113,"IIT Roorkee","Computer Science",9.52,0,18
+"503","University of Texas, Dallas","Admit","Computer Science","Fall 2018",165,160,4.5,325,114,"IIT Roorkee","Computer Science",6.65,2,30
+"504","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2020",169,158,4,327,116,"IIT Roorkee","Electrical Engineering",8.89,0,0
+"505","Pennsylvania State University","Admit","Mechanical Engineering","Fall 2019",170,162,3.5,332,112,"IIT Roorkee","Metallurgical Engineering",7.3,0,0
+"506","University of Maryland, College Park","Admit","AI_ML_DS","Fall 2019",169,155,3,324,110,"IIT Roorkee","Electrical Engineering",7.8,0,0
+"507","University of Massachusetts, Amherst","Reject","Computer Science","Fall 2020",168,160,4.5,328,100,"IIT Roorkee","Electrical Engineering",7.61,1,31
+"508","University of Illinois, Urbana Champaign","Reject","Computer Science","Fall 2019",170,156,4.5,326,116,"IIT Roorkee","Computer Science",8.78,0,30
+"509","Georgia Institute of Technology","Admit","Management Studies","Fall 2019",165,159,3,324,106,"IIT Roorkee","Mechanical Engineering",7.75,0,50
+"510","University of Massachusetts, Amherst","Reject","Computer Science","Fall 2016",169,155,3.5,324,106,"IIT Roorkee","Computer Science",8.19,0,0
+"511","Carnegie Mellon University","Reject","Computer Science","Fall 2017",170,164,4,334,108,"IIT Roorkee","Electrical Engineering",8.46,0,0
+"512","University of Texas, Austin","Reject","Computer Science","Fall 2019",170,159,4,329,111,"IIT Roorkee","Electrical Engineering",9.7,2,19
+"513","University of Maryland, College Park","Reject","Computer Science","Fall 2020",170,164,4,334,115,"IIT Roorkee","Electrical Engineering",7.71,0,0
+"514","Texas A&M University, College Station","Admit","Computer Science","Fall 2017",170,155,4,325,116,"IIT Roorkee","Electrical Engineering",8.5,0,0
+"515","University of Illinois, Urbana Champaign","Reject","Computer Science","Fall 2020",170,156,3.5,326,108,"IIT Roorkee","Computer Science",9.19,0,19
+"516","Texas A&M University, College Station","Admit","Chemical Engineering","Fall 2017",167,155,3,322,106,"IIT Roorkee","Chemical Engineering",8.21,0,13
+"517","University of Illinois, Urbana Champaign","Reject","Computer Science","Fall 2017",170,164,4,334,108,"IIT Roorkee","Electrical Engineering",8.46,0,0
+"518","University of Maryland, College Park","Reject","Computer Science","Fall 2016",170,160,4,330,115,"IIT Roorkee","Electrical Engineering",8.04,0,0
+"519","Georgia Institute of Technology","Reject","Computer Science","Fall 2019",167,155,3.5,322,105,"IIT Roorkee","Electrical Engineering",8.55,0,0
+"520","University of California, Davis","Admit","Computer Science","Fall 2019",170,163,3.5,333,112,"IIT Roorkee","Metallurgical Engineering",8.36,0,0
+"521","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2019",170,156,4.5,326,116,"IIT Roorkee","Computer Science",8.78,0,30
+"522","University of Michigan, Ann Arbor","Reject","AI_ML_DS","Fall 2019",168,157,4,325,106,"IIT Roorkee","Electrical Engineering",6.94,0,5
+"523","University of Pennsylvania","Reject","AI_ML_DS","Fall 2019",169,162,4,331,106,"IIT Roorkee","Chemical Engineering",8.57,0,16
+"524","University of Michigan, Ann Arbor","Admit","AI_ML_DS","Fall 2020",169,158,4,327,114,"IIT Guwahati","Electrical Engineering",9.12,0,0
+"525","University of Montreal","Reject","Computer Science","Fall 2019",169,149,3,318,103,"IIT Guwahati","Electrical Engineering",8.74,0,17
+"526","University of North Carolina, Chapel Hill","Reject","Computer Science","Fall 2019",168,155,3.5,323,103,"IIT Guwahati","Electrical Engineering",7.6,0,0
+"527","University of Texas, Austin","Reject","Computer Science","Fall 2013",169,157,3,326,106,"IIT Guwahati","Computer Science",9.5,0,0
+"528","Purdue University, West Lafayette","Reject","Computer Science","Fall 2018",166,150,4,316,105,"IIT Guwahati","Physics",7.93,0,0
+"529","Arizona State University","Reject","Electrical Engineering","Fall 2018",169,160,5,329,116,"IIT Guwahati","Electrical Engineering",7.48,0,30
+"530","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2018",166,150,4,316,105,"IIT Guwahati","Physics",7.93,0,0
+"531","University of California, San Diego","Reject","Computer Science","Fall 2013",169,157,3,326,106,"IIT Guwahati","Computer Science",9.5,0,0
+"532","State University of New York, Buffalo","Admit","Computer Science","Fall 2019",165,147,3,312,94,"IIT Guwahati","Computer Science",8.21,0,0
+"533","Carnegie Mellon University","Admit","Computer Science","Fall 2017",169,146,3,315,95,"IIT Guwahati","Electrical Engineering",8.55,0,0
+"534","Pennsylvania State University","Reject","Materials Science & Engineering","Fall 2019",170,158,4,328,110,"IIT Guwahati","Physics",7.04,1,0
+"535","New York University","Reject","AI_ML_DS","Fall 2020",165,158,4,323,114,"IIT Guwahati","Electrical Engineering",7.36,0,16
+"536","Carnegie Mellon University","Reject","AI_ML_DS","Fall 2020",165,152,4,317,113,"IIT Guwahati","Mechanical Engineering",8.89,0,52
+"537","State University of New York, Buffalo","Admit","Computer Science","Fall 2016",168,166,4,334,118,"IIT Guwahati","Electrical Engineering",7,0,0
+"538","KTH, Royal Institute of Technology","Admit","Aerospace Engineering","Fall 2020",169,148,4,317,100,"IIT Guwahati","Mechanical Engineering",7.35,0,0
+"539","Columbia University","Admit","Computer Science","Fall 2020",170,156,4,326,110,"IIT Guwahati","Mathematics",8.06,0,6
+"540","University of Texas, Austin","Reject","Materials Science & Engineering","Fall 2019",170,158,4,328,110,"IIT Guwahati","Physics",7.04,1,0
+"541","University of California, San Diego","Reject","Computer Science","Fall 2019",166,160,4,326,115,"IIT Guwahati","Electrical Engineering",8.58,0,19
+"542","University of Toronto","Reject","Computer Science","Fall 2020",170,156,4,326,110,"IIT Guwahati","Mathematics",8.06,0,6
+"543","University of Pennsylvania","Reject","Electrical Engineering","Fall 2019",166,149,4,315,101,"IIT Guwahati","Physics",8.46,1,4
+"544","University of California, Irvine","Reject","Computer Science","Fall 2018",168,157,4.5,325,113,"IIT Guwahati","Electrical Engineering",8.09,4,30
+"545","Cornell University","Reject","Computer Science","Fall 2018",168,157,4.5,325,113,"IIT Guwahati","Electrical Engineering",8.09,4,30
+"546","Texas A&M University, College Station","Admit","Electrical Engineering","Fall 2018",166,150,4,316,105,"IIT Guwahati","Physics",7.93,0,0
+"547","Georgia Institute of Technology","Reject","AI_ML_DS","Fall 2020",165,152,4,317,113,"IIT Guwahati","Mechanical Engineering",8.89,0,52
+"548","University of California, Santa Barbara","Reject","Computer Science","Fall 2018",168,159,3.5,327,112,"IIT Guwahati","Computer Science",6.22,0,0
+"549","North Carolina State University","Reject","Mechanical Engineering","Fall 2015",161,147,0,308,99,"IIT Guwahati","Mechanical Engineering",8,0,0
+"550","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2020",170,156,4,326,110,"IIT Guwahati","Computer Science",8.72,0,30
+"551","Texas A&M University, College Station","Admit","Computer Science","Fall 2019",166,156,3.5,322,110,"IIT Guwahati","Electrical Engineering",8.34,0,19
+"552","Purdue University, West Lafayette","Reject","Computer Science","Fall 2018",168,157,4.5,325,113,"IIT Guwahati","Electrical Engineering",8.09,4,30
+"553","University of Washington","Reject","AI_ML_DS","Fall 2020",165,158,4,323,114,"IIT Guwahati","Electrical Engineering",7.36,0,16
+"554","University of California, San Diego","Reject","Computer Science","Fall 2018",168,157,4.5,325,113,"IIT Guwahati","Electrical Engineering",8.09,4,30
+"555","University of Illinois, Urbana Champaign","Reject","Computer Science","Fall 2019",169,149,3,318,103,"IIT Guwahati","Electrical Engineering",8.74,0,17
+"556","University of California, San Diego","Admit","Computer Science","Fall 2019",166,149,4,315,101,"IIT Guwahati","Physics",8.46,1,4
+"557","Georgia Institute of Technology","Admit","Computer Science","Fall 2020",168,163,4.5,331,114,"IIT Guwahati","Electrical Engineering",7.59,1,30
+"558","Carnegie Mellon University","Reject","AI_ML_DS","Fall 2019",170,162,4,332,115,"IIT Guwahati","Mathematics",8.81,0,19
+"559","New York University","Admit","AI_ML_DS","Fall 2017",170,155,4.5,325,115,"IIT Guwahati","Computer Science",8.35,0,0
+"560","Pennsylvania State University","Reject","Computer Science","Fall 2013",169,157,3,326,106,"IIT Guwahati","Computer Science",9.5,0,0
+"561","State University of New York, Stony Brook","Admit","Computer Science","Fall 2018",168,157,4.5,325,113,"IIT Guwahati","Electrical Engineering",8.09,4,30
+"562","University of California, San Diego","Admit","Computer Science","Fall 2019",170,153,4,323,109,"IIT Guwahati","Computer Science",9.42,1,17
+"563","Purdue University, West Lafayette","Admit","Computer Science","Fall 2020",169,158,4,327,114,"IIT Guwahati","Electrical Engineering",9.12,0,0
+"564","Virginia Tech University","Admit","Computer Science","Fall 2018",169,160,5,329,116,"IIT Guwahati","Electrical Engineering",7.48,0,30
+"565","University of Texas, Dallas","Admit","Computer Science","Fall 2018",163,152,5,315,101,"IIT Guwahati","Computer Science",9.2,0,0
+"566","Johns Hopkins University","Admit","Computer Science","Fall 2017",169,146,3,315,95,"IIT Guwahati","Electrical Engineering",8.55,0,0
+"567","Ohio State University","Admit","Computer Science","Fall 2016",170,160,3,330,109,"IIT Guwahati","Computer Science",8.36,0,0
+"568","McGill University","Reject","Aerospace Engineering","Fall 2020",169,148,4,317,100,"IIT Guwahati","Mechanical Engineering",7.35,0,0
+"569","University of Massachusetts, Lowell","Admit","Computer Science","Fall 2017",149,160,2.5,309,95,"IIT Guwahati","Physics",7.96,0,0
+"570","University of Texas, Dallas","Admit","Computer Science","Fall 2019",167,152,4,319,110,"IIT Guwahati","Civil Engineering",7.84,0,0
+"571","University of California, Los Angeles","Reject","Electrical Engineering","Fall 2019",166,149,4,315,101,"IIT Guwahati","Physics",8.46,1,4
+"572","University of Texas, Dallas","Admit","Mechanical Engineering","Spring 2016",170,164,3.5,334,110,"IIT Guwahati","Mechanical Engineering",6.72,0,0
+"573","University of Pennsylvania","Reject","AI_ML_DS","Fall 2019",168,155,3.5,323,103,"IIT Guwahati","Electrical Engineering",7.6,0,0
+"574","Delft University of Technology","Reject","Aerospace Engineering","Fall 2020",169,148,4,317,100,"IIT Guwahati","Mechanical Engineering",7.35,0,0
+"575","University of Texas, Dallas","Admit","Computer Science","Fall 2019",165,148,4,313,102,"IIT Guwahati","Civil Engineering",6.59,4,27
+"576","Indiana University, Bloomington","Reject","AI_ML_DS","Fall 2018",167,161,4,328,111,"IIT Guwahati","Civil Engineering",6.13,0,0
+"577","University of Texas, Austin","Reject","Computer Science","Fall 2019",168,157,3.5,325,111,"IIT Guwahati","Chemical Engineering",8.54,0,0
+"578","University of Wisconsin, Madison","Admit","AI_ML_DS","Fall 2017",167,153,3,320,109,"IIT Guwahati","Electrical Engineering",8.29,0,0
+"579","University of Southern California","Reject","Computer Science","Fall 2018",168,157,4.5,325,113,"IIT Guwahati","Electrical Engineering",8.09,4,30
+"580","Worcester Polytechnic Institute","Admit","AI_ML_DS","Fall 2017",170,161,3.5,331,105,"IIT Guwahati","Electrical Engineering",8.62,0,0
+"581","Georgia Institute of Technology","Reject","Computer Science","Fall 2019",170,162,4,332,115,"IIT Guwahati","Mathematics",8.81,0,19
+"582","Michigan Technological University","Admit","Mechanical Engineering","Fall 2015",161,147,0,308,99,"IIT Guwahati","Mechanical Engineering",8,0,0
+"583","Texas A&M University, College Station","Reject","Computer Science","Fall 2019",163,155,3,318,107,"IIT Guwahati","Mathematics",7.38,0,43
+"584","New York University","Reject","AI_ML_DS","Fall 2020",165,152,4,317,113,"IIT Guwahati","Mechanical Engineering",8.89,0,52
+"585","Purdue University, West Lafayette","Reject","Materials Science & Engineering","Fall 2019",170,158,4,328,110,"IIT Guwahati","Physics",7.04,1,0
+"586","University of Michigan, Ann Arbor","Admit","Computer Science","Fall 2019",170,158,4,328,109,"IIT Guwahati","Electrical Engineering",9.03,0,19
+"587","Colorado School of Mines","Admit","Electrical Engineering","Fall 2017",170,161,3.5,331,105,"IIT Guwahati","Electrical Engineering",8.62,0,0
+"588","University of California, Berkeley","Reject","Computer Science","Fall 2013",169,157,3,326,106,"IIT Guwahati","Computer Science",9.5,0,0
+"589","University of Alberta","Reject","Computer Science","Fall 2019",169,149,3,318,103,"IIT Guwahati","Electrical Engineering",8.74,0,17
+"590","Northeastern University","Reject","AI_ML_DS","Fall 2018",167,161,4,328,111,"IIT Guwahati","Civil Engineering",6.13,0,0
+"591","University of Alberta","Reject","Computer Science","Fall 2018",169,160,5,329,116,"IIT Guwahati","Electrical Engineering",7.48,0,30
+"592","University of Michigan, Ann Arbor","Reject","Computer Science","Fall 2019",166,160,4,326,115,"IIT Guwahati","Electrical Engineering",8.58,0,19
+"593","University of Maryland, College Park","Reject","Computer Science","Fall 2019",165,148,4,313,102,"IIT Guwahati","Civil Engineering",6.59,4,27
+"594","University of California, San Diego","Admit","Computer Science","Fall 2020",168,163,3,331,114,"IIT Guwahati","Computer Science",8.48,0,0
+"595","Purdue University, West Lafayette","Admit","Business Studies","Fall 2020",165,158,4,323,114,"IIT Guwahati","Electrical Engineering",7.36,0,16
+"596","Ohio State University","Admit","Computer Science","Fall 2017",152,167,3.5,319,107,"IIT Guwahati","Electrical Engineering",7.58,0,0
+"597","Carnegie Mellon University","Admit","AI_ML_DS","Fall 2019",166,160,4,326,115,"IIT Guwahati","Electrical Engineering",8.58,0,19
+"598","New York University","Admit","AI_ML_DS","Fall 2019",170,162,4,332,115,"IIT Guwahati","Mathematics",8.81,0,19
+"599","University of California, San Diego","Admit","Computer Science","Fall 2019",166,160,4,326,115,"IIT Guwahati","Electrical Engineering",8.58,0,19
+"600","University of Toronto","Reject","Computer Science","Fall 2019",169,149,3,318,103,"IIT Guwahati","Electrical Engineering",8.74,0,17
+"601","University of Wisconsin, Madison","Admit","Electrical Engineering","Fall 2020",170,157,4,327,112,"IIT Guwahati","Electrical Engineering",8.7,0,0
+"602","Ecole Polytechnique","Admit","Computer Science","Fall 2018",165,149,3,314,98,"IIT Guwahati","Computer Science",9.06,0,0
+"603","Boston University","Reject","Computer Science","Fall 2018",169,160,5,329,116,"IIT Guwahati","Electrical Engineering",7.48,0,30
+"604","Simon Fraser University","Reject","Computer Science","Fall 2019",169,149,3,318,103,"IIT Guwahati","Electrical Engineering",8.74,0,17
+"605","University of California, San Diego","Admit","Computer Science","Fall 2019",170,162,4,332,115,"IIT Guwahati","Mathematics",8.81,0,19
+"606","University of Virginia","Reject","Computer Science","Fall 2018",168,159,3.5,327,112,"IIT Guwahati","Computer Science",6.22,0,0
+"607","Ohio State University","Reject","Computer Science","Fall 2017",163,148,3.5,311,111,"IIT Guwahati","Electrical Engineering",6,1,4
+"608","Texas A&M University, College Station","Admit","Electrical Engineering","Fall 2018",170,155,4,325,109,"IIT Guwahati","Electrical Engineering",8.91,0,0
+"609","University of Southern California","Reject","Computer Science","Fall 2020",165,158,4,323,114,"IIT Guwahati","Electrical Engineering",7.36,0,16
+"610","Carnegie Mellon University","Admit","Mechanical Engineering","Fall 2020",168,156,4,324,106,"IIT Guwahati","Mechanical Engineering",8.94,1,5
+"611","Texas A&M University, College Station","Reject","Electrical Engineering","Fall 2019",166,149,4,315,101,"IIT Guwahati","Physics",8.46,1,4
+"612","University of Michigan, Ann Arbor","Reject","Computer Science","Fall 2020",170,156,4,326,110,"IIT Guwahati","Mathematics",8.06,0,6
+"613","Pennsylvania State University","Admit","AI_ML_DS","Fall 2019",167,151,3,318,106,"IIT Varanasi","Civil Engineering",7.85,0,0
+"614","University of California, Irvine","Reject","Computer Science","Fall 2017",168,155,3,323,106,"IIT Varanasi","Electrical Engineering",8.08,1,17
+"615","Delft University of Technology","Reject","Aerospace Engineering","Fall 2020",168,152,4,320,104,"IIT Varanasi","Mechanical Engineering",7.9,0,0
+"616","Georgia Institute of Technology","Reject","Civil Engineering","Fall 2019",167,162,4.5,329,113,"IIT Varanasi","Civil Engineering",8.12,0,0
+"617","University of Cincinnati","Admit","Computer Science","Fall 2016",167,151,4,318,104,"IIT Varanasi","Civil Engineering",8.33,0,0
+"618","University of California, Los Angeles","Admit","Bioengineering","Fall 2019",170,158,4,328,106,"IIT Varanasi","Biomedical Engineering",8.66,0,0
+"619","North Carolina State University","Admit","Electrical Engineering","Fall 2017",167,159,3,326,111,"IIT Varanasi","Electrical Engineering",8.51,0,43
+"620","University of Colorado, Boulder","Admit","Mechanical Engineering","Fall 2020",168,153,5,321,118,"IIT Varanasi","Mechanical Engineering",8.62,1,7
+"621","University of Michigan, Ann Arbor","Reject","Mechanical Engineering","Fall 2015",168,162,4,330,114,"IIT Varanasi","Mechanical Engineering",7.76,0,0
+"622","University of Wisconsin, Madison","Reject","Computer Science","Fall 2019",168,160,3,328,110,"IIT Varanasi","Computer Science",8.44,0,0
+"623","University of Minnesota, Twin Cities","Admit","Business Studies","Fall 2019",167,151,3,318,106,"IIT Varanasi","Civil Engineering",7.85,0,0
+"624","Georgia Institute of Technology","Reject","Computer Science","Fall 2019",167,158,3.5,325,110,"IIT Varanasi","Computer Science",9.15,3,0
+"625","Ecole Polytechnique ","Reject","Computer Science","Fall 2019",163,163,3.5,326,114,"IIT Varanasi","Mechanical Engineering",9.36,3,6
+"626","University of Michigan, Ann Arbor","Reject","Computer Science","Fall 2019",170,165,4,335,117,"IIT Varanasi","Computer Science",8,0,31
+"627","University of California, San Diego","Reject","Computer Science","Fall 2019",170,153,3.5,323,111,"IIT Varanasi","Electrical Engineering",8.61,0,30
+"628","University of Wisconsin, Madison","Admit","Computer Science","Fall 2019",163,163,3.5,326,114,"IIT Varanasi","Mechanical Engineering",9.36,3,6
+"629","University of California, San Diego","Reject","Mechanical Engineering","Fall 2020",168,153,5,321,118,"IIT Varanasi","Mechanical Engineering",8.62,1,7
+"630","University of California, Berkeley","Reject","Electrical Engineering","Fall 2019",167,157,3.5,324,108,"IIT Varanasi","Electrical Engineering",8.64,0,17
+"631","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2016",169,160,4,329,117,"IIT Varanasi","Computer Science",8.32,0,0
+"632","Cornell University","Reject","Computer Science","Fall 2016",167,153,4,320,108,"IIT Varanasi","Electrical Engineering",8.16,0,0
+"633","Carnegie Mellon University","Reject","Computer Science","Fall 2019",167,158,3.5,325,110,"IIT Varanasi","Computer Science",9.15,3,0
+"634","Georgia Institute of Technology","Reject","Civil Engineering","Fall 2014",166,157,3.5,323,111,"IIT Varanasi","Civil Engineering",8.4,0,0
+"635","Virginia Tech University","Admit","Civil Engineering","Fall 2019",167,162,4.5,329,113,"IIT Varanasi","Civil Engineering",8.12,0,0
+"636","University of Maryland, College Park","Admit","Mechanical Engineering","Fall 2019",168,150,3,318,108,"IIT Varanasi","Electrical Engineering",7.47,0,20
+"637","University of British Columbia","Reject","Computer Science","Fall 2020",169,153,3.5,322,115,"IIT Varanasi","Electrical Engineering",9.13,0,30
+"638","University of California, Los Angeles","Reject","Electrical Engineering","Fall 2017",167,156,0,323,105,"IIT Varanasi","Electrical Engineering",7.72,0,0
+"639","State University of New York, Stony Brook","Admit","Computer Science","Fall 2019",152,164,3,316,93,"IIT Varanasi","Electrical Engineering",7.44,0,0
+"640","University of California, San Diego","Admit","Computer Science","Fall 2020",169,154,3.5,323,107,"IIT Varanasi","Electrical Engineering",9.77,1,17
+"641","Delft University of Technology","Admit","Civil Engineering","Fall 2019",167,162,4.5,329,113,"IIT Varanasi","Civil Engineering",8.12,0,0
+"642","Stanford University","Reject","Computer Science","Fall 2020",169,154,3.5,323,107,"IIT Varanasi","Electrical Engineering",9.77,1,17
+"643","University of Virginia","Reject","AI_ML_DS","Fall 2019",167,151,3,318,106,"IIT Varanasi","Civil Engineering",7.85,0,0
+"644","University of Minnesota, Twin Cities","Admit","Computer Science","Fall 2019",170,153,3.5,323,111,"IIT Varanasi","Electrical Engineering",8.61,0,30
+"645","University of Texas, Austin","Reject","Computer Science","Fall 2017",167,156,0,323,105,"IIT Varanasi","Electrical Engineering",7.72,0,0
+"646","Texas A&M University, College Station","Admit","Civil Engineering","Fall 2019",167,162,4.5,329,113,"IIT Varanasi","Civil Engineering",8.12,0,0
+"647","Columbia University","Admit","Computer Science","Fall 2019",170,165,4,335,117,"IIT Varanasi","Computer Science",8,0,31
+"648","University of Pennsylvania","Reject","Computer Science","Fall 2018",170,153,3.5,323,95,"IIT Varanasi","Electrical Engineering",8.02,0,0
+"649","Columbia University","Admit","Computer Science","Fall 2019",169,154,3,323,109,"IIT Varanasi","Computer Science",9.57,2,0
+"650","Ohio State University","Admit","Aerospace Engineering","Fall 2020",168,152,4,320,104,"IIT Varanasi","Mechanical Engineering",7.9,0,0
+"651","New York University","Admit","Business Studies","Fall 2020",169,152,3.5,321,110,"IIT Varanasi","Metallurgical Engineering",9.33,0,0
+"652","Georgia Institute of Technology","Reject","Computer Science","Fall 2017",167,159,3,326,111,"IIT Varanasi","Electrical Engineering",8.51,0,43
+"653","New Jersey Institute of Technology","Admit","AI_ML_DS","Fall 2020",168,150,3,318,100,"IIT Varanasi","Electrical Engineering",7.13,0,0
+"654","Georgia Institute of Technology","Reject","Computer Science","Fall 2017",166,152,3.5,318,107,"IIT Varanasi","Computer Science",8.25,0,0
+"655","Indiana University, Bloomington","Admit","AI_ML_DS","Fall 2019",167,151,3,318,106,"IIT Varanasi","Civil Engineering",7.85,0,0
+"656","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2019",170,165,4,335,117,"IIT Varanasi","Computer Science",8,0,31
+"657","Rensselaer Polytechnic Institute","Admit","Civil Engineering","Fall 2014",166,157,3.5,323,111,"IIT Varanasi","Civil Engineering",8.4,0,0
+"658","University of South Florida","Admit","Business Studies","Fall 2016",167,151,4,318,104,"IIT Varanasi","Civil Engineering",8.33,0,0
+"659","Georgia Institute of Technology","Admit","Management Studies","Fall 2019",170,157,4,327,111,"IIT Varanasi","Mechanical Engineering",9.03,0,12
+"660","University of California, Davis","Reject","Computer Science","Fall 2018",170,153,3.5,323,95,"IIT Varanasi","Electrical Engineering",8.02,0,0
+"661","University of Southern California","Reject","Electrical Engineering","Fall 2017",167,156,0,323,105,"IIT Varanasi","Electrical Engineering",7.72,0,0
+"662","University of North Carolina, Chapel Hill","Reject","Computer Science","Fall 2019",167,158,3.5,325,110,"IIT Varanasi","Computer Science",9.15,3,0
+"663","Virginia Tech University","Admit","Mechanical Engineering","Fall 2019",170,157,4,327,111,"IIT Varanasi","Mechanical Engineering",9.03,0,12
+"664","University of California, Irvine","Admit","Computer Science","Fall 2017",168,152,3,320,103,"IIT Varanasi","Electrical Engineering",7.8,0,0
+"665","University of California, San Diego","Admit","Computer Science","Fall 2019",169,152,3.5,321,103,"IIT Varanasi","Electrical Engineering",9.21,0,0
+"666","Carnegie Mellon University","Reject","Computer Science","Fall 2017",166,152,3.5,318,107,"IIT Varanasi","Computer Science",8.25,0,0
+"667","University of Colorado, Boulder","Reject","Computer Science","Fall 2016",167,153,4,320,108,"IIT Varanasi","Electrical Engineering",8.16,0,0
+"668","Johns Hopkins University","Admit","Mechanical Engineering","Fall 2020",168,153,5,321,118,"IIT Varanasi","Mechanical Engineering",8.62,1,7
+"669","University of Michigan, Ann Arbor","Reject","Computer Science","Fall 2019",167,158,3.5,325,110,"IIT Varanasi","Computer Science",9.15,3,0
+"670","University of Maryland, College Park","Reject","Computer Science","Fall 2020",169,154,3.5,323,107,"IIT Varanasi","Electrical Engineering",9.77,1,17
+"671","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2019",169,154,3,323,109,"IIT Varanasi","Computer Science",9.57,2,0
+"672","University of California, San Diego","Reject","Computer Science","Fall 2017",168,155,3,323,106,"IIT Varanasi","Electrical Engineering",8.08,1,17
+"673","University of Michigan, Ann Arbor","Admit","Mechanical Engineering","Fall 2019",170,157,4,327,111,"IIT Varanasi","Mechanical Engineering",9.03,0,12
+"674","University of Texas, Dallas","Reject","Computer Science","Fall 2020",168,150,3,318,100,"IIT Varanasi","Electrical Engineering",7.13,0,0
+"675","Northeastern University","Reject","AI_ML_DS","Fall 2020",168,150,3,318,100,"IIT Varanasi","Electrical Engineering",7.13,0,0
+"676","University of Texas, Austin","Reject","Computer Science","Fall 2017",166,152,3.5,318,107,"IIT Varanasi","Computer Science",8.25,0,0
+"677","Virginia Tech University","Admit","Computer Science","Fall 2017",168,152,3,320,103,"IIT Varanasi","Electrical Engineering",7.8,0,0
+"678","Columbia University","Admit","AI_ML_DS","Fall 2019",169,162,3.5,331,108,"IIT Varanasi","Computer Science",8.29,0,17
+"679","University of Maryland, College Park","Reject","Computer Science","Fall 2020",169,154,3.5,323,107,"IIT Varanasi","Electrical Engineering",9.77,1,17
+"680","University of Massachusetts, Amherst","Admit","Computer Science","Fall 2019",169,154,3,323,109,"IIT Varanasi","Computer Science",9.57,2,0
+"681","University of California, San Diego","Reject","Computer Science","Fall 2017",168,155,3,323,106,"IIT Varanasi","Electrical Engineering",8.08,1,17
+"682","University of Michigan, Ann Arbor","Admit","Mechanical Engineering","Fall 2019",170,157,4,327,111,"IIT Varanasi","Mechanical Engineering",9.03,0,12
+"683","University of Texas, Dallas","Reject","Computer Science","Fall 2020",168,150,3,318,100,"IIT Varanasi","Electrical Engineering",7.13,0,0
+"684","Northeastern University","Reject","AI_ML_DS","Fall 2020",168,150,3,318,100,"IIT Varanasi","Electrical Engineering",7.13,0,0
+"685","University of Texas, Austin","Reject","Computer Science","Fall 2017",166,152,3.5,318,107,"IIT Varanasi","Computer Science",8.25,0,0
+"686","Virginia Tech University","Admit","Computer Science","Fall 2017",168,152,3,320,103,"IIT Varanasi","Electrical Engineering",7.8,0,0
+"687","Columbia University","Admit","AI_ML_DS","Fall 2019",169,162,3.5,331,108,"IIT Varanasi","Computer Science",8.29,0,17
+"688","Purdue University, West Lafayette","Admit","Mechanical Engineering","Fall 2015",168,162,4,330,114,"IIT Varanasi","Mechanical Engineering",7.76,0,0
+"689","University of Southern California","Reject","Civil Engineering","Fall 2014",166,157,3.5,323,111,"IIT Varanasi","Civil Engineering",8.4,0,0
+"690","North Carolina State University","Reject","Mechanical Engineering","Spring 2019",168,158,4,326,104,"IIT Varanasi","Mechanical Engineering",8,0,0
+"691","University of Maryland, College Park","Reject","Computer Science","Fall 2019",167,158,3.5,325,110,"IIT Varanasi","Computer Science",9.15,3,0
+"692","University of California, Los Angeles","Admit","Computer Science","Fall 2020",169,153,3.5,322,115,"IIT Varanasi","Electrical Engineering",9.13,0,30
+"693","University of Minnesota, Twin Cities","Reject","AI_ML_DS","Fall 2020",168,150,3,318,100,"IIT Varanasi","Electrical Engineering",7.13,0,0
+"694","University of Florida, Gainesville","Admit","Computer Science","Fall 2016",167,153,4,320,108,"IIT Varanasi","Electrical Engineering",8.16,0,0
+"695","Columbia University","Admit","Computer Science","Fall 2019",167,158,3.5,325,110,"IIT Varanasi","Computer Science",9.15,3,0
+"696","Texas A&M University, College Station","Admit","Computer Science","Fall 2020",170,158,4,328,112,"IIT Indore","Computer Science",9.2,0,0
+"697","Texas A&M University, College Station","Admit","Mechanical Engineering","Fall 2017",164,155,4,319,101,"IIT Indore","Mechanical Engineering",7.5,0,0
+"698","University of California, San Diego","Admit","Computer Science","Fall 2016",170,155,3.5,325,104,"IIT Indore","Computer Science",8.5,0,0
+"699","Carnegie Mellon University","Reject","Computer Science","Fall 2016",168,157,4,325,101,"IIT Indore","Computer Science",8.11,0,0
+"700","Virginia Tech University","Admit","Mechanical Engineering","Fall 2015",168,166,4,334,120,"IIT Indore","Electrical Engineering",9,0,0
+"701","University of Texas, Austin","Reject","Computer Science","Fall 2016",170,155,3.5,325,104,"IIT Indore","Computer Science",8.5,0,0
+"702","University of Oxford","Admit","Computer Science","Fall 2018",168,158,3.5,326,117,"IIT Indore","Computer Science",9,0,16
+"703","University of California, San Diego","Admit","Computer Science","Fall 2016",166,155,3.5,321,101,"IIT Indore","Electrical Engineering",8.9,0,0
+"704","Georgia Institute of Technology","Reject","Computer Science","Fall 2016",170,155,3.5,325,104,"IIT Indore","Computer Science",8.5,0,0
+"705","Texas A&M University, College Station","Reject","Computer Science","Fall 2015",166,154,3,320,99,"IIT Indore","Computer Science",7,0,0
+"706","University of Michigan, Ann Arbor","Admit","Mechanical Engineering","Fall 2016",166,158,4,324,110,"IIT Indore","Mechanical Engineering",8.81,0,0
+"707","University of California, Los Angeles","Admit","Materials Science & Engineering","Fall 2020",170,143,3.5,313,108,"IIT Indore","Metallurgical Engineering",8.36,0,0
+"708","KTH, Royal Institute of Technology","Admit","AI_ML_DS","Fall 2019",168,159,3.5,327,111,"IIT Indore","Electrical Engineering",8.43,1,19
+"709","University of Cincinnati","Admit","Business Studies","Fall 2017",167,154,3.5,321,104,"IIT Indore","Electrical Engineering",7.4,0,0
+"710","University of Michigan, Ann Arbor","Reject","AI_ML_DS","Fall 2019",168,159,3.5,327,111,"IIT Indore","Electrical Engineering",8.43,1,19
+"711","Columbia University","Admit","Computer Science","Fall 2016",166,162,4.5,328,116,"IIT Indore","Computer Science",8.68,0,0
+"712","University of Southern California","Admit","Computer Science","Fall 2020",169,152,3.5,321,104,"IIT Indore","Electrical Engineering",8.6,0,0
+"713","Portland State University","Admit","Computer Science","Fall 2017",166,150,3,316,100,"IIT Indore","Electrical Engineering",7.9,0,0
+"714","University of Utah","Reject","Computer Science","Fall 2015",166,154,3,320,99,"IIT Indore","Computer Science",7,0,0
+"715","Stanford University","Reject","Materials Science & Engineering","Fall 2020",170,150,3.5,320,105,"IIT Indore","Metallurgical Engineering",8.04,0,0
+"716","Stanford University","Admit","Electrical Engineering","Fall 2016",167,160,3.5,327,110,"IIT Indore","Electrical Engineering",9.56,0,0
+"717","University of California, Davis","Reject","Computer Science","Fall 2017",168,153,3.5,321,107,"IIT Indore","Computer Science",8.16,0,0
+"718","Purdue University, West Lafayette","Admit","Mechanical Engineering","Fall 2016",170,163,4.5,333,112,"IIT Indore","Mechanical Engineering",8.59,0,0
+"719","Arizona State University","Reject","Electrical Engineering","Fall 2015",167,152,0,319,100,"IIT Indore","Electrical Engineering",7.9,0,0
+"720","Clemson University","Admit","Mechanical Engineering","Fall 2017",164,155,4,319,101,"IIT Indore","Mechanical Engineering",7.5,0,0
+"721","University of Maryland, College Park","Reject","Computer Science","Fall 2016",168,157,4,325,101,"IIT Indore","Computer Science",8.11,0,0
+"722","North Carolina State University","Reject","Mechanical Engineering","Fall 2017",164,155,4,319,101,"IIT Indore","Mechanical Engineering",7.5,0,0
+"723","University of Texas, Austin","Reject","Computer Science","Fall 2015",166,154,3,320,99,"IIT Indore","Computer Science",7,0,0
+"724","University of Toronto","Reject","Computer Science","Fall 2019",168,159,3.5,327,111,"IIT Indore","Electrical Engineering",8.43,1,19
+"725","Virginia Tech University","Admit","Mechanical Engineering","Fall 2017",164,155,4,319,101,"IIT Indore","Mechanical Engineering",7.5,0,0
+"726","University of Michigan, Ann Arbor","Admit","Computer Science","Fall 2016",167,160,3.5,327,110,"IIT Indore","Electrical Engineering",9.56,0,0
+"727","University of California, Irvine","Reject","Computer Science","Fall 2017",170,153,4,323,115,"IIT Indore","Computer Science",8.5,0,0
+"728","Carnegie Mellon University","Admit","Computer Science","Fall 2017",168,153,3.5,321,107,"IIT Indore","Computer Science",8.16,0,0
+"729","University of Minnesota, Twin Cities","Admit","Mechanical Engineering","Fall 2016",166,158,4,324,110,"IIT Indore","Mechanical Engineering",8.81,0,0
+"730","University of Illinois, Urbana Champaign","Admit","Civil Engineering","Fall 2020",168,153,3.5,321,106,"IIT Indore","Civil Engineering",8.16,0,0
+"731","State University of New York, Stony Brook","Admit","Computer Science","Fall 2018",168,149,3.5,317,99,"IIT Indore","Electrical Engineering",7.3,0,12
+"732","Drexel University","Admit","Electrical Engineering","Nd 2015",170,157,4,327,112,"IIT Indore","Computer Science",8,0,0
+"733","Arizona State University","Admit","Manufacturing Engineering","Fall 2016",168,149,3,317,102,"IIT Indore","Mechanical Engineering",7.33,0,0
+"734","University of California, Santa Barbara","Reject","Computer Science","Fall 2017",168,150,3.5,318,96,"IIT Indore","Electrical Engineering",8.93,1,0
+"735","Carnegie Mellon University","Reject","Computer Science","Fall 2017",170,153,4,323,115,"IIT Indore","Computer Science",8.5,0,0
+"736","Arizona State University","Admit","Computer Science","Fall 2018",168,149,3.5,317,99,"IIT Indore","Electrical Engineering",7.3,0,12
+"737","University of Arizona","Admit","Computer Science","Fall 2017",166,150,3,316,100,"IIT Indore","Electrical Engineering",7.9,0,0
+"738","Purdue University, West Lafayette","Reject","Computer Science","Fall 2016",166,155,3.5,321,101,"IIT Indore","Electrical Engineering",8.9,0,0
+"739","University of California, San Diego","Admit","Computer Science","Fall 2017",168,150,3.5,318,96,"IIT Indore","Electrical Engineering",8.93,1,0
+"740","University of California, Irvine","Admit","Computer Science","Fall 2017",168,153,3.5,321,107,"IIT Indore","Computer Science",8.16,0,0
+"741","Rice University","Admit","Electrical Engineering","Fall 2019",170,157,4,327,106,"IIT Indore","Electrical Engineering",8.1,0,0
+"742","State University of New York, Buffalo","Admit","Mechanical Engineering","Fall 2017",164,155,4,319,101,"IIT Indore","Mechanical Engineering",7.5,0,0
+"743","University of California, Los Angeles","Reject","Computer Science","Fall 2016",170,155,3.5,325,104,"IIT Indore","Computer Science",8.5,0,0
+"744","Georgia Institute of Technology","Reject","Computer Science","Fall 2017",168,150,3.5,318,96,"IIT Indore","Electrical Engineering",8.93,1,0
+"745","North Carolina State University","Admit","Computer Science","Fall 2018",168,149,3.5,317,99,"IIT Indore","Electrical Engineering",7.3,0,12
+"746","University of California, San Diego","Reject","Computer Science","Fall 2017",170,159,4.5,329,111,"IIT Indore","Electrical Engineering",8.41,0,0
+"747","University of Massachusetts, Amherst","Reject","Computer Science","Fall 2015",167,152,0,319,100,"IIT Indore","Electrical Engineering",7.9,0,0
+"748","University of Illinois, Urbana Champaign","Admit","Computer Science","Fall 2017",170,162,4,332,114,"IIT Indore","Computer Science",9.1,0,0
+"749","University of Texas, Dallas","Reject","Computer Science","Fall 2018",168,149,3.5,317,99,"IIT Indore","Electrical Engineering",7.3,0,12
+"750","University of California, Berkeley","Reject","Electrical Engineering","Fall 2016",166,155,3.5,321,101,"IIT Indore","Electrical Engineering",8.9,0,0
+"751","North Carolina State University","Reject","Mechanical Engineering","Fall 2015",170,149,0,319,96,"IIT Indore","Mechanical Engineering",8.21,0,0
+"752","State University of New York, Stony Brook","Admit","Materials Science & Engineering","Fall 2020",170,150,3.5,320,105,"IIT Indore","Metallurgical Engineering",8.04,0,0
+"753","Dartmouth College","Admit","Computer Science","Fall 2016",170,155,3.5,325,104,"IIT Indore","Computer Science",8.5,0,0
+"754","Columbia University","Admit","Electrical Engineering","Fall 2016",167,160,3.5,327,110,"IIT Indore","Electrical Engineering",9.56,0,0
+"755","University of Maryland, College Park","Reject","Computer Science","Fall 2017",170,153,4,323,115,"IIT Indore","Computer Science",8.5,0,0
+"756","University of California, San Diego","Reject","Computer Science","Fall 2017",168,153,3.5,321,107,"IIT Indore","Computer Science",8.16,0,0
+"757","University of California, Irvine","Admit","Computer Science","Fall 2017",170,159,4.5,329,111,"IIT Indore","Electrical Engineering",8.41,0,0
+"758","University of California, Los Angeles","Admit","Electrical Engineering","Fall 2017",168,150,3.5,318,96,"IIT Indore","Electrical Engineering",8.93,1,0
+"759","University of California, Los Angeles","Reject","Materials Science & Engineering","Fall 2020",170,150,3.5,320,105,"IIT Indore","Metallurgical Engineering",8.04,0,0
+"760","University of Texas, Austin","Reject","Mechanical Engineering","Fall 2015",170,149,0,319,96,"IIT Indore","Mechanical Engineering",8.21,0,0
+"761","University of Washington","Reject","AI_ML_DS","Fall 2019",168,159,3.5,327,111,"IIT Indore","Electrical Engineering",8.43,1,19
+"762","Georgia Institute of Technology","Admit","Computer Science","Fall 2016",167,160,3.5,327,110,"IIT Indore","Electrical Engineering",9.56,0,0
+"763","Georgia Institute of Technology","Reject","Computer Science","Fall 2017",169,160,4,329,117,"IIT Indore","Electrical Engineering",8.3,0,0
+"764","Georgia Institute of Technology","Reject","Mechanical Engineering","Fall 2015",170,149,0,319,96,"IIT Indore","Mechanical Engineering",8.21,0,0
+"765","Carnegie Mellon University","Reject","Computer Science","Fall 2018",168,158,3.5,326,117,"IIT Indore","Computer Science",9,0,16
+"766","Virginia Tech University","Admit","Mechanical Engineering","Fall 2016",168,149,3,317,102,"IIT Indore","Mechanical Engineering",7.33,0,0
+"767","Arizona State University","Admit","Electrical Engineering","Fall 2017",166,150,3,316,100,"IIT Indore","Electrical Engineering",7.9,0,0
+"768","University of California, San Diego","Reject","Computer Science","Fall 2015",166,154,3,320,99,"IIT Indore","Computer Science",7,0,0
+"769","Columbia University","Admit","Electrical Engineering","Fall 2017",169,160,4,329,117,"IIT Indore","Electrical Engineering",8.3,0,0
+"770","University of Florida, Gainesville","Admit","Computer Science","Fall 2015",166,154,3,320,99,"IIT Indore","Computer Science",7,0,0
+"771","Georgia Institute of Technology","Reject","Computer Science","Fall 2019",170,157,4,327,106,"IIT Indore","Electrical Engineering",8.1,0,0
+"772","University of Massachusetts, Amherst","Reject","Computer Science","Fall 2015",166,154,3,320,99,"IIT Indore","Computer Science",7,0,0
+"773","Virginia Tech University","Admit","Mechanical Engineering","Fall 2016",166,158,4,324,110,"IIT Indore","Mechanical Engineering",8.81,0,0
+"774","University of California, Irvine","Admit","Computer Science","Fall 2016",168,157,4,325,101,"IIT Indore","Computer Science",8.11,0,0
+"775","State University of New York, Buffalo","Admit","Mechanical Engineering","Fall 2015",170,149,0,319,96,"IIT Indore","Mechanical Engineering",8.21,0,0
+"776","University of Illinois, Urbana Champaign","Reject","Computer Science","Fall 2016",166,155,3.5,321,101,"IIT Indore","Electrical Engineering",8.9,0,0
+"777","Texas A&M University, College Station","Admit","Mechanical Engineering","Fall 2016",166,158,4,324,110,"IIT Indore","Mechanical Engineering",8.81,0,0
+"778","Texas A&M University, College Station","Admit","Electrical Engineering","Fall 2017",166,150,3,316,100,"IIT Indore","Electrical Engineering",7.9,0,0
+"779","University of California, Los Angeles","Reject","Electrical Engineering","Fall 2016",167,160,3.5,327,110,"IIT Indore","Electrical Engineering",9.56,0,0
+"780","Carnegie Mellon University","Reject","Computer Science","Fall 2016",169,154,3.5,323,103,"IIT Indore","Electrical Engineering",8.1,0,0
+"781","New York University","Reject","AI_ML_DS","Fall 2019",168,159,3.5,327,111,"IIT Indore","Electrical Engineering",8.43,1,19
+"782","University of Washington","Admit","Mechanical Engineering","Fall 2016",170,163,4.5,333,112,"IIT Indore","Mechanical Engineering",8.59,0,0
+"783","Georgia Institute of Technology","Reject","Computer Science","Fall 2016",166,155,3.5,321,101,"IIT Indore","Electrical Engineering",8.9,0,0
+"784","State University of New York, Buffalo","Admit","Computer Science","Fall 2018",168,149,3.5,317,99,"IIT Indore","Electrical Engineering",7.3,0,12
+"785","University of California, Berkeley","Reject","Materials Science & Engineering","Fall 2020",170,150,3.5,320,105,"IIT Indore","Metallurgical Engineering",8.04,0,0

@@ -1,0 +1,901 @@
+,UNIVERSITY NAME,STATUS,TARGET MAJOR,TERM,GRE(Q),GRE(V),GRE(AWA),GRE(TOTAL),TOEFL IELTS,UG COLLEGE,UG MAJOR,CGPA,PAPERS,WORK EXPERIENCE
+1,"University of Texas, Austin",Admit,Civil Engineering,Fall 2018,170,149,3,319,88,IIT Bombay,Civil Engineering,7.39,N/A,0 Mo
+2,Stanford University,Reject,Mechanical Engineering,Fall 2018,170,154,4,324,N/A,IIT Bombay,Mechanical Engineering,7.61,N/A,0 Mo
+3,Penn State Harrisburg,Admit,Computer Science,Fall 2016,170,162,4,332,110,IIT Bombay,Computer Science,8.93,N/A,0 Mo
+4,"University of Massachusetts, Amherst",Admit,Chemical Engineering,Fall 2019,170,153,4.5,323,104,IIT Bombay,Chemical Engineering,7.04,0,18 Mo
+5,"University of Texas, Dallas",Admit,Computer Science,Fall 2019,168,149,3,317,106,IIT Bombay,EEE,7.07,N/A,0 Mo
+6,University of Washington,Admit,Electrical Engineering,Fall 2018,170,168,4.5,338,116,IIT Bombay,Information Technology,9.14,N/A,0 Mo
+7,The University of Chicago,Admit,Data Analytics,Fall 2019,169,156,4,325,113,IIT Bombay,Physics,7.39,N/A,0 Mo
+8,"University of Texas, Austin",Reject,Aerospace Engineering,Fall 2020,167,157,4,324,113,IIT Bombay,Aeronautical Engineering,7.65,N/A,27 Mo
+9,North Carolina State University,Reject,Computer Engineering,Fall 2013,164,161,3,325,110,IIT Bombay,Computer Science,7.56,N/A,0 Mo
+10,Duke University,Reject,Computer Science,Fall 2019,170,150,3.5,320,106,IIT Bombay,Civil Engineering,7.43,N/A,0 Mo
+11,"University of Wisconsin, Madison",Reject,Computer Science,Fall 2020,170,166,4,336,113,IIT Bombay,Computer Science,6.98,0,18 Mo
+12,Arizona State University,Admit,Computer Science,Fall 2019,161,151,3.5,312,96,IIT Bombay,Computer Science,75,N/A,0 Mo
+13,Stanford University,Reject,Computer Science,Fall 2017,168,155,4,323,114,IIT Bombay,Computer Science,8.4,N/A,0 Mo
+14,New York University,Reject,Data Science,Fall 2020,168,153,3.5,321,105,IIT Bombay,Chemical Engineering,7.53,2,66 Mo
+15,"University of Wisconsin, Madison",Admit,Industrial Engineering,Fall 2017,170,153,4,323,110,IIT Bombay,Chemical Engineering,7.9,N/A,0 Mo
+16,"University of Maryland, College Park",Reject,Mechanical Engineering,Fall 2018,168,158,4.5,326,114,IIT Bombay,Mechanical Engineering,7.88,N/A,0 Mo
+17,"Indiana University - Purdue University, Indianapolis",Admit,Computer & Information Science,Fall 2019,161,151,3.5,312,96,IIT Bombay,Computer Science,75,N/A,0 Mo
+18,"Texas A&M University, College Station",Admit,Chemical Engineering,Fall 2018,170,163,3.5,333,N/A,IIT Bombay,Chemical Engineering,8.33,0,0 Mo
+19,Northwestern University,Admit,Data Analytics,Fall 2017,170,158,4,328,107,IIT Bombay,Chemical Engineering,7.56,N/A,18 Mo
+20,"University of California, San Diego",Reject,Computer Science,Fall 2017,168,155,4,323,114,IIT Bombay,Computer Science,8.4,N/A,0 Mo
+21,"University of Texas, Austin",Reject,Civil Engineering,Fall 2016,170,164,4,334,119,IIT Bombay,Civil Engineering,9.67,N/A,0 Mo
+22,"University of Texas, Dallas",Admit,Computer Science,Fall 2013,164,161,3,325,110,IIT Bombay,Computer Science,7.56,N/A,0 Mo
+23,New York University,Reject,Data Science,Fall 2019,170,150,3.5,320,106,IIT Bombay,Civil Engineering,7.43,N/A,0 Mo
+24,"University of Florida, Gainesville",Admit,Chemical Engineering,Fall 2018,168,147,3.5,315,96,IIT Bombay,Chemical Engineering,7.17,N/A,0 Mo
+25,"University of Texas, Austin",Reject,Computer Engineering,Fall 2017,168,155,4,323,114,IIT Bombay,Computer Science,8.4,N/A,0 Mo
+26,University of Southern California,Reject,Computer Science,Fall 2020,168,158,3,326,109,IIT Bombay,EEE,6.42,0,18 Mo
+27,"University of Texas, Dallas",Admit,Business Analytics,Fall 2018,170,151,4,321,107,IIT Bombay,Civil Engineering,7.73,N/A,0 Mo
+28,"University of California, San Diego",Admit,Computer Science,Fall 2020,169,154,3,323,108,IIT Bombay,ECE,8.66,N/A,43 Mo
+29,Columbia University,Reject,Data Science,Fall 2019,169,163,4,332,114,IIT Bombay,EEE,6.17,N/A,56 Mo
+30,"Texas A&M University, College Station",Reject,Mechanical Engineering,Fall 2017,170,164,N/A,334,112,IIT Bombay,Mechanical Engineering,8.48,N/A,0 Mo
+31,"University of Florida, Gainesville",Reject,Computer Science,Fall 2019,161,151,3.5,312,96,IIT Bombay,Computer Science,75,N/A,0 Mo
+32,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2020,168,161,3,329,109,IIT Bombay,Mechanical Engineering,9.04,0,0 Mo
+33,Virginia Tech University,Admit,Mechanical Engineering,Fall 2017,170,164,N/A,334,112,IIT Bombay,Mechanical Engineering,8.48,N/A,0 Mo
+34,"University of Colorado, Boulder",Admit,Mechanical Engineering,Fall 2018,166,155,4,321,107,IIT Bombay,Mechanical Engineering,8.12,N/A,0 Mo
+35,Georgia Institute of Technology,Reject,Electrical & Computer Engineering,Fall 2018,170,154,4,324,109,IIT Bombay,ECE,6.87,N/A,0 Mo
+36,"University of Florida, Gainesville",Admit,Computer Science,Fall 2019,168,149,3,317,106,IIT Bombay,EEE,7.07,N/A,0 Mo
+37,"University of California, Davis",Admit,Civil & Environmental Engineering,Fall 2013,170,149,4.5,319,110,IIT Bombay,Civil Engineering,8,N/A,0 Mo
+38,"Rutgers University, Newark",Admit,Finance,Fall 2019,168,152,3.5,320,95,IIT Bombay,Chemical Engineering,6.49,0,2 Mo
+39,Virginia Tech University,Admit,Civil & Environmental Engineering,Fall 2017,167,166,4,333,111,IIT Bombay,Civil Engineering,8.69,N/A,6 Mo
+40,"Purdue University, West Lafayette",Admit,Civil Engineering,Fall 2016,170,164,4,334,119,IIT Bombay,Civil Engineering,9.67,N/A,0 Mo
+41,Johns Hopkins University,Reject,Civil Engineering,Fall 2013,170,149,4.5,319,110,IIT Bombay,Civil Engineering,8,N/A,0 Mo
+42,North Carolina State University,Reject,Computer Science,Fall 2019,166,153,3,319,103,IIT Bombay,Computer Science,7.15,0,42 Mo
+43,"University of California, Los Angeles",Admit,Computer Science,Fall 2017,168,155,4,323,114,IIT Bombay,Computer Science,8.4,N/A,0 Mo
+44,Pennsylvania State University,Reject,Mechanical Engineering,Fall 2017,170,164,N/A,334,112,IIT Bombay,Mechanical Engineering,8.48,N/A,0 Mo
+45,Arizona State University,Admit,Business Analytics,Fall 2017,169,146,3,315,N/A,IIT Bombay,Chemical Engineering,7,N/A,0 Mo
+46,University of Pennsylvania,Reject,Robotics,Fall 2020,168,157,4.5,325,105,IIT Bombay,Mechanical Engineering,8.77,0,0 Mo
+47,University of Southern California,Reject,Computer Science,Fall 2020,170,166,4,336,113,IIT Bombay,Computer Science,6.98,0,18 Mo
+48,"University of Michigan, Ann Arbor",Reject,Data Science,Fall 2020,168,153,3.5,321,105,IIT Bombay,Chemical Engineering,7.53,2,66 Mo
+49,University of Southern California,Admit,Electrical Engineering,Fall 2020,170,157,4,327,113,IIT Bombay,EEE,8.5,N/A,0 Mo
+50,Northwestern University,Reject,Artificial Intelligence,Fall 2020,168,153,3.5,321,105,IIT Bombay,Chemical Engineering,7.53,2,66 Mo
+51,Georgia Institute of Technology,Reject,Data Analytics,Fall 2017,170,158,4,328,107,IIT Bombay,Chemical Engineering,7.56,N/A,18 Mo
+52,University of Toronto,Admit,Civil Engineering,Fall 2020,159,151,N/A,310,103,IIT Bombay,Civil Engineering,8.66,N/A,0 Mo
+53,"University of Texas, Austin",Admit,Civil Engineering,Fall 2017,167,166,4,333,111,IIT Bombay,Civil Engineering,8.69,N/A,6 Mo
+54,Arizona State University,Admit,Computer Science,Fall 2016,170,162,4,332,110,IIT Bombay,Computer Science,8.93,N/A,0 Mo
+55,Simon Fraser University,Reject,Big Data,Fall 2019,161,151,3.5,312,96,IIT Bombay,Computer Science,75,N/A,0 Mo
+56,The University of Chicago,Admit,Computer Science,Fall 2020,168,153,3.5,321,105,IIT Bombay,Chemical Engineering,7.53,2,66 Mo
+57,"University of California, San Diego",Reject,Mechanical Engineering,Fall 2018,170,154,4,324,N/A,IIT Bombay,Mechanical Engineering,7.61,N/A,0 Mo
+58,"University of Illinois, Urbana Champaign",Reject,Civil Engineering,Fall 2020,167,150,3.5,317,105,IIT Bombay,Mechanical Engineering,6.5,N/A,0 Mo
+59,"University of Maryland, College Park",Reject,Computer Science,Fall 2020,170,166,4,336,113,IIT Bombay,Computer Science,6.98,0,18 Mo
+60,University of Washington,Reject,Computer Science,Fall 2017,168,155,4,323,114,IIT Bombay,Computer Science,8.4,N/A,0 Mo
+61,"University of California, Los Angeles",Admit,Civil Engineering,Fall 2017,167,166,4,333,111,IIT Bombay,Civil Engineering,8.69,N/A,6 Mo
+62,"University of Texas, Austin",Reject,Business Analytics,Fall 2017,170,158,4,328,107,IIT Bombay,Chemical Engineering,7.56,N/A,18 Mo
+63,Johns Hopkins University,Reject,Computer Science,Fall 2019,170,150,3.5,320,106,IIT Bombay,Civil Engineering,7.43,N/A,0 Mo
+64,"University of Illinois, Chicago",Admit,Mechanical Engineering,Fall 2020,167,150,3.5,317,105,IIT Bombay,Mechanical Engineering,6.5,N/A,0 Mo
+65,Carnegie Mellon University,Admit,Electrical & Computer Engineering,Fall 2020,170,157,4,327,113,IIT Bombay,EEE,8.5,N/A,0 Mo
+66,"University of Maryland, College Park",Admit,Electrical & Computer Engineering,Fall 2020,170,158,3,328,106,IIT Bombay,EEE,8.43,N/A,0 Mo
+67,Georgia Institute of Technology,Admit,Data Analytics,Fall 2019,164,167,4.5,331,118,IIT Bombay,Statistics,8.72,N/A,0 Mo
+68,"University of Texas, Austin",Admit,Computer Science,Fall 2018,170,159,4,329,112,IIT Bombay,Computer Science,9,N/A,0 Mo
+69,"University of Michigan, Ann Arbor",Reject,Data Science,Fall 2019,169,163,4,332,114,IIT Bombay,EEE,6.17,N/A,56 Mo
+70,University of Southern California,Admit,Electrical Engineering,Fall 2020,170,162,5,332,115,IIT Bombay,EEE,9.6,N/A,0 Mo
+71,Massachusetts Institute of Technology,Reject,Mechanical Engineering,Fall 2020,168,157,4.5,325,105,IIT Bombay,Mechanical Engineering,8.77,0,0 Mo
+72,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2020,169,154,3,323,108,IIT Bombay,ECE,8.66,N/A,43 Mo
+73,Ohio State University,Admit,Mechanical Engineering,Fall 2018,166,155,4,321,107,IIT Bombay,Mechanical Engineering,8.12,N/A,0 Mo
+74,North Carolina State University,Reject,Data Analytics,Fall 2019,169,156,4,325,113,IIT Bombay,Physics,7.39,N/A,0 Mo
+75,Cornell University,Reject,Computer Science,Fall 2017,168,155,4,323,114,IIT Bombay,Computer Science,8.4,N/A,0 Mo
+76,Massachusetts Institute of Technology,Reject,Computer Science,Fall 2019,170,161,3.5,331,108,IIT Bombay,Computer Science,8.7,N/A,0 Mo
+77,"University of Minnesota, Twin Cities",Admit,Business Analytics,Fall 2020,170,159,3.5,329,115,IIT Bombay,Civil Engineering,6.9,N/A,8 Mo
+78,Georgia Institute of Technology,Reject,Computer Science,Fall 2020,168,153,3.5,321,105,IIT Bombay,Chemical Engineering,7.53,2,66 Mo
+79,Columbia University,Reject,Management Science and Engineering,Fall 2017,170,153,4,323,110,IIT Bombay,Chemical Engineering,7.9,N/A,0 Mo
+80,Stanford University,Reject,Electrical Engineering,Fall 2017,170,153,4,323,110,IIT Bombay,Chemical Engineering,7.9,N/A,0 Mo
+81,Stanford University,Admit,Electrical Engineering,Fall 2020,170,162,5,332,115,IIT Bombay,EEE,9.6,N/A,0 Mo
+82,Tufts University,Admit,Mechanical Engineering,Fall 2016,170,154,4.5,324,108,IIT Bombay,Mechanical Engineering,6.62,N/A,0 Mo
+83,"University of Texas, Austin",Reject,Mechanical Engineering,Fall 2018,168,158,4.5,326,114,IIT Bombay,Mechanical Engineering,7.88,N/A,0 Mo
+84,"University of Illinois, Urbana Champaign",Reject,Mechanical Engineering,Fall 2018,168,158,4.5,326,114,IIT Bombay,Mechanical Engineering,7.88,N/A,0 Mo
+85,"University of California, San Diego",Admit,Electrical & Computer Engineering,Fall 2020,170,157,4,327,113,IIT Bombay,EEE,8.5,N/A,0 Mo
+86,"University of California, Los Angeles",Reject,Computer Science,Fall 2020,169,154,3,323,108,IIT Bombay,ECE,8.66,N/A,43 Mo
+87,University of Iowa,Admit,Mechanical Engineering,Fall 2020,167,150,3.5,317,105,IIT Bombay,Mechanical Engineering,6.5,N/A,0 Mo
+88,University of Notre Dame,Reject,Civil Engineering,Fall 2020,167,150,3.5,317,105,IIT Bombay,Mechanical Engineering,6.5,N/A,0 Mo
+89,"University of Michigan, Ann Arbor",Admit,Electrical & Computer Engineering,Fall 2020,170,157,4,327,113,IIT Bombay,EEE,8.5,N/A,0 Mo
+90,New York University,Admit,Information Systems,Fall 2013,164,161,3,325,110,IIT Bombay,Computer Science,7.56,N/A,0 Mo
+91,Cornell University,Reject,Civil & Environmental Engineering,Fall 2013,170,149,4.5,319,110,IIT Bombay,Civil Engineering,8,N/A,0 Mo
+92,"University of Michigan, Ann Arbor",Reject,Industrial Engineering,Fall 2017,170,153,4,323,110,IIT Bombay,Chemical Engineering,7.9,N/A,0 Mo
+93,"University of Michigan, Ann Arbor",Reject,Robotics,Fall 2020,168,157,4.5,325,105,IIT Bombay,Mechanical Engineering,8.77,0,0 Mo
+94,"State University of New York, Stony Brook",Admit,Computer Science,Fall 2019,161,151,3.5,312,96,IIT Bombay,Computer Science,75,N/A,0 Mo
+95,University of Cincinnati,Admit,Business Analytics,Fall 2018,170,151,4,321,107,IIT Bombay,Civil Engineering,7.73,N/A,0 Mo
+96,Carnegie Mellon University,Reject,Computer Science,Fall 2019,166,153,3,319,103,IIT Bombay,Computer Science,7.15,0,42 Mo
+97,"University of Texas, Austin",Reject,Business Analytics,Fall 2019,169,163,4,332,114,IIT Bombay,EEE,6.17,N/A,56 Mo
+98,"University of California, San Diego",Admit,Computer Science,Fall 2019,169,164,4,333,118,IIT Bombay,Computer Science,9.15,N/A,0 Mo
+99,Stanford University,Reject,Civil & Environmental Engineering,Fall 2013,170,149,4.5,319,110,IIT Bombay,Civil Engineering,8,N/A,0 Mo
+100,"University of North Carolina, Charlotte",Admit,Finance,Fall 2019,168,152,3.5,320,95,IIT Bombay,Chemical Engineering,6.49,0,2 Mo
+101,"State University of New York, Buffalo",Admit,Computer Science,Fall 2020,170,154,4,324,106,IIT Delhi,Computer Science,7.26,N/A,0 Mo
+102,Carnegie Mellon University,Admit,Electrical & Computer Engineering,Spring 2017,170,164,4,334,108,IIT Delhi,EEE,7.92,N/A,0 Mo
+103,Duke University,Admit,Computer Science,Fall 2016,170,157,3,327,103,IIT Delhi,EEE,7.36,N/A,0 Mo
+104,Johns Hopkins University,Reject,Computer Science,Fall 2019,170,159,4,329,105,IIT Delhi,EEE,7.95,N/A,0 Mo
+105,"Purdue University, West Lafayette",Admit,Electrical & Computer Engineering,Spring 2017,170,164,4,334,108,IIT Delhi,EEE,7.92,N/A,0 Mo
+106,"University of Texas, Austin",Admit,Computer Science,Fall 2017,168,156,3,324,100,IIT Delhi,Computer Science,8.26,N/A,0 Mo
+107,National University Of Singapore,Reject,Civil Engineering,Fall 2020,170,149,3,319,93,IIT Delhi,Civil Engineering,8.12,0,15 Mo
+108,Kent State University,Reject,Computer Science,Spring 2017,154,146,3,300,91,IIT Delhi,Information Technology,79,N/A,0 Mo
+109,"University of Alabama, Birmingham",Admit,Computer Science,Spring 2017,154,146,3,300,91,IIT Delhi,Information Technology,79,N/A,0 Mo
+110,"Texas A&M University, College Station",Admit,Computer Science,Fall 2020,169,156,4,325,110,IIT Delhi,EEE,8.1,1,29 Mo
+111,"University of Michigan, Ann Arbor",Reject,Computer Science,Fall 2018,170,161,3.5,331,113,IIT Delhi,ECE,8.2,N/A,19 Mo
+112,University of British Columbia,Admit,Data Science,Fall 2019,170,148,3,318,7.5,IIT Delhi,Textile Engineering,7.95,N/A,42 Mo
+113,University of Iowa,Admit,Computer Science,Fall 2017,165,152,3,317,108,IIT Delhi,Computer Science,81.39,N/A,0 Mo
+114,"University of Texas, Dallas",Admit,Computer Science,Fall 2020,170,154,4,324,106,IIT Delhi,Computer Science,7.26,N/A,0 Mo
+115,"University of Michigan, Dearborn",Reject,Industrial and Systems Engineering,Spring 2019,163,150,3,313,N/A,IIT Delhi,Chemical Engineering,6.5,N/A,0 Mo
+116,"Texas A&M University, College Station",Admit,Computer Science,Fall 2018,169,149,3.5,318,102,IIT Delhi,Computer Science,7.96,N/A,0 Mo
+117,Princeton University,Reject,Computer Science,Fall 2018,170,162,N/A,332,112,IIT Delhi,Mathematics,9.38,N/A,0 Mo
+118,Stanford University,Reject,Civil & Environmental Engineering,Fall 2020,170,149,3,319,93,IIT Delhi,Civil Engineering,8.12,0,15 Mo
+119,Virginia Tech University,Admit,Civil & Environmental Engineering,Fall 2017,160,154,4,314,114,IIT Delhi,Civil Engineering,85,N/A,0 Mo
+120,"University of Texas, Austin",Reject,Civil Engineering,Fall 2017,170,152,3.5,322,100,IIT Delhi,Civil Engineering,8.33,2,0 Mo
+121,"University of California, Irvine",Reject,Electrical Engineering,Fall 2016,170,157,3,327,103,IIT Delhi,EEE,7.36,N/A,0 Mo
+122,"University of California, Los Angeles",Reject,Computer Science,Fall 2017,168,156,3,324,100,IIT Delhi,Computer Science,8.26,N/A,0 Mo
+123,"Purdue University, West Lafayette",Admit,Computer Science,Fall 2020,170,154,4,324,108,IIT Delhi,ECE,8.34,N/A,0 Mo
+124,"University of Massachusetts, Amherst",Admit,Computer Science,Spring 2019,170,164,4.5,334,N/A,IIT Delhi,Computer Science,8.6,N/A,24 Mo
+125,Johns Hopkins University,Admit,Cyber Security,Fall 2019,170,157,4,327,108,IIT Delhi,Mathematics,8.1,N/A,0 Mo
+126,Carnegie Mellon University,Reject,Machine Learning,Fall 2018,170,162,N/A,332,112,IIT Delhi,Mathematics,9.38,N/A,0 Mo
+127,Columbia University,Admit,Computer Science,Fall 2019,169,166,5,335,114,IIT Delhi,EEE,8.9,N/A,42 Mo
+128,Yale University,Admit,Computer Science,Fall 2018,170,162,N/A,332,112,IIT Delhi,Mathematics,9.38,N/A,0 Mo
+129,"University of Michigan, Ann Arbor",Admit,Electrical & Computer Engineering,Fall 2020,169,151,3.5,320,102,IIT Delhi,EEE,8.6,N/A,0 Mo
+130,"University of Illinois, Urbana Champaign",Admit,Industrial Engineering,Fall 2020,167,154,3.5,321,107,IIT Delhi,Industrial Engineering,8.54,N/A,18 Mo
+131,Columbia University,Reject,Computer Science,Fall 2017,168,157,4,325,108,IIT Delhi,Computer Science,7.32,N/A,0 Mo
+132,North Carolina State University,Reject,Computer Networks,Fall 2017,163,143,3,306,92,IIT Delhi,ECE,9.1,2,41 Mo
+133,"State University of New York, Stony Brook",Admit,Computer Science,Fall 2018,170,161,4,331,115,IIT Delhi,Information Technology,85,N/A,0 Mo
+134,"University of Illinois, Urbana Champaign",Admit,Civil & Environmental Engineering,Fall 2020,170,149,3,319,93,IIT Delhi,Civil Engineering,8.12,0,15 Mo
+135,University of Pennsylvania,Admit,Computer & Information Science,Fall 2018,170,162,N/A,332,112,IIT Delhi,Mathematics,9.38,N/A,0 Mo
+136,North Carolina State University,Reject,Data Analytics,Spring 2018,158,148,3.5,306,7,IIT Delhi,Instrumentation Engineering,7.74,N/A,0 Mo
+137,"State University of New York, Buffalo",Admit,Industrial Engineering,Fall 2020,167,154,3.5,321,107,IIT Delhi,Industrial Engineering,8.54,N/A,18 Mo
+138,George Mason University,Admit,Data Analytics,Fall 2018,160,150,3,310,7.5,IIT Delhi,Information Technology,8,N/A,0 Mo
+139,Carnegie Mellon University,Reject,Computer Science,Fall 2018,170,162,N/A,332,112,IIT Delhi,Mathematics,9.38,N/A,0 Mo
+140,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2017,160,160,3.5,320,111,IIT Delhi,Computer Science,7.43,N/A,0 Mo
+141,"University of Minnesota, Twin Cities",Reject,Computer Science,Fall 2019,166,151,3,317,95,IIT Delhi,ECE,7.22,N/A,18 Mo
+142,"State University of New York, Stony Brook",Admit,Computer Science,Fall 2018,168,156,4.5,324,111,IIT Delhi,Computer Science,8.3,N/A,0 Mo
+143,The University of Alabama,Admit,Computer Science,Fall 2017,165,152,3,317,108,IIT Delhi,Computer Science,81.39,N/A,0 Mo
+144,"State University of New York, Stony Brook",Admit,Computer Science,Fall 2020,170,154,4,324,106,IIT Delhi,Computer Science,7.26,N/A,0 Mo
+145,"University of Minnesota, Twin Cities",Reject,Computer Science,Fall 2020,170,154,4,324,108,IIT Delhi,ECE,8.34,N/A,0 Mo
+146,Georgia Institute of Technology,Reject,Computer Science,Fall 2017,168,157,4,325,108,IIT Delhi,Computer Science,7.32,N/A,0 Mo
+147,"University of California, San Diego",Admit,Computer Science,Spring 2019,170,164,4.5,334,N/A,IIT Delhi,Computer Science,8.6,N/A,24 Mo
+148,"Texas A&M University, College Station",Admit,Civil Engineering,Fall 2020,170,149,3,319,93,IIT Delhi,Civil Engineering,8.12,0,15 Mo
+149,"University of California, San Diego",Admit,Computer Engineering,Fall 2016,170,164,4,334,117,IIT Delhi,EEE,8.7,N/A,0 Mo
+150,Drexel University,Reject,Cyber Security,Spring 2017,154,146,3,300,91,IIT Delhi,Information Technology,79,N/A,0 Mo
+151,Columbia University,Reject,Data Science,Fall 2019,170,164,4.5,334,115,IIT Delhi,Physics,8.1,0,52 Mo
+152,Columbia University,Admit,Electrical Engineering,Spring 2017,170,164,4,334,108,IIT Delhi,EEE,7.92,N/A,0 Mo
+153,Georgia Institute of Technology,Admit,Computer Science,Fall 2018,170,161,3.5,331,113,IIT Delhi,ECE,8.2,N/A,19 Mo
+154,New Jersey Institute of Technology,Reject,Cyber Security,Spring 2017,154,146,3,300,91,IIT Delhi,Information Technology,79,N/A,0 Mo
+155,"University of Maryland, Baltimore County",Reject,Data Science,Spring 2018,170,152,3,322,92,IIT Delhi,EEE,6.45,N/A,2 Mo
+156,"University of Massachusetts, Amherst",Reject,Computer Science,Fall 2019,167,158,4,325,108,IIT Delhi,Textile Engineering,7.9,0,16 Mo
+157,University of Cincinnati,Admit,Computer Science,Fall 2018,170,161,4,331,115,IIT Delhi,Information Technology,85,N/A,0 Mo
+158,ETH Zurich,Reject,Mechanical Engineering,Fall 2019,169,156,3.5,325,116,IIT Delhi,Mechanical Engineering,8.9,N/A,0 Mo
+159,"Purdue University, West Lafayette",Admit,Civil Engineering,Fall 2017,160,154,4,314,114,IIT Delhi,Civil Engineering,85,N/A,0 Mo
+160,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2019,169,166,5,335,114,IIT Delhi,EEE,8.9,N/A,42 Mo
+161,"Texas A&M University, College Station",Admit,Civil Engineering,Fall 2017,170,152,3.5,322,100,IIT Delhi,Civil Engineering,8.33,2,0 Mo
+162,"University of Maryland, College Park",Admit,Civil & Environmental Engineering,Fall 2017,170,159,4,329,114,IIT Delhi,Civil Engineering,8.29,N/A,0 Mo
+163,"Rutgers University, New Brunswick",Admit,Computer Science,Fall 2018,169,149,3.5,318,102,IIT Delhi,Computer Science,7.96,N/A,0 Mo
+164,"University of Maryland, College Park",Reject,Computer Science,Fall 2019,170,159,4,329,105,IIT Delhi,EEE,7.95,N/A,0 Mo
+165,"University of Massachusetts, Amherst",Reject,Computer Science,Fall 2019,170,164,4.5,334,115,IIT Delhi,Physics,8.1,0,52 Mo
+166,University of Houston,Admit,Electrical Engineering,Fall 2016,162,152,3.5,314,109,IIT Delhi,EEE,8,N/A,0 Mo
+167,"Texas A&M University, College Station",Admit,Civil Engineering,Fall 2017,170,159,4,329,114,IIT Delhi,Civil Engineering,8.29,N/A,0 Mo
+168,Cornell University,Reject,Computer Science,Fall 2019,170,160,4,330,111,IIT Delhi,ECE,7.54,N/A,18 Mo
+169,Stanford University,Reject,Computer Science,Spring 2019,170,164,4.5,334,N/A,IIT Delhi,Computer Science,8.6,N/A,24 Mo
+170,Arizona State University,Reject,Information Technology,Spring 2017,154,146,3,300,91,IIT Delhi,Information Technology,79,N/A,0 Mo
+171,"University of Maryland, College Park",Reject,Electrical & Computer Engineering,Fall 2016,170,143,3,313,98,IIT Delhi,Computer Science,7.36,N/A,0 Mo
+172,Carnegie Mellon University,Admit,Cyber Security,Fall 2019,170,157,4,327,108,IIT Delhi,Mathematics,8.1,N/A,0 Mo
+173,Georgia Institute of Technology,Admit,Civil Engineering,Fall 2017,170,159,4,329,114,IIT Delhi,Civil Engineering,8.29,N/A,0 Mo
+174,Delft University of Technology,Admit,Chemical Engineering,Fall 2018,170,158,4,328,106,IIT Delhi,Chemical Engineering,8.22,N/A,0 Mo
+175,Texas Tech University,Admit,Electrical Engineering,Fall 2016,162,152,3.5,314,109,IIT Delhi,EEE,8,N/A,0 Mo
+176,Pennsylvania State University,Reject,Computer Science,Fall 2020,170,154,4,324,106,IIT Delhi,Computer Science,7.26,N/A,0 Mo
+177,Carnegie Mellon University,Reject,Data Science,Fall 2019,167,158,4,325,108,IIT Delhi,Textile Engineering,7.9,0,16 Mo
+178,New York University,Reject,Data Science,Fall 2019,167,158,4,325,108,IIT Delhi,Textile Engineering,7.9,0,16 Mo
+179,"University of California, San Diego",Admit,Computer Science,Fall 2020,168,158,4,326,108,IIT Delhi,EEE,9.2,N/A,0 Mo
+180,"State University of New York, Stony Brook",Admit,Computer Science,Fall 2016,170,143,3,313,98,IIT Delhi,Computer Science,7.36,N/A,0 Mo
+181,"University of Texas, Arlington",Admit,Industrial Engineering,Spring 2019,163,150,3,313,N/A,IIT Delhi,Chemical Engineering,6.5,N/A,0 Mo
+182,Ohio State University,Admit,Civil Engineering,Fall 2017,170,159,4,329,114,IIT Delhi,Civil Engineering,8.29,N/A,0 Mo
+183,"University of Florida, Gainesville",Admit,Computer Engineering,Fall 2019,166,151,3,317,95,IIT Delhi,ECE,7.22,N/A,18 Mo
+184,"University of Massachusetts, Amherst",Reject,Computer Science,Fall 2019,170,160,4,330,111,IIT Delhi,ECE,7.54,N/A,18 Mo
+185,University of Pennsylvania,Reject,Data Science,Fall 2019,170,164,4.5,334,115,IIT Delhi,Physics,8.1,0,52 Mo
+186,"Purdue University, West Lafayette",Reject,Computer Science,Fall 2020,170,154,4,324,106,IIT Delhi,Computer Science,7.26,N/A,0 Mo
+187,Georgia Institute of Technology,Reject,Electrical & Computer Engineering,Fall 2019,170,159,4,329,105,IIT Delhi,EEE,7.95,N/A,0 Mo
+188,"University of California, Davis",Admit,Civil & Environmental Engineering,Fall 2017,170,159,4,329,114,IIT Delhi,Civil Engineering,8.29,N/A,0 Mo
+189,Cornell University,Admit,Civil & Environmental Engineering,Fall 2017,170,159,4,329,114,IIT Delhi,Civil Engineering,8.29,N/A,0 Mo
+190,"University of California, San Diego",Reject,Computer Science,Fall 2019,170,160,4,330,111,IIT Delhi,ECE,7.54,N/A,18 Mo
+191,"University of Michigan, Ann Arbor",Admit,Data Science,Fall 2019,170,164,4.5,334,115,IIT Delhi,Physics,8.1,0,52 Mo
+192,Northwestern University,Reject,Data Analytics,Fall 2017,N/A,N/A,N/A,N/A,114,IIT Delhi,Chemical Engineering,8.2,N/A,0 Mo
+193,Rice University,Reject,Computational Science & Engineering,Fall 2019,166,151,3,317,95,IIT Delhi,ECE,7.22,N/A,18 Mo
+194,"Texas A&M University, College Station",Admit,Computer Science,Fall 2020,170,154,4,324,108,IIT Delhi,ECE,8.34,N/A,0 Mo
+195,"University of Texas, Dallas",Admit,Computer Science,Fall 2015,170,155,4,325,7,IIT Delhi,Computer Science,8,N/A,0 Mo
+196,Georgia Institute of Technology,Admit,Data Analytics,Fall 2020,170,151,N/A,321,N/A,IIT Delhi,Computer Science,6.68,N/A,0 Mo
+197,Rochester Institute of Technology,Admit,Computer Science,Fall 2018,170,161,4.5,331,109,IIT Delhi,Chemical Engineering,6.19,N/A,0 Mo
+198,University of Houston,Admit,Industrial Engineering,Spring 2019,163,150,3,313,N/A,IIT Delhi,Chemical Engineering,6.5,N/A,0 Mo
+199,University of Pennsylvania,Admit,Robotics,Fall 2020,170,158,4.5,328,116,IIT Delhi,Mechanical Engineering,7.93,N/A,0 Mo
+200,University of Connecticut,Reject,Business Analytics,Spring 2018,158,148,3.5,306,7,IIT Delhi,Instrumentation Engineering,7.74,N/A,0 Mo
+201,Iowa State University,Admit,Electrical Engineering,Fall 2018,167,155,3.5,322,104,IIT Madras,EEE,8.4,N/A,0 Mo
+202,"University of Maryland, College Park",Reject,Computer Science,Fall 2017,168,166,4,334,110,IIT Madras,Computer Science,8.99,N/A,0 Mo
+203,Arizona State University,Admit,Computer Science,Fall 2017,170,168,5.5,338,100,IIT Madras,Mechanical Engineering,8.4,N/A,0 Mo
+204,The University of Chicago,Reject,Computer Science,Fall 2019,166,148,3,314,93,IIT Madras,Mechanical Engineering,7.6,N/A,17 Mo
+205,North Carolina State University,Reject,Computer Science,Fall 2019,170,158,4,328,107,IIT Madras,EEE,7.4,N/A,29 Mo
+206,"Texas A&M University, College Station",Reject,Computer Science,Fall 2019,170,158,4,328,107,IIT Madras,EEE,7.4,N/A,29 Mo
+207,"State University of New York, Stony Brook",Admit,Computer Science,Fall 2018,170,155,4,325,109,IIT Madras,Aeronautical Engineering,7.96,N/A,0 Mo
+208,"Purdue University, West Lafayette",Admit,Civil Engineering,Fall 2018,170,159,4,329,116,IIT Madras,Civil Engineering,8.38,N/A,0 Mo
+209,"University of Texas, Austin",Admit,Civil Engineering,Fall 2020,170,157,4,327,111,IIT Madras,Civil Engineering,9.14,0,0 Mo
+210,North Carolina State University,Admit,Aerospace Engineering,Fall 2017,161,155,0,316,102,IIT Madras,Aeronautical Engineering,7.4,N/A,0 Mo
+211,"Oklahoma State University, Stillwater",Admit,Data Science and Business Analytics,Fall 2018,168,143,4,311,93,IIT Madras,Civil Engineering,8.12,N/A,14 Mo
+212,University of Pennsylvania,Admit,Computer Engineering,Fall 2019,167,157,3.5,324,103,IIT Madras,Mechanical Engineering,8.47,1,0 Mo
+213,Georgia Institute of Technology,Admit,Civil Engineering,Fall 2018,170,159,4,329,116,IIT Madras,Civil Engineering,8.38,N/A,0 Mo
+214,"State University of New York, Buffalo",Admit,Civil Engineering,Fall 2019,168,147,4,315,102,IIT Madras,Civil Engineering,8.29,N/A,0 Mo
+215,"Purdue University, West Lafayette",Reject,Civil Engineering,Fall 2018,170,149,3.5,319,99,IIT Madras,Civil Engineering,7.98,N/A,0 Mo
+216,"Purdue University, West Lafayette",Admit,Business Analytics and Information Syste,Fall 2019,N/A,N/A,N/A,N/A,112,IIT Madras,Metallurgical Engineering,7.5,N/A,0 Mo
+217,Stevens Institute of Technology,Admit,Business Intelligence and Analytics,Fall 2018,168,143,4,311,93,IIT Madras,Civil Engineering,8.12,N/A,14 Mo
+218,"University of Illinois, Urbana Champaign",Reject,Electrical & Computer Engineering,Fall 2017,170,160,4,330,117,IIT Madras,ECE,8.72,N/A,0 Mo
+219,"University of Maryland, College Park",Reject,Mechanical Engineering,Fall 2018,170,154,3,324,105,IIT Madras,Mechanical Engineering,8.31,N/A,29 Mo
+220,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2020,170,150,3.5,320,107,IIT Madras,Chemical Engineering,8.64,0,0 Mo
+221,Massachusetts Institute of Technology,Reject,EECS,Fall 2018,165,165,4,330,114,IIT Madras,Metallurgical Engineering,7.6,1,11 Mo
+222,"Purdue University, West Lafayette",Reject,Electrical & Computer Engineering,Fall 2018,169,155,4,324,111,IIT Madras,EEE,8.48,N/A,0 Mo
+223,"University of Wisconsin, Madison",Reject,Mechanical Engineering,Fall 2019,168,160,4,328,119,IIT Madras,Mechanical Engineering,8.28,1,53 Mo
+224,"Purdue University, West Lafayette",Admit,Mechanical Engineering,Fall 2020,170,159,4,329,106,IIT Madras,Aeronautical Engineering,9.6,N/A,0 Mo
+225,"University of Texas, Austin",Reject,Business Analytics,Fall 2017,168,156,4,324,111,IIT Madras,Aeronautical Engineering,8.53,N/A,33 Mo
+226,"Purdue University, West Lafayette",Admit,Mechanical Engineering,Fall 2017,170,151,3.5,321,107,IIT Madras,Mechanical Engineering,8.75,N/A,0 Mo
+227,"Rutgers University, New Brunswick",Reject,Computer Science,Fall 2020,170,150,3.5,320,107,IIT Madras,Chemical Engineering,8.64,0,0 Mo
+228,University of Southern California,Admit,Civil Engineering,Fall 2020,170,151,3,321,96,IIT Madras,Civil Engineering,8,N/A,17 Mo
+229,Columbia University,Admit,Computer Science,Fall 2019,167,158,4.5,325,115,IIT Madras,Computer Science,8,N/A,0 Mo
+230,"University of Michigan, Ann Arbor",Reject,Civil Engineering,Fall 2019,168,147,4,315,102,IIT Madras,Civil Engineering,8.29,N/A,0 Mo
+231,Georgia Institute of Technology,Admit,Data Analytics,Fall 2018,168,160,4,328,111,IIT Madras,Mechanical Engineering,7.38,N/A,0 Mo
+232,"University of California, Los Angeles",Admit,Business Analytics,Fall 2020,170,151,3.5,321,106,IIT Madras,Mechanical Engineering,7.88,N/A,0 Mo
+233,"State University of New York, Buffalo",Admit,Civil Engineering,Fall 2017,167,145,3,312,97,IIT Madras,Civil Engineering,8.15,N/A,0 Mo
+234,"University of Texas, Austin",Admit,Aerospace Engineering,Fall 2019,170,163,4,333,N/A,IIT Madras,Mechanical Engineering,8.74,N/A,0 Mo
+235,Georgia Institute of Technology,Reject,Mechanical Engineering,Fall 2019,170,151,4,321,N/A,IIT Madras,Mechanical Engineering,8.64,N/A,18 Mo
+236,"University of Illinois, Urbana Champaign",Reject,Civil & Environmental Engineering,Fall 2018,170,149,3.5,319,99,IIT Madras,Civil Engineering,7.98,N/A,0 Mo
+237,Pennsylvania State University,Admit,Computer Science,Fall 2019,167,158,4.5,325,115,IIT Madras,Computer Science,8,N/A,0 Mo
+238,Stanford University,Reject,Electrical Engineering,Fall 2018,169,163,4,332,110,IIT Madras,EEE,9.25,N/A,0 Mo
+239,"University of Florida, Gainesville",Admit,Computer Science,Fall 2019,170,153,3,323,N/A,IIT Madras,EEE,7.82,N/A,29 Mo
+240,"Indiana University, Bloomington",Admit,Data Science,Fall 2018,170,160,4.5,330,N/A,IIT Madras,Biomedical Engineering,8.1,0,18 Mo
+241,"Texas A&M University, College Station",Admit,Biomedical Engineering,Fall 2018,170,156,4,326,111,IIT Madras,Biotechnology,8.23,N/A,0 Mo
+242,New York University,Admit,Computer Science,Fall 2019,167,158,4.5,325,115,IIT Madras,Computer Science,8,N/A,0 Mo
+243,"University of California, San Diego",Admit,Computer Science,Fall 2018,170,154,4,324,100,IIT Madras,ECE,8.73,N/A,0 Mo
+244,New York University,Reject,Computer Science,Fall 2018,170,161,4,331,112,IIT Madras,EEE,8,N/A,0 Mo
+245,New York University,Admit,Industrial Engineering,Fall 2020,169,159,3.5,328,113,IIT Madras,Chemical Engineering,6.9,1,17 Mo
+246,"State University of New York, Buffalo",Admit,Computer Science,Fall 2017,167,150,4,317,96,IIT Madras,Mechanical Engineering,7.35,N/A,18 Mo
+247,"State University of New York, Stony Brook",Admit,Computer Science,Fall 2019,170,148,3.5,318,103,IIT Madras,EEE,7.45,N/A,17 Mo
+248,"University of Florida, Gainesville",Reject,Computer Science,Fall 2017,167,150,4,317,96,IIT Madras,Mechanical Engineering,7.35,N/A,18 Mo
+249,"University of Texas, Austin",Reject,Civil Engineering,Fall 2019,168,147,4,315,102,IIT Madras,Civil Engineering,8.29,N/A,0 Mo
+250,Georgia Institute of Technology,Admit,Civil Engineering,Fall 2020,170,151,3,321,96,IIT Madras,Civil Engineering,8,N/A,17 Mo
+251,Carnegie Mellon University,Reject,Computer Science,Fall 2019,170,151,3.5,321,111,IIT Madras,Computer Science,9.07,N/A,0 Mo
+252,"Indiana University, Bloomington",Admit,Data Science,Fall 2020,166,152,3.5,318,108,IIT Madras,Mechanical Engineering,8.27,N/A,0 Mo
+253,"University of Illinois, Urbana Champaign",Reject,Mechanical Engineering,Fall 2017,168,159,3,327,108,IIT Madras,Mechanical Engineering,8.53,N/A,18 Mo
+254,"University of Minnesota, Twin Cities",Admit,Computer Science,Fall 2017,168,166,4,334,110,IIT Madras,Computer Science,8.99,N/A,0 Mo
+255,"University of Texas, Dallas",Admit,Computer Engineering,Fall 2018,161,148,3.5,309,93,IIT Madras,EEE,6.35,N/A,42 Mo
+256,"Indiana University, Bloomington",Admit,Data Science,Fall 2020,166,163,4,329,N/A,IIT Madras,Chemical Engineering,7.4,N/A,51 Mo
+257,"University of California, Berkeley",Reject,Information Management and Systems,Fall 2020,166,152,3.5,318,108,IIT Madras,Mechanical Engineering,8.27,N/A,0 Mo
+258,Nanyang Technological University,Admit,Finance,Fall 2020,170,152,3.5,322,107,IIT Madras,Civil Engineering,7.6,0,29 Mo
+259,University of British Columbia,Reject,Civil Engineering,Fall 2017,168,159,4.5,327,116,IIT Madras,Civil Engineering,8.42,N/A,0 Mo
+260,University of Southern California,Reject,Computer Science,Fall 2019,164,150,3.5,314,93,IIT Madras,EEE,7.1,0,16 Mo
+261,"University of Wisconsin, Madison",Admit,Mechanical Engineering,Fall 2020,170,151,4,321,110,IIT Madras,Mechanical Engineering,8.32,1,0 Mo
+262,"University of Illinois, Urbana Champaign",Reject,Computer Science,Fall 2017,170,165,4.5,335,115,IIT Madras,Computer Science,8.56,N/A,18 Mo
+263,"University of Massachusetts, Amherst",Reject,Computer Science,Fall 2019,169,154,3.5,323,101,IIT Madras,Computer Science,6.96,1,43 Mo
+264,Arizona State University,Admit,Computer Science,Fall 2018,165,165,4,330,114,IIT Madras,Metallurgical Engineering,7.6,1,11 Mo
+265,"University of Illinois, Urbana Champaign",Reject,Civil & Environmental Engineering,Fall 2018,170,159,4,329,116,IIT Madras,Civil Engineering,8.38,N/A,0 Mo
+266,Carnegie Mellon University,Reject,Robotics,Fall 2017,168,159,3,327,108,IIT Madras,Mechanical Engineering,8.53,N/A,18 Mo
+267,"University of California, San Diego",Admit,Electrical & Computer Engineering,Fall 2018,169,163,4,332,110,IIT Madras,EEE,9.25,N/A,0 Mo
+268,University of Washington,Reject,Environmental Engineering,Fall 2018,170,158,4,328,110,IIT Madras,Civil Engineering,8.22,N/A,0 Mo
+269,"University of Michigan, Ann Arbor",Reject,Materials Science & Engineering,Fall 2018,167,161,5,328,117,IIT Madras,Metallurgical Engineering,7.81,N/A,0 Mo
+270,North Carolina State University,Admit,Electrical Engineering,Fall 2016,163,155,3.5,318,109,IIT Madras,ECE,6.99,N/A,0 Mo
+271,"State University of New York, Buffalo",Admit,Computer Science,Fall 2019,164,150,3.5,314,93,IIT Madras,EEE,7.1,0,16 Mo
+272,"University of Texas, Austin",Admit,Civil Engineering,Fall 2018,170,159,4,329,116,IIT Madras,Civil Engineering,8.38,N/A,0 Mo
+273,Columbia University,Admit,Management Science and Engineering,Fall 2018,170,162,3.5,332,111,IIT Madras,Metallurgical Engineering,8.76,N/A,0 Mo
+274,"University of Texas, Dallas",Admit,Business Analytics Flex,Fall 2018,168,143,4,311,93,IIT Madras,Civil Engineering,8.12,N/A,14 Mo
+275,Georgia Institute of Technology,Admit,Finance,Fall 2019,168,152,3.5,320,106,IIT Madras,EEE,72,N/A,0 Mo
+276,"University of Illinois, Urbana Champaign",Admit,Industrial Engineering,Fall 2017,170,151,3.5,321,107,IIT Madras,Mechanical Engineering,8.75,N/A,0 Mo
+277,Carnegie Mellon University,Reject,Robotics,Fall 2020,170,151,4,321,110,IIT Madras,Mechanical Engineering,8.32,1,0 Mo
+278,Columbia University,Reject,Computer Science,Fall 2019,170,151,3.5,321,111,IIT Madras,Computer Science,9.07,N/A,0 Mo
+279,University of British Columbia,Admit,Mechanical Engineering,Fall 2019,168,165,4,333,119,IIT Madras,Mechanical Engineering,8.1,N/A,0 Mo
+280,Boston University,Reject,Computer Science,Fall 2019,170,151,3.5,321,111,IIT Madras,Computer Science,9.07,N/A,0 Mo
+281,Iowa State University,Admit,Aerospace Engineering,Spring 2015,166,159,3,325,111,IIT Madras,Aeronautical Engineering,7.53,N/A,0 Mo
+282,"University of Texas, Austin",Reject,Civil Engineering,Fall 2018,170,149,3.5,319,99,IIT Madras,Civil Engineering,7.98,N/A,0 Mo
+283,Carnegie Mellon University,Reject,Finance,Fall 2020,170,152,3.5,322,107,IIT Madras,Civil Engineering,7.6,0,29 Mo
+284,Massachusetts Institute of Technology,Reject,Business Analytics,Fall 2020,169,152,3,321,110,IIT Madras,Civil Engineering,8.72,N/A,27 Mo
+285,Georgia Institute of Technology,Admit,Data Analytics,Fall 2017,168,156,4,324,111,IIT Madras,Aeronautical Engineering,8.53,N/A,33 Mo
+286,"University of Colorado, Boulder",Admit,Computer Science,Fall 2019,164,150,3.5,314,93,IIT Madras,EEE,7.1,0,16 Mo
+287,Dartmouth College,Reject,Engineering Management,Fall 2017,165,151,3.5,316,100,IIT Madras,Mechanical Engineering,8,N/A,16 Mo
+288,"University of Maryland, College Park",Reject,Computer Science,Fall 2019,164,150,3.5,314,93,IIT Madras,EEE,7.1,0,16 Mo
+289,Stanford University,Reject,Electrical Engineering,Fall 2019,168,160,4.5,328,115,IIT Madras,Chemical Engineering,9.15,N/A,0 Mo
+290,"University of California, Santa Cruz",Reject,Computer Science,Fall 2019,170,158,4,328,107,IIT Madras,EEE,7.4,N/A,29 Mo
+291,North Carolina State University,Reject,Electrical Engineering,Fall 2018,167,155,3.5,322,104,IIT Madras,EEE,8.4,N/A,0 Mo
+292,"University of Maryland, College Park",Admit,Transportation Engineering,Fall 2018,170,149,3.5,319,99,IIT Madras,Civil Engineering,7.98,N/A,0 Mo
+293,University of Warwick,Admit,Business Analytics,Fall 2020,169,159,3.5,328,113,IIT Madras,Chemical Engineering,6.9,1,17 Mo
+294,Columbia University,Admit,Electrical Engineering,Fall 2018,169,155,4,324,111,IIT Madras,EEE,8.48,N/A,0 Mo
+295,"University of California, Los Angeles",Reject,Computer Science,Fall 2018,170,154,4,324,100,IIT Madras,ECE,8.73,N/A,0 Mo
+296,"University of Texas, Dallas",Admit,Business Analytics Flex,Fall 2019,167,150,4,317,105,IIT Madras,Mechanical Engineering,8.26,N/A,40 Mo
+297,North Carolina State University,Reject,Data Analytics,Fall 2017,168,156,4,324,111,IIT Madras,Aeronautical Engineering,8.53,N/A,33 Mo
+298,"University of Colorado, Boulder",Admit,Computer Science,Fall 2018,169,159,4,328,116,IIT Madras,Biotechnology,8.1,N/A,32 Mo
+299,Columbia University,Admit,Data Science,Fall 2020,169,150,3.5,319,106,IIT Madras,ECE,7.8,0,6 Mo
+300,"University of Texas, Dallas",Admit,Computer Science,Fall 2019,164,150,3.5,314,93,IIT Madras,EEE,7.1,0,16 Mo
+301,University of Pennsylvania,Reject,Computer & Information Science,Fall 2020,169,159,4,328,116,IIT Kanpur,Computer Science,9.3,N/A,19 Mo
+302,"University of California, Los Angeles",Admit,Computer Science,Fall 2019,170,165,5,335,N/A,IIT Kanpur,Mathematics,9.66,2,0 Mo
+303,"University of Texas, Austin",Reject,Computer Science,Fall 2018,170,163,N/A,333,111,IIT Kanpur,EEE,9.52,N/A,19 Mo
+304,"State University of New York, Stony Brook",Admit,Computer Science,Fall 2020,170,163,4,333,114,IIT Kanpur,Metallurgical Engineering,6.1,N/A,19 Mo
+305,Georgia Institute of Technology,Reject,Computer Science,Fall 2019,170,160,3.5,330,108,IIT Kanpur,ECE,9,1,17 Mo
+306,"University of Illinois, Urbana Champaign",Reject,Computer Science,Fall 2018,169,155,3.5,324,113,IIT Kanpur,Computer Science,8.4,N/A,17 Mo
+307,Columbia University,Admit,Business Analytics,Fall 2019,170,157,4.5,327,116,IIT Kanpur,Mechanical Engineering,8.6,N/A,17 Mo
+308,University of Southern California,Reject,Computer Science,Fall 2016,168,148,3.5,316,101,IIT Kanpur,EEE,7.2,N/A,0 Mo
+309,"University of Texas, Austin",Reject,Computer Science,Fall 2020,170,162,4.5,332,111,IIT Kanpur,Mathematics,8.1,N/A,29 Mo
+310,"State University of New York, Stony Brook",Admit,Computer Science,Fall 2020,170,159,4,329,110,IIT Kanpur,Computer Science,7.5,N/A,0 Mo
+311,"Texas A&M University, College Station",Admit,Computer Engineering,Fall 2020,169,155,3,324,102,IIT Kanpur,EEE,8.2,0,18 Mo
+312,"Texas A&M University, College Station",Reject,Computer Science,Fall 2016,168,148,3.5,316,101,IIT Kanpur,EEE,7.2,N/A,0 Mo
+313,Carnegie Mellon University,Admit,Computer Science,Fall 2019,170,160,3.5,330,108,IIT Kanpur,ECE,9,1,17 Mo
+314,Georgia Institute of Technology,Reject,Computer Science,Fall 2020,170,162,4.5,332,111,IIT Kanpur,Mathematics,8.1,N/A,29 Mo
+315,"University of Michigan, Ann Arbor",Admit,Electrical & Computer Engineering,Fall 2019,169,163,4,332,N/A,IIT Kanpur,EEE,8.7,N/A,0 Mo
+316,"University of Michigan, Ann Arbor",Admit,Computer Science,Fall 2019,170,160,3.5,330,108,IIT Kanpur,ECE,9,1,17 Mo
+317,"University of Texas, Austin",Reject,Computer Science,Fall 2018,169,155,3.5,324,113,IIT Kanpur,Computer Science,8.4,N/A,17 Mo
+318,"Texas A&M University, College Station",Admit,Electrical Engineering,Fall 2019,168,159,N/A,327,110,IIT Kanpur,EEE,8.01,N/A,0 Mo
+319,Stanford University,Reject,Computer Science,Fall 2019,170,165,5,335,N/A,IIT Kanpur,Mathematics,9.66,2,0 Mo
+320,University of Cincinnati,Reject,Business Analytics,Fall 2019,N/A,N/A,N/A,N/A,96,IIT Kanpur,Chemical Engineering,7.4,N/A,0 Mo
+321,Georgia Institute of Technology,Admit,Computer Science,Fall 2019,170,165,5,335,N/A,IIT Kanpur,Mathematics,9.66,2,0 Mo
+322,University of Houston,Reject,Computer Science,Fall 2016,168,148,3.5,316,101,IIT Kanpur,EEE,7.2,N/A,0 Mo
+323,Harvard University,Reject,Data Science,Fall 2020,169,159,4,328,116,IIT Kanpur,Computer Science,9.3,N/A,19 Mo
+324,"University of California, Irvine",Admit,Computer Science,Fall 2020,170,155,3.5,325,102,IIT Kanpur,EEE,8.4,N/A,0 Mo
+325,Columbia University,Admit,Computer Science,Fall 2020,170,162,4.5,332,111,IIT Kanpur,Mathematics,8.1,N/A,29 Mo
+326,University of Southern California,Admit,Electrical Engineering,Fall 2018,168,152,4,320,N/A,IIT Kanpur,ECE,9,N/A,42 Mo
+327,"University of California, San Diego",Reject,Computer Science,Fall 2020,170,162,4.5,332,111,IIT Kanpur,Mathematics,8.1,N/A,29 Mo
+328,New York University,Admit,Computer Science,Fall 2020,170,148,3,318,111,IIT Kanpur,ECE,8.1,N/A,17 Mo
+329,University of Alberta,Reject,Computing Science,Fall 2020,170,159,4,329,110,IIT Kanpur,Computer Science,7.5,N/A,0 Mo
+330,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2020,169,159,4,328,116,IIT Kanpur,Computer Science,9.3,N/A,19 Mo
+331,"University of California, Davis",Admit,Business Analytics,Fall 2020,167,155,3.5,322,8,IIT Kanpur,Computer Science,5.9,0,29 Mo
+332,Georgia Institute of Technology,Reject,Computer Science,Fall 2020,170,155,3.5,325,102,IIT Kanpur,EEE,8.4,N/A,0 Mo
+333,"University of Maryland, College Park",Admit,Robotics,Fall 2018,163,155,3.5,318,105,IIT Kanpur,Aeronautical Engineering,8.7,N/A,0 Mo
+334,"University of Wisconsin, Madison",Admit,Computer Science,Fall 2018,170,163,N/A,333,111,IIT Kanpur,EEE,9.52,N/A,19 Mo
+335,University of Montreal,Admit,Computer Science,Fall 2018,N/A,N/A,N/A,N/A,85,IIT Kanpur,EEE,7.4,N/A,0 Mo
+336,"University of Florida, Gainesville",Admit,Computer Science,Fall 2016,168,148,3.5,316,101,IIT Kanpur,EEE,7.2,N/A,0 Mo
+337,"Rutgers University, New Brunswick",Admit,Electrical & Computer Engineering,Fall 2020,165,157,3.5,322,7,IIT Kanpur,Computer Science,6.3,N/A,18 Mo
+338,ETH Zurich,Reject,Bioinformatics,Fall 2020,168,163,4,331,109,IIT Kanpur,ECE,8.3,N/A,0 Mo
+339,Stanford University,Admit,Computer Science,Fall 2018,170,164,5.5,334,N/A,IIT Kanpur,Computer Science,9.5,N/A,0 Mo
+340,"University of Wisconsin, Madison",Admit,Computer Science,Fall 2019,168,157,4.5,325,104,IIT Kanpur,ECE,9.3,N/A,0 Mo
+341,Michigan Technological University,Admit,Mechanical Engineering,Fall 2018,160,153,3,313,107,IIT Kanpur,Mechanical Engineering,9.22,N/A,0 Mo
+342,"University of Illinois, Urbana Champaign",Reject,Electrical & Computer Engineering,Fall 2017,170,154,3.5,324,110,IIT Kanpur,EEE,8,N/A,0 Mo
+343,"University of Illinois, Urbana Champaign",Admit,Computer Science,Fall 2019,N/A,N/A,N/A,N/A,105,IIT Kanpur,EEE,9.5,N/A,0 Mo
+344,"Purdue University, West Lafayette",Admit,Electrical & Computer Engineering,Fall 2020,169,155,3,324,102,IIT Kanpur,EEE,8.2,0,18 Mo
+345,"State University of New York, Buffalo",Admit,Civil Engineering,Fall 2018,169,157,4.5,326,107,IIT Kanpur,Civil Engineering,70,N/A,0 Mo
+346,Pennsylvania State University,Admit,Computer Science,Fall 2020,170,148,3,318,111,IIT Kanpur,ECE,8.1,N/A,17 Mo
+347,Georgia Institute of Technology,Admit,Computer Science,Fall 2018,168,157,3.5,325,110,IIT Kanpur,Computer Science,7.5,N/A,0 Mo
+348,"University of Maryland, College Park",Reject,Computer Science,Fall 2020,170,155,3.5,325,102,IIT Kanpur,EEE,8.4,N/A,0 Mo
+349,"Texas A&M University, College Station",Admit,Computer Science,Fall 2019,170,152,3,322,104,IIT Kanpur,EEE,8.5,1,31 Mo
+350,The University of Chicago,Admit,Data Analytics,Fall 2018,163,151,3.5,314,N/A,IIT Kanpur,Economics,8,N/A,0 Mo
+351,McGill University,Reject,Computer Science,Fall 2020,170,162,4.5,332,111,IIT Kanpur,Mathematics,8.1,N/A,29 Mo
+352,"University of California, San Diego",Admit,Computer Science,Fall 2019,170,160,3.5,330,108,IIT Kanpur,ECE,9,1,17 Mo
+353,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2018,169,155,3.5,324,113,IIT Kanpur,Computer Science,8.4,N/A,17 Mo
+354,Carnegie Mellon University,Reject,Computer Science,Fall 2018,170,163,N/A,333,111,IIT Kanpur,EEE,9.52,N/A,19 Mo
+355,"Purdue University, West Lafayette",Admit,Electrical & Computer Engineering,Fall 2018,168,152,4,320,N/A,IIT Kanpur,ECE,9,N/A,42 Mo
+356,NYU Tandon School of Engineering,Admit,Computer Engineering,Spring 2020,166,162,4.5,328,116,IIT Kanpur,ECE,8,N/A,0 Mo
+357,Carnegie Mellon University,Reject,Computer Science,Fall 2019,170,152,3,322,104,IIT Kanpur,EEE,8.5,1,31 Mo
+358,"University of Texas, Dallas",Admit,Business Analytics Flex,Fall 2019,168,154,3.5,322,100,IIT Kanpur,Civil Engineering,5.9,N/A,0 Mo
+359,"University of Maryland, College Park",Admit,Civil & Environmental Engineering,Fall 2018,169,157,4.5,326,107,IIT Kanpur,Civil Engineering,70,N/A,0 Mo
+360,"University of Minnesota, Twin Cities",Reject,Data Science,Fall 2016,168,148,3.5,316,101,IIT Kanpur,EEE,7.2,N/A,0 Mo
+361,"University of Maryland, College Park",Reject,Computer Science,Fall 2020,170,162,4.5,332,111,IIT Kanpur,Mathematics,8.1,N/A,29 Mo
+362,"University of California, Los Angeles",Admit,Computer Science,Fall 2020,170,155,3.5,325,102,IIT Kanpur,EEE,8.4,N/A,0 Mo
+363,Oregon State University,Admit,Electrical & Computer Engineering,Fall 2017,170,157,3,327,N/A,IIT Kanpur,EEE,7.9,N/A,0 Mo
+364,ETH Zurich,Reject,Data Science,Fall 2020,170,162,4.5,332,111,IIT Kanpur,Mathematics,8.1,N/A,29 Mo
+365,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2020,170,155,3.5,325,102,IIT Kanpur,EEE,8.4,N/A,0 Mo
+366,Nanyang Technological University,Admit,MBA,Fall 2020,167,161,3.5,328,N/A,IIT Kanpur,Mechanical Engineering,8.6,2,39 Mo
+367,Carnegie Mellon University,Reject,Data Science,Fall 2020,170,159,4,329,110,IIT Kanpur,Computer Science,7.5,N/A,0 Mo
+368,"University of Maryland, College Park",Admit,Telecommunications Engineering,Fall 2018,161,152,0,313,N/A,IIT Kanpur,ECE,7.3,N/A,0 Mo
+369,"University of Massachusetts, Amherst",Reject,Computer Science,Fall 2020,170,159,4,329,110,IIT Kanpur,Computer Science,7.5,N/A,0 Mo
+370,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2019,170,165,5,335,N/A,IIT Kanpur,Mathematics,9.66,2,0 Mo
+371,"University of Texas, Austin",Reject,Electrical & Computer Engineering,Fall 2019,168,159,N/A,327,110,IIT Kanpur,EEE,8.01,N/A,0 Mo
+372,North Carolina State University,Admit,Computer Engineering,Fall 2020,165,157,3.5,322,7,IIT Kanpur,Computer Science,6.3,N/A,18 Mo
+373,"University of Wisconsin, Madison",Admit,Computer Science,Fall 2017,170,153,3.5,323,105,IIT Kanpur,EEE,89,N/A,0 Mo
+374,Stanford University,Admit,Computational and Mathematical Engineeri,Fall 2020,169,159,4,328,116,IIT Kanpur,Computer Science,9.3,N/A,19 Mo
+375,University of Cincinnati,Admit,Business Analytics,Fall 2018,164,155,3,319,103,IIT Kanpur,Mechanical Engineering,7.7,N/A,0 Mo
+376,San Jose State University,Admit,Software Engineering,Fall 2020,168,159,4,327,110,IIT Kanpur,Computer Science,6.7,N/A,43 Mo
+377,Pennsylvania State University,Admit,Electrical Engineering,Fall 2017,170,154,3.5,324,110,IIT Kanpur,EEE,8,N/A,0 Mo
+378,Carnegie Mellon University,Reject,Data Science,Fall 2018,169,155,3.5,324,113,IIT Kanpur,Computer Science,8.4,N/A,17 Mo
+379,"Texas A&M University, College Station",Admit,Computer Science,Fall 2020,170,148,3,318,111,IIT Kanpur,ECE,8.1,N/A,17 Mo
+380,"University of Wisconsin, Madison",Reject,Electrical Engineering,Fall 2017,170,157,3,327,N/A,IIT Kanpur,EEE,7.9,N/A,0 Mo
+381,McGill University,Reject,Computer Science,Fall 2018,169,155,3.5,324,113,IIT Kanpur,Computer Science,8.4,N/A,17 Mo
+382,"Purdue University, West Lafayette",Admit,Business Analytics and Information Syste,Fall 2019,168,154,3.5,322,100,IIT Kanpur,Civil Engineering,5.9,N/A,0 Mo
+383,"University of Minnesota, Twin Cities",Admit,Mechanical Engineering,Fall 2018,160,153,3,313,107,IIT Kanpur,Mechanical Engineering,9.22,N/A,0 Mo
+384,"University of Wisconsin, Madison",Reject,Electrical Engineering,Fall 2017,168,151,3.5,319,107,IIT Kanpur,EEE,8.6,N/A,0 Mo
+385,"University of Wisconsin, Madison",Reject,Computer Science,Fall 2020,169,159,4,328,116,IIT Kanpur,Computer Science,9.3,N/A,19 Mo
+386,"University of Wisconsin, Madison",Reject,Computer Science,Fall 2019,170,152,3,322,104,IIT Kanpur,EEE,8.5,1,31 Mo
+387,Carnegie Mellon University,Reject,Robotics,Fall 2018,163,155,3.5,318,105,IIT Kanpur,Aeronautical Engineering,8.7,N/A,0 Mo
+388,"University of Massachusetts, Amherst",Reject,Computer Science,Fall 2020,170,162,4.5,332,111,IIT Kanpur,Mathematics,8.1,N/A,29 Mo
+389,"University of California, San Diego",Reject,Computer Science,Fall 2018,169,155,3.5,324,113,IIT Kanpur,Computer Science,8.4,N/A,17 Mo
+390,Johns Hopkins University,Admit,Robotics,Fall 2020,168,166,4,334,117,IIT Kanpur,EEE,8.9,N/A,17 Mo
+391,Columbia University,Admit,Computer Science,Fall 2020,169,159,4,328,116,IIT Kanpur,Computer Science,9.3,N/A,19 Mo
+392,Carnegie Mellon University,Reject,Electrical & Computer Engineering,Fall 2017,170,157,3,327,N/A,IIT Kanpur,EEE,7.9,N/A,0 Mo
+393,Cornell University,Reject,Mechanical Engineering,Fall 2018,160,153,3,313,107,IIT Kanpur,Mechanical Engineering,9.22,N/A,0 Mo
+394,University of Toronto,Reject,Computer Science,Fall 2020,170,162,4.5,332,111,IIT Kanpur,Mathematics,8.1,N/A,29 Mo
+395,"University of California, San Diego",Admit,Electrical & Computer Engineering,Fall 2019,168,157,4.5,325,104,IIT Kanpur,ECE,9.3,N/A,0 Mo
+396,Georgia Institute of Technology,Reject,Electrical & Computer Engineering,Fall 2017,170,154,3.5,324,110,IIT Kanpur,EEE,8,N/A,0 Mo
+397,Stanford University,Reject,Electrical Engineering,Fall 2018,170,163,N/A,333,111,IIT Kanpur,EEE,9.52,N/A,19 Mo
+398,"University of California, San Diego",Reject,Computer Science,Fall 2018,170,155,3,325,106,IIT Kanpur,EEE,7.8,N/A,17 Mo
+399,"University of California, Irvine",Reject,Computer Science,Fall 2018,170,155,3,325,106,IIT Kanpur,EEE,7.8,N/A,17 Mo
+400,Rice University,Admit,Chemical and Petroleum Engineering,Fall 2019,170,152,4,322,110,IIT Kanpur,Chemical Engineering,8.9,N/A,0 Mo
+401,North Carolina State University,Admit,Computer Science,Fall 2020,169,155,4,324,109,IIT Kharagpur,ECE,8.26,N/A,18 Mo
+402,Columbia University,Admit,Computer Science,Fall 2020,170,154,4.5,324,112,IIT Kharagpur,EEE,9.1,2,0 Mo
+403,"University of Illinois, Urbana Champaign",Reject,Computer Science,Fall 2020,170,146,3,316,100,IIT Kharagpur,ECE,8.21,0,29 Mo
+404,Arizona State University,Admit,Computer Science,Fall 2020,165,150,4,315,109,IIT Kharagpur,Mining Engineering,7.5,N/A,20 Mo
+405,"University of California, Irvine",Admit,Computer Science,Fall 2020,169,153,3,322,98,IIT Kharagpur,EEE,9.04,N/A,18 Mo
+406,Georgia State University,Admit,Data Science,Fall 2020,170,149,3,319,100,IIT Kharagpur,Civil Engineering,6.85,N/A,66 Mo
+407,Georgia Institute of Technology,Admit,Civil Engineering,Fall 2016,161,159,3.5,320,N/A,IIT Kharagpur,Civil Engineering,8.97,N/A,0 Mo
+408,Carnegie Mellon University,Admit,Computer Science,Fall 2019,170,160,5.5,330,115,IIT Kharagpur,Computer Science,9.6,N/A,0 Mo
+409,"University of Colorado, Boulder",Admit,Mechanical Engineering,Fall 2020,168,158,3.5,326,110,IIT Kharagpur,Aeronautical Engineering,8.35,N/A,0 Mo
+410,"University of California, Berkeley",Reject,Information Management and Systems,Fall 2019,167,152,3,319,104,IIT Kharagpur,Mechanical Engineering,7.83,N/A,30 Mo
+411,"University of California, Irvine",Reject,Computer Science,Fall 2018,169,157,3.5,326,N/A,IIT Kharagpur,Instrumentation Engineering,7.53,0,31 Mo
+412,"University of Florida, Gainesville",Reject,Computer Science,Fall 2018,166,146,3,312,90,IIT Kharagpur,Computer Science,73.9,N/A,0 Mo
+413,"Texas A&M University, College Station",Admit,Industrial Engineering,Fall 2018,168,166,4,334,116,IIT Kharagpur,Industrial Engineering,7.85,N/A,41 Mo
+414,University of Southern California,Reject,Computer Science,Fall 2019,170,154,4,324,112,IIT Kharagpur,Computer Science,8.27,N/A,54 Mo
+415,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2019,170,159,4.5,329,111,IIT Kharagpur,EEE,8.43,N/A,17 Mo
+416,"Indiana University, Bloomington",Admit,Computer Science,Fall 2020,168,153,4,321,102,IIT Kharagpur,Aeronautical Engineering,7.71,N/A,42 Mo
+417,Vanderbilt University,Reject,Mechanical Engineering,Fall 2019,170,149,4,319,107,IIT Kharagpur,Metallurgical Engineering,7,N/A,0 Mo
+418,Carnegie Mellon University,Reject,Robotics,Fall 2018,157,170,4,327,117,IIT Kharagpur,Mechanical Engineering,8.44,0,19 Mo
+419,"Purdue University, West Lafayette",Admit,Business Analytics and Information Syste,Fall 2019,168,152,3.5,320,103,IIT Kharagpur,Chemistry,7.25,N/A,0 Mo
+420,"University of Texas, Austin",Admit,Information Technology Management,Fall 2019,170,157,4,327,116,IIT Kharagpur,Mechanical Engineering,7,N/A,0 Mo
+421,Cornell University,Reject,Computer Science,Fall 2019,167,152,3,319,104,IIT Kharagpur,Mechanical Engineering,7.83,N/A,30 Mo
+422,"University of Michigan, Ann Arbor",Reject,Mechanical Engineering,Fall 2020,170,147,3.5,317,103,IIT Kharagpur,Mechanical Engineering,7.3,N/A,0 Mo
+423,North Carolina State University,Admit,Mechanical Engineering,Fall 2019,168,158,4.5,326,N/A,IIT Kharagpur,Mechanical Engineering,8.36,N/A,0 Mo
+424,Columbia University,Reject,Computer Science,Fall 2018,169,155,4,324,100,IIT Kharagpur,Industrial Engineering,8.48,N/A,0 Mo
+425,"University of Illinois, Urbana Champaign",Reject,Computer Science,Fall 2018,169,155,4,324,100,IIT Kharagpur,Industrial Engineering,8.48,N/A,0 Mo
+426,"Purdue University, West Lafayette",Reject,Computer Science,Fall 2019,167,152,3,319,104,IIT Kharagpur,Mechanical Engineering,7.83,N/A,30 Mo
+427,"University of Texas, Austin",Reject,Electrical & Computer Engineering,Fall 2018,170,157,N/A,327,112,IIT Kharagpur,EEE,8.44,N/A,0 Mo
+428,Pennsylvania State University,Admit,Computer Science,Fall 2020,170,146,3,316,100,IIT Kharagpur,ECE,8.21,0,29 Mo
+429,Carnegie Mellon University,Admit,Mechanical Engineering,Fall 2020,160,148,4,308,107,IIT Kharagpur,Mechanical Engineering,8.46,N/A,0 Mo
+430,McGill University,Reject,Chemical Engineering,Fall 2020,169,155,4.5,324,117,IIT Kharagpur,Chemical Engineering,9.16,0,3 Mo
+431,"University of Texas, Dallas",Admit,Computer Science,Fall 2017,168,151,4,319,98,IIT Kharagpur,Mechanical Engineering,6.71,N/A,0 Mo
+432,New York University,Admit,Computer Science,Fall 2018,167,150,3,317,99,IIT Kharagpur,Computer Science,8.24,N/A,0 Mo
+433,"University of Massachusetts, Amherst",Reject,Computer Science,Fall 2018,166,146,3,312,90,IIT Kharagpur,Computer Science,73.9,N/A,0 Mo
+434,University of Virginia,Reject,Computer Science,Fall 2019,167,152,3,319,104,IIT Kharagpur,Mechanical Engineering,7.83,N/A,30 Mo
+435,"University of California, Santa Barbara",Admit,Computer Science,Fall 2019,169,155,3,324,101,IIT Kharagpur,Computer Science,8.44,N/A,0 Mo
+436,Virginia Tech University,Admit,Computer Science,Fall 2019,169,152,4,321,118,IIT Kharagpur,ECE,8.86,1,0 Mo
+437,University of Southern California,Admit,Electrical Engineering,Fall 2019,169,159,4.5,328,117,IIT Kharagpur,ECE,9.82,N/A,2 Mo
+438,"University of Wisconsin, Madison",Admit,Computer Science,Fall 2017,170,152,3.5,322,107,IIT Kharagpur,ECE,8.8,N/A,0 Mo
+439,"University of Minnesota, Twin Cities",Reject,Computer Science,Fall 2017,170,152,3.5,322,107,IIT Kharagpur,ECE,8.8,N/A,0 Mo
+440,University of South Dakota,Admit,Computer Science,Fall 2020,165,150,4,315,109,IIT Kharagpur,Mining Engineering,7.5,N/A,20 Mo
+441,North Carolina State University,Reject,Computer Science,Fall 2018,169,157,3.5,326,N/A,IIT Kharagpur,Instrumentation Engineering,7.53,0,31 Mo
+442,Duke University,Admit,Engineering Management,Fall 2018,169,159,4.5,328,110,IIT Kharagpur,Industrial Engineering,8.94,N/A,0 Mo
+443,New York University,Admit,Computer Science,Fall 2019,170,159,4.5,329,111,IIT Kharagpur,EEE,8.43,N/A,17 Mo
+444,"Purdue University, West Lafayette",Reject,Mechanical Engineering,Fall 2020,170,147,3.5,317,103,IIT Kharagpur,Mechanical Engineering,7.3,N/A,0 Mo
+445,University of Pennsylvania,Admit,Data Science,Fall 2019,170,155,3.5,325,101,IIT Kharagpur,ECE,9.02,0,0 Mo
+446,"University of Texas, Dallas",Admit,Computer Science,Fall 2018,167,150,3,317,99,IIT Kharagpur,Computer Science,8.24,N/A,0 Mo
+447,"Rutgers University, New Brunswick",Reject,Computer Science,Fall 2018,169,157,3.5,326,N/A,IIT Kharagpur,Instrumentation Engineering,7.53,0,31 Mo
+448,"Purdue University, West Lafayette",Reject,Industrial Engineering,Fall 2019,169,155,4,324,106,IIT Kharagpur,Mechanical Engineering,7.46,N/A,0 Mo
+449,"University of California, San Diego",Reject,Computer Science,Fall 2020,167,155,3.5,322,110,IIT Kharagpur,Computer Science,8.8,0,0 Mo
+450,Ohio State University,Admit,Computer Science,Fall 2020,169,152,4.5,321,N/A,IIT Kharagpur,ECE,9.6,N/A,0 Mo
+451,Arizona State University,Admit,Electrical Engineering,Fall 2018,165,159,4,324,117,IIT Kharagpur,ECE,9.15,N/A,0 Mo
+452,University of Southern California,Reject,Mechanical Engineering,Fall 2020,170,147,3.5,317,103,IIT Kharagpur,Mechanical Engineering,7.3,N/A,0 Mo
+453,Columbia University,Reject,Data Science,Fall 2019,170,158,3,328,106,IIT Kharagpur,Industrial Engineering,8.17,N/A,30 Mo
+454,Oregon State University,Reject,Robotics,Fall 2019,165,154,3.5,319,105,IIT Kharagpur,Aeronautical Engineering,7.24,N/A,0 Mo
+455,University of Washington,Reject,Data Science,Fall 2019,169,152,4,321,118,IIT Kharagpur,ECE,8.86,1,0 Mo
+456,University of Washington,Admit,Mechanical Engineering,Fall 2019,170,149,4,319,107,IIT Kharagpur,Metallurgical Engineering,7,N/A,0 Mo
+457,Columbia University,Reject,Data Science,Fall 2019,168,154,3.5,322,108,IIT Kharagpur,Mechanical Engineering,8.08,N/A,18 Mo
+458,"University of Wisconsin, Madison",Reject,Computer Science,Fall 2019,169,155,3,324,101,IIT Kharagpur,Computer Science,8.44,N/A,0 Mo
+459,Carnegie Mellon University,Admit,Electrical & Computer Engineering,Fall 2018,167,160,4.5,327,114,IIT Kharagpur,Instrumentation Engineering,8.5,N/A,0 Mo
+460,"Texas A&M University, College Station",Admit,Mechanical Engineering,Fall 2019,169,150,4,319,104,IIT Kharagpur,Aeronautical Engineering,8.87,N/A,0 Mo
+461,Carnegie Mellon University,Reject,Computer Science,Fall 2019,170,154,4,324,112,IIT Kharagpur,Computer Science,8.27,N/A,54 Mo
+462,Georgia Institute of Technology,Reject,Computer Science,Fall 2020,170,146,3,316,100,IIT Kharagpur,ECE,8.21,0,29 Mo
+463,"Rutgers University, New Brunswick",Reject,Computer Science,Fall 2020,169,152,N/A,321,N/A,IIT Kharagpur,EEE,8.16,N/A,18 Mo
+464,Oregon State University,Reject,Robotics,Fall 2019,170,157,4,327,109,IIT Kharagpur,Mechanical Engineering,9.4,N/A,0 Mo
+465,Rice University,Admit,Electrical Engineering,Fall 2016,166,161,4,327,109,IIT Kharagpur,ECE,8,N/A,0 Mo
+466,"University of Massachusetts, Amherst",Reject,Computer Science,Fall 2020,169,152,N/A,321,N/A,IIT Kharagpur,EEE,8.16,N/A,18 Mo
+467,"University of Illinois, Urbana Champaign",Reject,Industrial Engineering,Fall 2018,168,166,4,334,116,IIT Kharagpur,Industrial Engineering,7.85,N/A,41 Mo
+468,"University of Minnesota, Twin Cities",Reject,Data Science,Fall 2019,170,155,4,325,110,IIT Kharagpur,Computer Science,7.56,0,15 Mo
+469,Massachusetts Institute of Technology,Reject,Industrial Engineering,Fall 2018,168,166,4,334,116,IIT Kharagpur,Industrial Engineering,7.85,N/A,41 Mo
+470,"University of Texas, Austin",Reject,Business Analytics,Fall 2019,168,152,3.5,320,103,IIT Kharagpur,Chemistry,7.25,N/A,0 Mo
+471,"University of California, Berkeley",Reject,Computer Science,Fall 2019,170,160,5.5,330,115,IIT Kharagpur,Computer Science,9.6,N/A,0 Mo
+472,University of Southern California,Reject,Computer Science,Fall 2019,169,156,4,325,105,IIT Kharagpur,Agriculture,7.58,0,10 Mo
+473,"University of California, San Diego",Admit,Data Science,Fall 2019,169,152,4,321,118,IIT Kharagpur,ECE,8.86,1,0 Mo
+474,Columbia University,Reject,Data Science,Fall 2019,170,154,4,324,112,IIT Kharagpur,Mathematics,7.38,0,18 Mo
+475,Worcester Polytechnic Institute,Admit,Robotics,Fall 2019,170,157,4,327,109,IIT Kharagpur,Mechanical Engineering,9.4,N/A,0 Mo
+476,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2019,169,152,4,321,118,IIT Kharagpur,ECE,8.86,1,0 Mo
+477,University of Toronto,Admit,Applied Computing,Fall 2018,170,157,3.5,327,109,IIT Kharagpur,Biotechnology,9.29,N/A,0 Mo
+478,Carnegie Mellon University,Reject,Data Science,Fall 2019,169,155,3,324,101,IIT Kharagpur,Computer Science,8.44,N/A,0 Mo
+479,"University of California, Irvine",Admit,Computer Science,Fall 2019,170,155,4,325,110,IIT Kharagpur,Computer Science,7.56,0,15 Mo
+480,"University of California, San Diego",Admit,Electrical & Computer Engineering,Fall 2019,168,160,4.5,328,112,IIT Kharagpur,ECE,9.13,N/A,1 Mo
+481,Columbia University,Reject,Industrial Engineering,Fall 2018,168,166,4,334,116,IIT Kharagpur,Industrial Engineering,7.85,N/A,41 Mo
+482,"University of Texas, Austin",Reject,Mechanical Engineering,Fall 2020,170,147,3.5,317,103,IIT Kharagpur,Mechanical Engineering,7.3,N/A,0 Mo
+483,"University of Illinois, Urbana Champaign",Admit,Information Management,Fall 2019,170,146,0,316,105,IIT Kharagpur,ECE,7.7,N/A,30 Mo
+484,Carnegie Mellon University,Reject,Computer Science,Fall 2020,169,155,4,324,109,IIT Kharagpur,ECE,8.26,N/A,18 Mo
+485,"University of Texas, Dallas",Admit,Computer Science,Fall 2018,169,155,3,324,109,IIT Kharagpur,Civil Engineering,7.84,N/A,53 Mo
+486,"University of Texas, Austin",Reject,Computer Science,Fall 2019,170,154,4,324,112,IIT Kharagpur,Computer Science,8.27,N/A,54 Mo
+487,"University of Minnesota, Twin Cities",Admit,Electrical & Computer Engineering,Fall 2017,165,156,4,321,112,IIT Kharagpur,EEE,8.13,N/A,0 Mo
+488,"University of Massachusetts, Amherst",Reject,Computer Science,Fall 2018,170,146,N/A,316,98,IIT Kharagpur,Computer Science,7.01,N/A,30 Mo
+489,ETH Zurich,Reject,Computer Science,Fall 2020,167,155,3.5,322,110,IIT Kharagpur,Computer Science,8.8,0,0 Mo
+490,Ohio State University,Reject,Computer Science,Fall 2020,168,153,4,321,102,IIT Kharagpur,Aeronautical Engineering,7.71,N/A,42 Mo
+491,"University of Illinois, Urbana Champaign",Reject,Computer Science,Fall 2020,169,155,4,324,109,IIT Kharagpur,ECE,8.26,N/A,18 Mo
+492,"University of California, Davis",Reject,Computer Science,Fall 2019,167,152,3,319,104,IIT Kharagpur,Mechanical Engineering,7.83,N/A,30 Mo
+493,Pennsylvania State University,Admit,Chemical Engineering,Fall 2017,164,150,4.5,314,105,IIT Kharagpur,Chemical Engineering,8.81,N/A,0 Mo
+494,Georgia Institute of Technology,Reject,Mechanical Engineering,Fall 2020,168,158,3.5,326,110,IIT Kharagpur,Aeronautical Engineering,8.35,N/A,0 Mo
+495,North Carolina State University,Admit,Industrial Engineering,Fall 2018,168,166,4,334,116,IIT Kharagpur,Industrial Engineering,7.85,N/A,41 Mo
+496,"University of Minnesota, Twin Cities",Admit,Business Analytics,Fall 2019,168,152,3.5,320,103,IIT Kharagpur,Chemistry,7.25,N/A,0 Mo
+497,"University of Illinois, Urbana Champaign",Reject,Aerospace Engineering,Fall 2019,169,150,4,319,104,IIT Kharagpur,Aeronautical Engineering,8.87,N/A,0 Mo
+498,"Purdue University, West Lafayette",Admit,Mechanical Engineering,Fall 2019,169,145,N/A,314,96,IIT Kharagpur,Mechanical Engineering,9.53,N/A,0 Mo
+499,Columbia University,Admit,Management Science and Engineering,Fall 2018,169,159,4.5,328,110,IIT Kharagpur,Industrial Engineering,8.94,N/A,0 Mo
+500,University of Southern California,Reject,Engineering Management,Fall 2020,N/A,N/A,N/A,N/A,105,IIT Kharagpur,Biotechnology,6.99,0,22 Mo
+501,"University of Texas, Austin",Admit,Business Analytics,Fall 2019,169,162,4,331,106,IIT Roorkee,Chemical Engineering,8.57,N/A,16 Mo
+502,"Purdue University, West Lafayette",Reject,Business Analytics and Information Syste,Fall 2019,164,155,4,319,110,IIT Roorkee,Biotechnology,7.48,N/A,30 Mo
+503,"University of Illinois, Chicago",Reject,Computer Science,Fall 2018,165,160,4.5,325,114,IIT Roorkee,Computer Science,6.65,2,30 Mo
+504,Delft University of Technology,Admit,Mechanical Engineering,Fall 2020,170,166,4.5,336,117,IIT Roorkee,Mechanical Engineering,8.86,0,6 Mo
+505,New York University,Admit,Computer Science,Fall 2020,168,160,4.5,328,100,IIT Roorkee,EEE,7.61,1,31 Mo
+506,"Texas A&M University, College Station",Admit,Mechanical Engineering,Fall 2019,167,156,3,323,104,IIT Roorkee,Mechanical Engineering,9.18,N/A,30 Mo
+507,"University of Maryland, College Park",Reject,Robotics,Fall 2019,170,155,3,325,108,IIT Roorkee,Industrial Engineering,8.46,N/A,0 Mo
+508,Iowa State University,Reject,Chemical Engineering,Fall 2018,168,148,N/A,316,N/A,IIT Roorkee,Chemical Engineering,8.38,N/A,0 Mo
+509,University of Washington,Admit,Materials Science & Engineering,Fall 2017,169,161,3.5,330,119,IIT Roorkee,Mechanical Engineering,8.7,N/A,0 Mo
+510,"University of Florida, Gainesville",Admit,Chemical Engineering,Fall 2019,164,151,3.5,315,7,IIT Roorkee,Chemical Engineering,8.4,0,29 Mo
+511,"University of Illinois, Urbana Champaign",Reject,Industrial Engineering,Fall 2018,167,152,4,319,99,IIT Roorkee,Industrial Engineering,5.7,N/A,0 Mo
+512,Ohio State University,Reject,Computer Science,Fall 2016,169,155,3.5,324,106,IIT Roorkee,Computer Science,8.19,N/A,0 Mo
+513,New York University,Admit,Computer Science,Fall 2017,170,155,3,325,110,IIT Roorkee,ECE,7.5,N/A,0 Mo
+514,McMaster University,Reject,Chemical and Petroleum Engineering,Fall 2019,164,151,3.5,315,7,IIT Roorkee,Chemical Engineering,8.4,0,29 Mo
+515,"Texas A&M University, College Station",Admit,Computer Engineering,Fall 2020,170,164,4,334,115,IIT Roorkee,EEE,7.71,N/A,0 Mo
+516,"University of California, Riverside",Reject,Computer Science,Fall 2019,167,157,3,324,101,IIT Roorkee,Computer Science,6.4,1,79 Mo
+517,Arizona State University,Admit,Electrical Engineering,Fall 2016,167,160,4,327,107,IIT Roorkee,ECE,7.8,N/A,0 Mo
+518,"University of California, Irvine",Reject,Computer Engineering,Fall 2020,170,164,4,334,115,IIT Roorkee,EEE,7.71,N/A,0 Mo
+519,Georgia Institute of Technology,Reject,Chemical and Petroleum Engineering,Fall 2017,167,155,3,322,106,IIT Roorkee,Chemical Engineering,8.21,N/A,13 Mo
+520,Ohio State University,Reject,Computer Science,Fall 2019,167,154,3.5,321,105,IIT Roorkee,ECE,8.5,N/A,0 Mo
+521,"University of Minnesota, Twin Cities",Admit,Computer Science,Fall 2019,169,155,3,324,110,IIT Roorkee,ECE,7.8,N/A,0 Mo
+522,North Carolina State University,Admit,Mechanical Engineering,Fall 2016,167,162,4,329,115,IIT Roorkee,Mechanical Engineering,8.89,N/A,0 Mo
+523,"University of Texas, Austin",Reject,Computer Science,Fall 2020,168,160,4.5,328,100,IIT Roorkee,EEE,7.61,1,31 Mo
+524,"Texas A&M University, College Station",Reject,Chemical Engineering,Fall 2018,168,148,N/A,316,N/A,IIT Roorkee,Chemical Engineering,8.38,N/A,0 Mo
+525,"University of Illinois, Urbana Champaign",Reject,Computer Science,Fall 2019,170,163,3.5,333,112,IIT Roorkee,Metallurgical Engineering,8.36,N/A,0 Mo
+526,University of Washington,Reject,Data Science,Fall 2018,163,157,3.5,320,105,IIT Roorkee,Mechanical Engineering,7.35,N/A,16 Mo
+527,"University of Wisconsin, Madison",Reject,Computer Science,Fall 2016,170,160,4,330,115,IIT Roorkee,EEE,8.04,N/A,0 Mo
+528,Carnegie Mellon University,Admit,Data Science,Fall 2019,170,156,4.5,326,116,IIT Roorkee,Computer Science,8.78,N/A,30 Mo
+529,Stanford University,Reject,Computer Science,Fall 2020,168,160,4.5,328,100,IIT Roorkee,EEE,7.61,1,31 Mo
+530,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2019,170,155,3,325,105,IIT Roorkee,Computer Science,7.45,N/A,0 Mo
+531,"University of California, San Diego",Reject,Computer Science,Fall 2019,167,155,3.5,322,105,IIT Roorkee,ECE,8.55,N/A,0 Mo
+532,"University of Massachusetts, Amherst",Reject,Computer Science,Fall 2020,163,153,4.5,316,114,IIT Roorkee,ECE,7.87,N/A,0 Mo
+533,New York University,Reject,Computer Science,Fall 2017,170,162,3.5,332,110,IIT Roorkee,Mechanical Engineering,6.6,N/A,0 Mo
+534,Pennsylvania State University,Reject,Computer Science,Fall 2020,170,164,4,334,115,IIT Roorkee,EEE,7.71,N/A,0 Mo
+535,"University of Illinois, Urbana Champaign",Reject,Electrical & Computer Engineering,Fall 2020,168,163,4,331,118,IIT Roorkee,ECE,8.8,N/A,29 Mo
+536,"University of Texas, Austin",Admit,Computer Science,Fall 2020,170,158,4,328,113,IIT Roorkee,Computer Science,9.52,N/A,18 Mo
+537,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2016,170,160,4,330,115,IIT Roorkee,EEE,8.04,N/A,0 Mo
+538,Columbia University,Admit,Mechanical Engineering,Fall 2016,169,158,4,327,113,IIT Roorkee,Mechanical Engineering,8,N/A,0 Mo
+539,"University of Massachusetts, Amherst",Reject,Computer Science,Fall 2018,165,160,4.5,325,114,IIT Roorkee,Computer Science,6.65,2,30 Mo
+540,Virginia Tech University,Reject,Mechanical Engineering,Fall 2016,167,162,4,329,115,IIT Roorkee,Mechanical Engineering,8.89,N/A,0 Mo
+541,University of Pennsylvania,Reject,Information Technology,Fall 2019,170,163,3.5,333,112,IIT Roorkee,Metallurgical Engineering,8.36,N/A,0 Mo
+542,"University of California, San Diego",Reject,Computer Science,Fall 2019,170,163,3.5,333,112,IIT Roorkee,Metallurgical Engineering,8.36,N/A,0 Mo
+543,"State University of New York, Stony Brook",Admit,Computer Science,Fall 2018,170,155,5,325,118,IIT Roorkee,EEE,7.48,N/A,18 Mo
+544,"University of California, San Diego",Reject,Computer Science,Fall 2020,170,156,5,326,111,IIT Roorkee,ECE,9.53,N/A,0 Mo
+545,"University of Florida, Gainesville",Admit,Materials Science & Engineering,Fall 2017,167,153,4,320,109,IIT Roorkee,Civil Engineering,9.01,2,0 Mo
+546,"University of Wisconsin, Madison",Reject,Computer Science,Fall 2019,169,151,3.5,320,112,IIT Roorkee,Civil Engineering,8.75,N/A,18 Mo
+547,Princeton University,Reject,Computer Science,Fall 2020,168,160,4.5,328,100,IIT Roorkee,EEE,7.61,1,31 Mo
+548,Arizona State University,Admit,Software Engineering,Fall 2017,170,157,2.5,327,109,IIT Roorkee,Mechanical Engineering,7.68,N/A,0 Mo
+549,Stanford University,Admit,Computer Science,Fall 2019,170,159,4,329,111,IIT Roorkee,EEE,9.7,2,19 Mo
+550,Georgia Institute of Technology,Admit,Electrical & Computer Engineering,Fall 2019,170,155,4,325,112,IIT Roorkee,ECE,8,N/A,18 Mo
+551,Ohio State University,Reject,Computer Science,Fall 2019,167,157,3,324,101,IIT Roorkee,Computer Science,6.4,1,79 Mo
+552,"University of Michigan, Ann Arbor",Admit,Mechanical Engineering,Fall 2016,167,162,4,329,115,IIT Roorkee,Mechanical Engineering,8.89,N/A,0 Mo
+553,"University of Michigan, Dearborn",Reject,Electrical Engineering,Fall 2016,163,145,3,308,89,IIT Roorkee,ECE,5.8,N/A,0 Mo
+554,University of Pennsylvania,Reject,Data Science,Fall 2020,169,154,4.5,323,110,IIT Roorkee,Chemical Engineering,7.89,N/A,19 Mo
+555,Georgia Institute of Technology,Reject,Data Analytics,Fall 2020,169,154,4.5,323,110,IIT Roorkee,Chemical Engineering,7.89,N/A,19 Mo
+556,"University of California, Berkeley",Reject,Computer Science,Fall 2019,170,159,4,329,111,IIT Roorkee,EEE,9.7,2,19 Mo
+557,Carnegie Mellon University,Reject,Machine Learning,Fall 2018,170,150,4,320,100,IIT Roorkee,Industrial Engineering,8.47,N/A,0 Mo
+558,"University of California, Irvine",Reject,Computer Science,Fall 2019,170,155,3,325,105,IIT Roorkee,Computer Science,7.45,N/A,0 Mo
+559,"University of Maryland, College Park",Reject,Electrical & Computer Engineering,Fall 2014,167,151,3.5,318,94,IIT Roorkee,ECE,7.39,N/A,0 Mo
+560,Cornell University,Admit,Materials Science & Engineering,Fall 2017,169,161,3.5,330,119,IIT Roorkee,Mechanical Engineering,8.7,N/A,0 Mo
+561,Arizona State University,Admit,Electrical & Computer Engineering,Fall 2019,165,159,3.5,324,112,IIT Roorkee,EEE,8.2,N/A,42 Mo
+562,"University of Wisconsin, Madison",Reject,Computer Science,Fall 2020,170,156,3.5,326,108,IIT Roorkee,Computer Science,9.19,N/A,19 Mo
+563,Pennsylvania State University,Reject,Electrical Engineering,Fall 2020,170,164,4,334,115,IIT Roorkee,EEE,7.71,N/A,0 Mo
+564,"University of California, Los Angeles",Admit,Business Analytics,Fall 2019,N/A,N/A,N/A,N/A,114,IIT Roorkee,EEE,8.18,N/A,53 Mo
+565,"University of California, Los Angeles",Reject,Mechanical Engineering,Fall 2016,169,158,4,327,113,IIT Roorkee,Mechanical Engineering,8,N/A,0 Mo
+566,"Purdue University, West Lafayette",Reject,Industrial Engineering,Fall 2018,167,152,4,319,99,IIT Roorkee,Industrial Engineering,5.7,N/A,0 Mo
+567,Northeastern University,Admit,Data Analytics,Fall 2019,164,155,4,319,110,IIT Roorkee,Biotechnology,7.48,N/A,30 Mo
+568,"Purdue University, West Lafayette",Admit,Industrial Engineering,Fall 2020,168,152,4.5,320,116,IIT Roorkee,Industrial Engineering,8.9,N/A,31 Mo
+569,Georgia Institute of Technology,Reject,Data Analytics,Fall 2019,169,162,4,331,106,IIT Roorkee,Chemical Engineering,8.57,N/A,16 Mo
+570,Georgia Institute of Technology,Reject,Computer Science,Fall 2016,169,155,3.5,324,106,IIT Roorkee,Computer Science,8.19,N/A,0 Mo
+571,Georgia Institute of Technology,Reject,Materials Science & Engineering,Fall 2017,168,153,4,321,105,IIT Roorkee,Mechanical Engineering,8.6,1,0 Mo
+572,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2020,169,158,4,327,N/A,IIT Roorkee,Computer Science,8,N/A,0 Mo
+573,"University of Wisconsin, Madison",Reject,Computer Science,Fall 2019,170,156,4.5,326,116,IIT Roorkee,Computer Science,8.78,N/A,30 Mo
+574,"University of Florida, Gainesville",Reject,Industrial and Systems Engineering,Fall 2018,167,152,4,319,99,IIT Roorkee,Industrial Engineering,5.7,N/A,0 Mo
+575,Columbia University,Admit,Mechanical Engineering,Fall 2019,167,156,3,323,104,IIT Roorkee,Mechanical Engineering,9.18,N/A,30 Mo
+576,Carnegie Mellon University,Admit,Computer Science,Fall 2020,168,163,4,331,118,IIT Roorkee,ECE,8.8,N/A,29 Mo
+577,"University of California, Irvine",Reject,Electrical & Computer Engineering,Fall 2020,170,164,4,334,115,IIT Roorkee,EEE,7.71,N/A,0 Mo
+578,Carnegie Mellon University,Reject,Computer Science,Fall 2020,170,158,4,328,113,IIT Roorkee,Computer Science,9.52,N/A,18 Mo
+579,"University of Texas, Dallas",Admit,Computer Science,Fall 2018,165,160,4.5,325,114,IIT Roorkee,Computer Science,6.65,2,30 Mo
+580,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2020,169,158,4,327,116,IIT Roorkee,EEE,8.89,N/A,0 Mo
+581,Pennsylvania State University,Admit,Industrial Engineering,Fall 2019,170,162,3.5,332,112,IIT Roorkee,Metallurgical Engineering,7.3,N/A,0 Mo
+582,"University of Maryland, College Park",Admit,Robotics,Fall 2019,169,155,3,324,110,IIT Roorkee,ECE,7.8,N/A,0 Mo
+583,"University of Massachusetts, Amherst",Reject,Computer Science,Fall 2020,168,160,4.5,328,100,IIT Roorkee,EEE,7.61,1,31 Mo
+584,"University of Illinois, Urbana Champaign",Reject,Computer Science,Fall 2019,170,156,4.5,326,116,IIT Roorkee,Computer Science,8.78,N/A,30 Mo
+585,Georgia Institute of Technology,Admit,Supply Chain Management,Fall 2019,165,159,3,324,106,IIT Roorkee,Mechanical Engineering,7.75,N/A,50 Mo
+586,"University of Massachusetts, Amherst",Reject,Computer Science,Fall 2016,169,155,3.5,324,106,IIT Roorkee,Computer Science,8.19,N/A,0 Mo
+587,Carnegie Mellon University,Reject,Computer Science,Fall 2017,170,164,4,334,108,IIT Roorkee,EEE,8.46,N/A,0 Mo
+588,"University of Texas, Austin",Reject,Computer Engineering,Fall 2019,170,159,4,329,111,IIT Roorkee,EEE,9.7,2,19 Mo
+589,"University of Maryland, College Park",Reject,Electrical & Computer Engineering,Fall 2020,170,164,4,334,115,IIT Roorkee,EEE,7.71,N/A,0 Mo
+590,"Texas A&M University, College Station",Admit,Computer Science,Fall 2017,170,155,4,325,116,IIT Roorkee,ECE,8.5,N/A,0 Mo
+591,"University of Illinois, Urbana Champaign",Reject,Computer Science,Fall 2020,170,156,3.5,326,108,IIT Roorkee,Computer Science,9.19,N/A,19 Mo
+592,"Texas A&M University, College Station",Admit,Chemical Engineering,Fall 2017,167,155,3,322,106,IIT Roorkee,Chemical Engineering,8.21,N/A,13 Mo
+593,Georgia Institute of Technology,Reject,Data Analytics,Fall 2019,N/A,N/A,N/A,N/A,114,IIT Roorkee,EEE,8.18,N/A,53 Mo
+594,"University of Illinois, Urbana Champaign",Reject,Computer Science,Fall 2017,170,164,4,334,108,IIT Roorkee,EEE,8.46,N/A,0 Mo
+595,"University of Maryland, College Park",Reject,Software Engineering,Fall 2016,170,160,4,330,115,IIT Roorkee,EEE,8.04,N/A,0 Mo
+596,Georgia Institute of Technology,Reject,Computer Science,Fall 2019,167,155,3.5,322,105,IIT Roorkee,ECE,8.55,N/A,0 Mo
+597,"University of California, Davis",Admit,Computer Science,Fall 2019,170,163,3.5,333,112,IIT Roorkee,Metallurgical Engineering,8.36,N/A,0 Mo
+598,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2019,170,156,4.5,326,116,IIT Roorkee,Computer Science,8.78,N/A,30 Mo
+599,"University of Michigan, Ann Arbor",Reject,Data Science,Fall 2019,168,157,4,325,106,IIT Roorkee,EEE,6.94,N/A,5 Mo
+600,University of Pennsylvania,Reject,Data Science,Fall 2019,169,162,4,331,106,IIT Roorkee,Chemical Engineering,8.57,N/A,16 Mo
+601,"University of Michigan, Ann Arbor",Admit,Data Science,Fall 2020,169,158,4,327,114,IIT Guwahati,EEE,9.12,N/A,0 Mo
+602,"University of California, San Diego",Reject,Electrical & Computer Engineering,Fall 2019,168,150,3,318,N/A,IIT Guwahati,EEE,7.96,N/A,29 Mo
+603,University of Montreal,Reject,Computer Science,Fall 2019,169,149,3,318,103,IIT Guwahati,EEE,8.74,N/A,17 Mo
+604,"University of North Carolina, Chapel Hill",Reject,Computer Science,Fall 2019,168,155,3.5,323,103,IIT Guwahati,ECE,7.6,N/A,0 Mo
+605,"University of Texas, Austin",Reject,Computer Engineering,Fall 2013,169,157,3,326,106,IIT Guwahati,Computer Science,9.5,N/A,0 Mo
+606,"Purdue University, West Lafayette",Reject,Electrical & Computer Engineering,Fall 2018,166,150,4,316,105,IIT Guwahati,Physics,7.93,0,0 Mo
+607,Arizona State University,Reject,Electrical Engineering,Fall 2018,169,160,5,329,116,IIT Guwahati,ECE,7.48,N/A,30 Mo
+608,"University of Massachusetts, Amherst",Admit,Electrical & Computer Engineering,Fall 2018,166,150,4,316,105,IIT Guwahati,Physics,7.93,0,0 Mo
+609,"University of California, San Diego",Reject,Computer Science,Fall 2013,169,157,3,326,106,IIT Guwahati,Computer Science,9.5,N/A,0 Mo
+610,"State University of New York, Buffalo",Admit,Computer Science,Fall 2019,165,147,3,312,94,IIT Guwahati,Computer Science,8.21,0,0 Mo
+611,Carnegie Mellon University,Admit,Electrical & Computer Engineering,Fall 2017,169,146,3,315,95,IIT Guwahati,EEE,8.55,N/A,0 Mo
+612,Pennsylvania State University,Reject,Materials Science & Engineering,Fall 2019,170,158,4,328,110,IIT Guwahati,Physics,7.04,1,0 Mo
+613,New York University,Reject,Data Science,Fall 2020,165,158,4,323,114,IIT Guwahati,ECE,7.36,N/A,16 Mo
+614,New York University,Reject,Data Science,Fall 2019,168,150,3,318,N/A,IIT Guwahati,EEE,7.96,N/A,29 Mo
+615,Carnegie Mellon University,Reject,Data Science,Fall 2020,165,152,4,317,113,IIT Guwahati,Mechanical Engineering,8.89,N/A,52 Mo
+616,"State University of New York, Buffalo",Admit,Computer Science,Fall 2016,168,166,4,334,118,IIT Guwahati,ECE,7,N/A,0 Mo
+617,"KTH, Royal Institute of Technology",Admit,Aerospace Engineering,Fall 2020,169,148,4,317,100,IIT Guwahati,Mechanical Engineering,7.35,N/A,0 Mo
+618,Oregon State University,Reject,Robotics,Fall 2020,165,165,4,330,N/A,IIT Guwahati,Mechanical Engineering,7.4,N/A,0 Mo
+619,Columbia University,Admit,Computer Science,Fall 2020,170,156,4,326,110,IIT Guwahati,Mathematics,8.06,N/A,6 Mo
+620,"University of Texas, Austin",Reject,Materials Science & Engineering,Fall 2019,170,158,4,328,110,IIT Guwahati,Physics,7.04,1,0 Mo
+621,"University of California, San Diego",Reject,Computer Science,Fall 2019,166,160,4,326,115,IIT Guwahati,ECE,8.58,N/A,19 Mo
+622,University of Toronto,Reject,Applied Computing,Fall 2020,170,156,4,326,110,IIT Guwahati,Mathematics,8.06,N/A,6 Mo
+623,ETH Zurich,Admit,Computer Science,Fall 2019,165,153,N/A,318,104,IIT Guwahati,ECE,9.16,2,17 Mo
+624,University of Pennsylvania,Reject,Electrical Engineering,Fall 2019,166,149,4,315,101,IIT Guwahati,Physics,8.46,1,4 Mo
+625,"University of California, Irvine",Reject,Software Engineering,Fall 2018,168,157,4.5,325,113,IIT Guwahati,ECE,8.09,4,30 Mo
+626,Cornell University,Reject,Computer Science,Fall 2018,168,157,4.5,325,113,IIT Guwahati,ECE,8.09,4,30 Mo
+627,"Texas A&M University, College Station",Admit,Electrical Engineering,Fall 2018,166,150,4,316,105,IIT Guwahati,Physics,7.93,0,0 Mo
+628,Georgia Institute of Technology,Reject,Data Analytics,Fall 2020,165,152,4,317,113,IIT Guwahati,Mechanical Engineering,8.89,N/A,52 Mo
+629,Ludwig Maximilian University of Munich,Admit,Chemistry,Fall 2018,N/A,N/A,N/A,N/A,108,IIT Guwahati,Chemical Engineering,8.4,N/A,0 Mo
+630,"University of California, Santa Barbara",Reject,Computer Science,Fall 2018,168,159,3.5,327,112,IIT Guwahati,Computer Science,6.22,N/A,0 Mo
+631,North Carolina State University,Reject,Mechanical Engineering,Fall 2015,161,147,0,308,99,IIT Guwahati,Mechanical Engineering,8,N/A,0 Mo
+632,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2020,170,156,4,326,110,IIT Guwahati,Computer Science,8.72,N/A,30 Mo
+633,"Texas A&M University, College Station",Admit,Computer Science,Fall 2019,166,156,3.5,322,110,IIT Guwahati,ECE,8.34,N/A,19 Mo
+634,"Purdue University, West Lafayette",Reject,Computer Science,Fall 2018,168,157,4.5,325,113,IIT Guwahati,ECE,8.09,4,30 Mo
+635,RWTH Aachen University,Admit,Electrical & Computer Engineering,Fall 2020,170,148,3,318,8,IIT Guwahati,ECE,7.86,N/A,28 Mo
+636,"Indiana University, Bloomington",Admit,Data Science,Fall 2018,166,152,3,318,N/A,IIT Guwahati,Physics,78,N/A,29 Mo
+637,University of Washington,Reject,Data Science,Fall 2020,165,158,4,323,114,IIT Guwahati,ECE,7.36,N/A,16 Mo
+638,"University of California, San Diego",Reject,Computer Science,Fall 2018,168,157,4.5,325,113,IIT Guwahati,ECE,8.09,4,30 Mo
+639,Louisiana State University and A&M College,Admit,Data Analytics,Fall 2018,168,143,3,311,0,IIT Guwahati,ECE,6.45,0,23 Mo
+640,"University of Illinois, Urbana Champaign",Reject,Computer Science,Fall 2019,169,149,3,318,103,IIT Guwahati,EEE,8.74,N/A,17 Mo
+641,"University of California, San Diego",Admit,Electrical & Computer Engineering,Fall 2019,166,149,4,315,101,IIT Guwahati,Physics,8.46,1,4 Mo
+642,Georgia Institute of Technology,Admit,Computer Science,Fall 2020,168,163,4.5,331,114,IIT Guwahati,EEE,7.59,1,30 Mo
+643,Carnegie Mellon University,Reject,Data Science,Fall 2019,170,162,4,332,115,IIT Guwahati,Mathematics,8.81,N/A,19 Mo
+644,New York University,Admit,Data Science,Fall 2017,170,155,4.5,325,115,IIT Guwahati,Computer Science,8.35,N/A,0 Mo
+645,Pennsylvania State University,Reject,Computer Science,Fall 2013,169,157,3,326,106,IIT Guwahati,Computer Science,9.5,N/A,0 Mo
+646,"State University of New York, Stony Brook",Admit,Computer Science,Fall 2018,168,157,4.5,325,113,IIT Guwahati,ECE,8.09,4,30 Mo
+647,"University of California, San Diego",Admit,Computer Science,Fall 2019,170,153,4,323,109,IIT Guwahati,Computer Science,9.42,1,17 Mo
+648,"Purdue University, West Lafayette",Admit,Electrical & Computer Engineering,Fall 2020,169,158,4,327,114,IIT Guwahati,EEE,9.12,N/A,0 Mo
+649,Columbia University,Reject,Data Science,Fall 2019,168,150,3,318,N/A,IIT Guwahati,EEE,7.96,N/A,29 Mo
+650,Virginia Tech University,Admit,Computer Science,Fall 2018,169,160,5,329,116,IIT Guwahati,ECE,7.48,N/A,30 Mo
+651,"University of Texas, Dallas",Admit,Computer Science,Fall 2018,163,152,5,315,101,IIT Guwahati,Computer Science,9.2,N/A,0 Mo
+652,Johns Hopkins University,Admit,Information Systems,Fall 2017,169,146,3,315,95,IIT Guwahati,EEE,8.55,N/A,0 Mo
+653,Ohio State University,Admit,Computer Science,Fall 2016,170,160,3,330,109,IIT Guwahati,Computer Science,8.36,N/A,0 Mo
+654,McGill University,Reject,Aerospace Engineering,Fall 2020,169,148,4,317,100,IIT Guwahati,Mechanical Engineering,7.35,N/A,0 Mo
+655,"University of Massachusetts, Lowell",Admit,Computer Engineering,Fall 2017,149,160,2.5,309,95,IIT Guwahati,Physics,7.96,N/A,0 Mo
+656,University of Washington,Admit,Mechanical Engineering,Fall 2020,165,165,4,330,N/A,IIT Guwahati,Mechanical Engineering,7.4,N/A,0 Mo
+657,"University of Texas, Dallas",Admit,Computer Science,Fall 2019,167,152,4,319,110,IIT Guwahati,Civil Engineering,7.84,N/A,0 Mo
+658,"University of California, Los Angeles",Reject,Electrical Engineering,Fall 2019,166,149,4,315,101,IIT Guwahati,Physics,8.46,1,4 Mo
+659,"University of Texas, Dallas",Admit,Mechanical Engineering,Spring 2016,170,164,3.5,334,110,IIT Guwahati,Mechanical Engineering,6.72,N/A,0 Mo
+660,University of Pennsylvania,Reject,Data Science,Fall 2019,168,155,3.5,323,103,IIT Guwahati,ECE,7.6,N/A,0 Mo
+661,Delft University of Technology,Reject,Aerospace Engineering,Fall 2020,169,148,4,317,100,IIT Guwahati,Mechanical Engineering,7.35,N/A,0 Mo
+662,"University of Texas, Dallas",Admit,Computer Science,Fall 2019,165,148,4,313,102,IIT Guwahati,Civil Engineering,6.59,4,27 Mo
+663,"Indiana University, Bloomington",Reject,Data Science,Fall 2018,167,161,4,328,111,IIT Guwahati,Civil Engineering,6.13,N/A,0 Mo
+664,"University of Texas, Austin",Reject,Software Engineering,Fall 2019,168,157,3.5,325,111,IIT Guwahati,Chemical Engineering,8.54,N/A,0 Mo
+665,"University of Wisconsin, Madison",Admit,Bioinformatics,Fall 2017,167,153,3,320,109,IIT Guwahati,ECE,8.29,N/A,0 Mo
+666,University of Southern California,Reject,Computer Science,Fall 2018,168,157,4.5,325,113,IIT Guwahati,ECE,8.09,4,30 Mo
+667,Worcester Polytechnic Institute,Admit,Robotics,Fall 2017,170,161,3.5,331,105,IIT Guwahati,EEE,8.62,N/A,0 Mo
+668,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2018,170,152,N/A,322,106,IIT Guwahati,Computer Science,9.3,N/A,6 Mo
+669,Georgia Institute of Technology,Reject,Computer Science,Fall 2019,170,162,4,332,115,IIT Guwahati,Mathematics,8.81,N/A,19 Mo
+670,Michigan Technological University,Admit,Mechanical Engineering,Fall 2015,161,147,0,308,99,IIT Guwahati,Mechanical Engineering,8,N/A,0 Mo
+671,"Texas A&M University, College Station",Reject,Computer Science,Fall 2019,163,155,3,318,107,IIT Guwahati,Mathematics,7.38,N/A,43 Mo
+672,New York University,Reject,Data Science,Fall 2020,165,152,4,317,113,IIT Guwahati,Mechanical Engineering,8.89,N/A,52 Mo
+673,"Purdue University, West Lafayette",Reject,Materials Science & Engineering,Fall 2019,170,158,4,328,110,IIT Guwahati,Physics,7.04,1,0 Mo
+674,"University of Michigan, Ann Arbor",Admit,Electrical & Computer Engineering,Fall 2019,170,158,4,328,109,IIT Guwahati,ECE,9.03,N/A,19 Mo
+675,Colorado School of Mines,Admit,Electrical Engineering,Fall 2017,170,161,3.5,331,105,IIT Guwahati,EEE,8.62,N/A,0 Mo
+676,"University of California, Berkeley",Reject,Computer Science,Fall 2013,169,157,3,326,106,IIT Guwahati,Computer Science,9.5,N/A,0 Mo
+677,University of Alberta,Reject,Computing Science,Fall 2019,169,149,3,318,103,IIT Guwahati,EEE,8.74,N/A,17 Mo
+678,Northeastern University,Reject,Data Science,Fall 2018,167,161,4,328,111,IIT Guwahati,Civil Engineering,6.13,N/A,0 Mo
+679,University of Alberta,Reject,Computing Science,Fall 2018,169,160,5,329,116,IIT Guwahati,ECE,7.48,N/A,30 Mo
+680,"University of Michigan, Ann Arbor",Reject,Electrical & Computer Engineering,Fall 2019,166,160,4,326,115,IIT Guwahati,ECE,8.58,N/A,19 Mo
+681,"University of Maryland, College Park",Reject,Computer Science,Fall 2019,165,148,4,313,102,IIT Guwahati,Civil Engineering,6.59,4,27 Mo
+682,"University of California, San Diego",Admit,Computer Science,Fall 2020,168,163,3,331,114,IIT Guwahati,Computer Science,8.48,N/A,0 Mo
+683,"Purdue University, West Lafayette",Admit,Business Analytics and Information Syste,Fall 2020,165,158,4,323,114,IIT Guwahati,ECE,7.36,N/A,16 Mo
+684,Ohio State University,Admit,Computer Science,Fall 2017,152,167,3.5,319,107,IIT Guwahati,ECE,7.58,N/A,0 Mo
+685,Carnegie Mellon University,Admit,Robotics,Fall 2019,166,160,4,326,115,IIT Guwahati,ECE,8.58,N/A,19 Mo
+686,New York University,Admit,Data Science,Fall 2019,170,162,4,332,115,IIT Guwahati,Mathematics,8.81,N/A,19 Mo
+687,"University of California, San Diego",Admit,Electrical & Computer Engineering,Fall 2019,166,160,4,326,115,IIT Guwahati,ECE,8.58,N/A,19 Mo
+688,University of Toronto,Reject,Computer Science,Fall 2019,169,149,3,318,103,IIT Guwahati,EEE,8.74,N/A,17 Mo
+689,"University of Wisconsin, Madison",Admit,Electrical Engineering,Fall 2020,170,157,4,327,112,IIT Guwahati,EEE,8.7,N/A,0 Mo
+690,Ecole Polytechnique,Admit,Computer Science,Fall 2018,165,149,3,314,98,IIT Guwahati,Computer Science,9.06,N/A,0 Mo
+691,Boston University,Reject,Computer Science,Fall 2018,169,160,5,329,116,IIT Guwahati,ECE,7.48,N/A,30 Mo
+692,Simon Fraser University,Reject,Computing Science,Fall 2019,169,149,3,318,103,IIT Guwahati,EEE,8.74,N/A,17 Mo
+693,"University of California, San Diego",Admit,Computer Science,Fall 2019,170,162,4,332,115,IIT Guwahati,Mathematics,8.81,N/A,19 Mo
+694,University of Virginia,Reject,Computer Science,Fall 2018,168,159,3.5,327,112,IIT Guwahati,Computer Science,6.22,N/A,0 Mo
+695,Ohio State University,Reject,Computer Science,Fall 2017,163,148,3.5,311,111,IIT Guwahati,ECE,60,1,4 Mo
+696,"Texas A&M University, College Station",Admit,Electrical Engineering,Fall 2018,170,155,4,325,109,IIT Guwahati,ECE,8.91,N/A,0 Mo
+697,University of Southern California,Reject,Computer Engineering,Fall 2020,165,158,4,323,114,IIT Guwahati,ECE,7.36,N/A,16 Mo
+698,Carnegie Mellon University,Admit,Mechanical Engineering,Fall 2020,168,156,4,324,106,IIT Guwahati,Mechanical Engineering,8.94,1,5 Mo
+699,"Texas A&M University, College Station",Reject,Electrical Engineering,Fall 2019,166,149,4,315,101,IIT Guwahati,Physics,8.46,1,4 Mo
+700,"University of Michigan, Ann Arbor",Reject,Computer Science,Fall 2020,170,156,4,326,110,IIT Guwahati,Mathematics,8.06,N/A,6 Mo
+701,Pennsylvania State University,Admit,Data Analytics,Fall 2019,167,151,3,318,106,IIT Varanasi,Civil Engineering,7.85,N/A,0 Mo
+702,"University of California, Irvine",Reject,Computer Engineering,Fall 2017,168,155,3,323,106,IIT Varanasi,ECE,8.08,1,17 Mo
+703,Delft University of Technology,Reject,Aerospace Engineering,Fall 2020,168,152,4,320,104,IIT Varanasi,Mechanical Engineering,7.9,N/A,0 Mo
+704,Georgia Institute of Technology,Reject,Civil Engineering,Fall 2019,167,162,4.5,329,113,IIT Varanasi,Civil Engineering,8.12,N/A,0 Mo
+705,University of Cincinnati,Admit,Information Systems,Fall 2016,167,151,4,318,104,IIT Varanasi,Civil Engineering,8.33,N/A,0 Mo
+706,"University of California, Los Angeles",Admit,Bioengineering,Fall 2019,170,158,4,328,106,IIT Varanasi,Biomedical Engineering,8.66,N/A,0 Mo
+707,North Carolina State University,Admit,Electrical Engineering,Fall 2017,167,159,3,326,111,IIT Varanasi,ECE,8.51,N/A,43 Mo
+708,"University of Colorado, Boulder",Admit,Mechanical Engineering,Fall 2020,168,153,5,321,118,IIT Varanasi,Mechanical Engineering,8.62,1,7 Mo
+709,"University of Michigan, Ann Arbor",Reject,Mechanical Engineering,Fall 2015,168,162,4,330,114,IIT Varanasi,Mechanical Engineering,7.76,N/A,0 Mo
+710,"University of Wisconsin, Madison",Reject,Computer Science,Fall 2019,168,160,3,328,110,IIT Varanasi,Computer Science,8.44,N/A,0 Mo
+711,"University of Minnesota, Twin Cities",Admit,Business Analytics,Fall 2019,167,151,3,318,106,IIT Varanasi,Civil Engineering,7.85,N/A,0 Mo
+712,"University of California, Irvine",Reject,Computer Science,Fall 2020,170,152,3,322,7.5,IIT Varanasi,Mechanical Engineering,7.57,N/A,26 Mo
+713,Georgia Institute of Technology,Reject,Computer Science,Fall 2019,167,158,3.5,325,110,IIT Varanasi,Computer Science,9.15,3,0 Mo
+714,Carnegie Mellon University,Reject,Computer Science,Fall 2018,170,160,4,330,N/A,IIT Varanasi,ECE,9.32,N/A,0 Mo
+715,Ecole Polytechnique ,Reject,Computational Science & Engineering,Fall 2019,163,163,3.5,326,114,IIT Varanasi,Mechanical Engineering,9.36,3,6 Mo
+716,"University of Michigan, Ann Arbor",Reject,Computer Science,Fall 2019,170,165,4,335,117,IIT Varanasi,Computer Science,8,N/A,31 Mo
+717,"University of California, San Diego",Reject,Computer Science,Fall 2019,170,153,3.5,323,111,IIT Varanasi,EEE,8.61,N/A,30 Mo
+718,"University of Minnesota, Twin Cities",Reject,Business Analytics,Fall 2018,166,152,4,318,N/A,IIT Varanasi,EEE,7.93,N/A,0 Mo
+719,"University of Wisconsin, Madison",Admit,Computer Science,Fall 2019,163,163,3.5,326,114,IIT Varanasi,Mechanical Engineering,9.36,3,6 Mo
+720,"University of California, San Diego",Reject,Mechanical Engineering,Fall 2020,168,153,5,321,118,IIT Varanasi,Mechanical Engineering,8.62,1,7 Mo
+721,"University of California, Berkeley",Reject,EECS,Fall 2019,167,157,3.5,324,108,IIT Varanasi,EEE,8.64,N/A,17 Mo
+722,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2016,169,160,4,329,117,IIT Varanasi,Computer Science,8.32,N/A,0 Mo
+723,Cornell University,Reject,Computer Science,Fall 2016,167,153,4,320,108,IIT Varanasi,ECE,8.16,N/A,0 Mo
+724,Carnegie Mellon University,Reject,Computer Science,Fall 2019,167,158,3.5,325,110,IIT Varanasi,Computer Science,9.15,3,0 Mo
+725,Saarland University,Admit,Computer Science,Fall 2019,168,151,3.5,319,7.5,IIT Varanasi,Computer Science,7.54,N/A,30 Mo
+726,Georgia Institute of Technology,Reject,Civil Engineering,Fall 2014,166,157,3.5,323,111,IIT Varanasi,Civil Engineering,8.4,N/A,0 Mo
+727,"University of Texas, Austin",Reject,Computer Science,Fall 2018,170,160,4,330,N/A,IIT Varanasi,ECE,9.32,N/A,0 Mo
+728,Virginia Tech University,Admit,Civil & Environmental Engineering,Fall 2019,167,162,4.5,329,113,IIT Varanasi,Civil Engineering,8.12,N/A,0 Mo
+729,"University of Florida, Gainesville",Reject,Computer Science,Fall 2018,170,151,N/A,321,N/A,IIT Varanasi,Computer Science,7.8,N/A,30 Mo
+730,"University of Maryland, College Park",Admit,Mechanical Engineering,Fall 2019,168,150,3,318,108,IIT Varanasi,EEE,7.47,0,20 Mo
+731,University of British Columbia,Reject,Computer Science,Fall 2020,169,153,3.5,322,115,IIT Varanasi,ECE,9.13,N/A,30 Mo
+732,"University of California, Los Angeles",Reject,Electrical Engineering,Fall 2017,167,156,0,323,105,IIT Varanasi,ECE,7.72,N/A,0 Mo
+733,"State University of New York, Stony Brook",Admit,Computer Science,Fall 2019,152,164,3,316,93,IIT Varanasi,ECE,7.44,N/A,0 Mo
+734,"University of California, San Diego",Admit,Computer Science,Fall 2020,169,154,3.5,323,107,IIT Varanasi,EEE,9.77,1,17 Mo
+735,Delft University of Technology,Admit,Civil Engineering,Fall 2019,167,162,4.5,329,113,IIT Varanasi,Civil Engineering,8.12,N/A,0 Mo
+736,Stanford University,Reject,Computer Science,Fall 2020,169,154,3.5,323,107,IIT Varanasi,EEE,9.77,1,17 Mo
+737,University of Cincinnati,Admit,Business Analytics,Fall 2020,164,149,3,313,7,IIT Varanasi,Mining Engineering,76.1,N/A,23 Mo
+738,University of Virginia,Reject,Data Science,Fall 2019,167,151,3,318,106,IIT Varanasi,Civil Engineering,7.85,N/A,0 Mo
+739,"University of Minnesota, Twin Cities",Admit,Computer Science,Fall 2019,170,153,3.5,323,111,IIT Varanasi,EEE,8.61,N/A,30 Mo
+740,"University of Texas, Austin",Reject,Electrical & Computer Engineering,Fall 2017,167,156,0,323,105,IIT Varanasi,ECE,7.72,N/A,0 Mo
+741,Auburn University,Admit,Materials Science & Engineering,Fall 2013,169,167,N/A,336,N/A,IIT Varanasi,Metallurgical Engineering,89.4,0,0 Mo
+742,"Texas A&M University, College Station",Admit,Civil Engineering,Fall 2019,167,162,4.5,329,113,IIT Varanasi,Civil Engineering,8.12,N/A,0 Mo
+743,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2018,170,160,4,330,N/A,IIT Varanasi,ECE,9.32,N/A,0 Mo
+744,Columbia University,Admit,Computer Science,Fall 2019,170,165,4,335,117,IIT Varanasi,Computer Science,8,N/A,31 Mo
+745,University of Pennsylvania,Reject,Information Technology,Fall 2018,170,153,3.5,323,95,IIT Varanasi,EEE,8.02,N/A,0 Mo
+746,Columbia University,Admit,Computer Science,Fall 2019,169,154,3,323,109,IIT Varanasi,Computer Science,9.57,2,0 Mo
+747,"University of Colorado, Boulder",Admit,Electrical & Computer Engineering,Fall 2013,169,167,N/A,336,N/A,IIT Varanasi,Metallurgical Engineering,89.4,0,0 Mo
+748,Ohio State University,Admit,Aerospace Engineering,Fall 2020,168,152,4,320,104,IIT Varanasi,Mechanical Engineering,7.9,N/A,0 Mo
+749,New York University,Admit,Finance,Fall 2020,169,152,3.5,321,110,IIT Varanasi,Metallurgical Engineering,9.33,N/A,0 Mo
+750,Georgia Institute of Technology,Reject,Electrical & Computer Engineering,Fall 2017,167,159,3,326,111,IIT Varanasi,ECE,8.51,N/A,43 Mo
+751,New Jersey Institute of Technology,Admit,Data Science,Fall 2020,168,150,3,318,100,IIT Varanasi,EEE,7.13,N/A,0 Mo
+752,Georgia Institute of Technology,Reject,Computer Science,Fall 2017,166,152,3.5,318,107,IIT Varanasi,Computer Science,8.25,N/A,0 Mo
+753,"Indiana University, Bloomington",Admit,Data Science,Fall 2019,167,151,3,318,106,IIT Varanasi,Civil Engineering,7.85,N/A,0 Mo
+754,"Purdue University, West Lafayette",Admit,Business Analytics and Information Syste,Fall 2020,166,158,4,324,N/A,IIT Varanasi,Information Technology,81,N/A,0 Mo
+755,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2019,170,165,4,335,117,IIT Varanasi,Computer Science,8,N/A,31 Mo
+756,Rensselaer Polytechnic Institute,Admit,Civil & Environmental Engineering,Fall 2014,166,157,3.5,323,111,IIT Varanasi,Civil Engineering,8.4,N/A,0 Mo
+757,University of South Florida,Admit,Business Analytics and Information Syste,Fall 2016,167,151,4,318,104,IIT Varanasi,Civil Engineering,8.33,N/A,0 Mo
+758,Georgia Institute of Technology,Admit,Supply Chain Management,Fall 2019,170,157,4,327,111,IIT Varanasi,Mechanical Engineering,9.03,N/A,12 Mo
+759,"University of California, Davis",Reject,Computer Science,Fall 2018,170,153,3.5,323,95,IIT Varanasi,EEE,8.02,N/A,0 Mo
+760,University of Southern California,Reject,Electrical Engineering,Fall 2017,167,156,0,323,105,IIT Varanasi,ECE,7.72,N/A,0 Mo
+761,"University of North Carolina, Chapel Hill",Reject,Computer Science,Fall 2019,167,158,3.5,325,110,IIT Varanasi,Computer Science,9.15,3,0 Mo
+762,Virginia Tech University,Admit,Industrial Engineering,Fall 2019,170,157,4,327,111,IIT Varanasi,Mechanical Engineering,9.03,N/A,12 Mo
+763,"University of California, Irvine",Admit,Computer Networks,Fall 2017,168,152,3,320,103,IIT Varanasi,EEE,7.8,N/A,0 Mo
+764,"University of California, San Diego",Admit,Electrical & Computer Engineering,Fall 2019,169,152,3.5,321,103,IIT Varanasi,ECE,9.21,N/A,0 Mo
+765,Carnegie Mellon University,Reject,Computer Science,Fall 2017,166,152,3.5,318,107,IIT Varanasi,Computer Science,8.25,N/A,0 Mo
+766,"University of Colorado, Boulder",Reject,Computer Science,Fall 2016,167,153,4,320,108,IIT Varanasi,ECE,8.16,N/A,0 Mo
+767,Carnegie Mellon University,Reject,Machine Learning,Fall 2018,170,151,N/A,321,N/A,IIT Varanasi,Computer Science,7.8,N/A,30 Mo
+768,Carnegie Mellon University,Admit,Robotics,Fall 2017,170,162,4,332,N/A,IIT Varanasi,EEE,9.07,N/A,0 Mo
+769,Johns Hopkins University,Admit,Mechanical Engineering,Fall 2020,168,153,5,321,118,IIT Varanasi,Mechanical Engineering,8.62,1,7 Mo
+770,"University of Michigan, Ann Arbor",Reject,Computer Science,Fall 2019,167,158,3.5,325,110,IIT Varanasi,Computer Science,9.15,3,0 Mo
+771,"University of Maryland, College Park",Reject,Computer Science,Fall 2020,169,154,3.5,323,107,IIT Varanasi,EEE,9.77,1,17 Mo
+772,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2019,169,154,3,323,109,IIT Varanasi,Computer Science,9.57,2,0 Mo
+773,"University of California, San Diego",Reject,Computer Engineering,Fall 2017,168,155,3,323,106,IIT Varanasi,ECE,8.08,1,17 Mo
+774,"University of Michigan, Ann Arbor",Admit,Industrial Engineering,Fall 2019,170,157,4,327,111,IIT Varanasi,Mechanical Engineering,9.03,N/A,12 Mo
+775,"University of Texas, Dallas",Reject,Computer Science,Fall 2020,168,150,3,318,100,IIT Varanasi,EEE,7.13,N/A,0 Mo
+776,Northeastern University,Reject,Data Science,Fall 2020,168,150,3,318,100,IIT Varanasi,EEE,7.13,N/A,0 Mo
+777,"University of Texas, Austin",Reject,Computer Science,Fall 2017,166,152,3.5,318,107,IIT Varanasi,Computer Science,8.25,N/A,0 Mo
+778,Virginia Tech University,Admit,Computer Engineering,Fall 2017,168,152,3,320,103,IIT Varanasi,EEE,7.8,N/A,0 Mo
+779,"University of California, Los Angeles",Admit,Electrical Engineering,Fall 2013,169,167,N/A,336,N/A,IIT Varanasi,Metallurgical Engineering,89.4,0,0 Mo
+780,Columbia University,Admit,Data Science,Fall 2019,169,162,3.5,331,108,IIT Varanasi,Computer Science,8.29,N/A,17 Mo
+781,"University of Maryland, College Park",Reject,Computer Science,Fall 2020,169,154,3.5,323,107,IIT Varanasi,EEE,9.77,1,17 Mo
+782,"University of Massachusetts, Amherst",Admit,Computer Science,Fall 2019,169,154,3,323,109,IIT Varanasi,Computer Science,9.57,2,0 Mo
+783,"University of California, San Diego",Reject,Computer Engineering,Fall 2017,168,155,3,323,106,IIT Varanasi,ECE,8.08,1,17 Mo
+784,"University of Michigan, Ann Arbor",Admit,Industrial Engineering,Fall 2019,170,157,4,327,111,IIT Varanasi,Mechanical Engineering,9.03,N/A,12 Mo
+785,"University of Texas, Dallas",Reject,Computer Science,Fall 2020,168,150,3,318,100,IIT Varanasi,EEE,7.13,N/A,0 Mo
+786,Northeastern University,Reject,Data Science,Fall 2020,168,150,3,318,100,IIT Varanasi,EEE,7.13,N/A,0 Mo
+787,"University of Texas, Austin",Reject,Computer Science,Fall 2017,166,152,3.5,318,107,IIT Varanasi,Computer Science,8.25,N/A,0 Mo
+788,Virginia Tech University,Admit,Computer Engineering,Fall 2017,168,152,3,320,103,IIT Varanasi,EEE,7.8,N/A,0 Mo
+789,"University of California, Los Angeles",Admit,Electrical Engineering,Fall 2013,169,167,N/A,336,N/A,IIT Varanasi,Metallurgical Engineering,89.4,0,0 Mo
+790,Columbia University,Admit,Data Science,Fall 2019,169,162,3.5,331,108,IIT Varanasi,Computer Science,8.29,N/A,17 Mo
+791,"Texas A&M University, College Station",Reject,Computer Science,Fall 2020,170,152,3,322,7.5,IIT Varanasi,Mechanical Engineering,7.57,N/A,26 Mo
+792,"Purdue University, West Lafayette",Admit,Mechanical Engineering,Fall 2015,168,162,4,330,114,IIT Varanasi,Mechanical Engineering,7.76,N/A,0 Mo
+793,University of Southern California,Reject,Civil Engineering,Fall 2014,166,157,3.5,323,111,IIT Varanasi,Civil Engineering,8.4,N/A,0 Mo
+794,North Carolina State University,Reject,Mechanical Engineering,Spring 2019,168,158,4,326,104,IIT Varanasi,Mechanical Engineering,8,N/A,0 Mo
+795,"University of Maryland, College Park",Reject,Computer Science,Fall 2019,167,158,3.5,325,110,IIT Varanasi,Computer Science,9.15,3,0 Mo
+796,"University of California, Los Angeles",Admit,Computer Science,Fall 2020,169,153,3.5,322,115,IIT Varanasi,ECE,9.13,N/A,30 Mo
+797,"University of Minnesota, Twin Cities",Reject,Data Science,Fall 2020,168,150,3,318,100,IIT Varanasi,EEE,7.13,N/A,0 Mo
+798,"University of Florida, Gainesville",Admit,Computer Science,Fall 2016,167,153,4,320,108,IIT Varanasi,ECE,8.16,N/A,0 Mo
+799,"University of California, San Diego",Admit,Computer Science,Fall 2018,170,160,4,330,N/A,IIT Varanasi,ECE,9.32,N/A,0 Mo
+800,Columbia University,Admit,Computer Science,Fall 2019,167,158,3.5,325,110,IIT Varanasi,Computer Science,9.15,3,0 Mo
+801,"Texas A&M University, College Station",Admit,Computer Science,Fall 2020,170,158,4,328,112,IIT Indore,Computer Science,9.2,N/A,0 Mo
+802,"Texas A&M University, College Station",Admit,Industrial Engineering,Fall 2017,164,155,4,319,101,IIT Indore,Mechanical Engineering,7.5,N/A,0 Mo
+803,"University of California, San Diego",Admit,Computer Science,Fall 2016,170,155,3.5,325,104,IIT Indore,Computer Science,8.5,N/A,0 Mo
+804,Carnegie Mellon University,Reject,Computer Science,Fall 2016,168,157,4,325,101,IIT Indore,Computer Science,8.11,N/A,0 Mo
+805,Virginia Tech University,Admit,Industrial Engineering,Fall 2015,168,166,4,334,120,IIT Indore,ECE,9,N/A,0 Mo
+806,"University of Texas, Austin",Reject,Computer Engineering,Fall 2016,170,155,3.5,325,104,IIT Indore,Computer Science,8.5,N/A,0 Mo
+807,University of Oxford,Admit,Computer Science,Fall 2018,168,158,3.5,326,117,IIT Indore,Computer Science,9,N/A,16 Mo
+808,"University of California, San Diego",Admit,Electrical & Computer Engineering,Fall 2016,166,155,3.5,321,101,IIT Indore,ECE,8.9,N/A,0 Mo
+809,Georgia Institute of Technology,Reject,Computer Science,Fall 2016,170,155,3.5,325,104,IIT Indore,Computer Science,8.5,N/A,0 Mo
+810,"Texas A&M University, College Station",Reject,Computer Science,Fall 2015,166,154,3,320,99,IIT Indore,Computer Science,7,N/A,0 Mo
+811,"University of Michigan, Ann Arbor",Admit,Industrial Engineering,Fall 2016,166,158,4,324,110,IIT Indore,Mechanical Engineering,8.81,N/A,0 Mo
+812,"University of California, Los Angeles",Admit,Materials Science & Engineering,Fall 2020,170,143,3.5,313,108,IIT Indore,Metallurgical Engineering,8.36,N/A,0 Mo
+813,"KTH, Royal Institute of Technology",Admit,Machine Learning,Fall 2019,168,159,3.5,327,111,IIT Indore,EEE,8.43,1,19 Mo
+814,University of Cincinnati,Admit,Business Analytics,Fall 2017,167,154,3.5,321,104,IIT Indore,EEE,7.4,N/A,0 Mo
+815,"University of Wisconsin, Madison",Reject,Computer Science,Fall 2018,170,157,4,327,N/A,IIT Indore,Computer Science,9.14,1,0 Mo
+816,"University of Michigan, Ann Arbor",Reject,Data Science,Fall 2019,168,159,3.5,327,111,IIT Indore,EEE,8.43,1,19 Mo
+817,Columbia University,Admit,Computer Science,Fall 2016,166,162,4.5,328,116,IIT Indore,Computer Science,8.68,N/A,0 Mo
+818,University of Southern California,Admit,Computer Science,Fall 2020,169,152,3.5,321,104,IIT Indore,EEE,8.6,N/A,0 Mo
+819,Portland State University,Admit,Electrical & Computer Engineering,Fall 2017,166,150,3,316,100,IIT Indore,ECE,7.9,N/A,0 Mo
+820,University of Utah,Reject,Computer Engineering,Fall 2015,166,154,3,320,99,IIT Indore,Computer Science,7,N/A,0 Mo
+821,Stanford University,Reject,Materials Science & Engineering,Fall 2020,170,150,3.5,320,105,IIT Indore,Metallurgical Engineering,8.04,N/A,0 Mo
+822,Stanford University,Admit,Electrical Engineering,Fall 2016,167,160,3.5,327,110,IIT Indore,EEE,9.56,N/A,0 Mo
+823,"University of California, Davis",Reject,Computer Science,Fall 2017,168,153,3.5,321,107,IIT Indore,Computer Science,8.16,N/A,0 Mo
+824,"Purdue University, West Lafayette",Admit,Mechanical Engineering,Fall 2016,170,163,4.5,333,112,IIT Indore,Mechanical Engineering,8.59,N/A,0 Mo
+825,Arizona State University,Reject,Electrical Engineering,Fall 2015,167,152,0,319,100,IIT Indore,EEE,7.9,N/A,0 Mo
+826,"University of Texas, Austin",Reject,Mechanical Engineering,Fall 2019,169,156,3,325,7.5,IIT Indore,Mechanical Engineering,7.64,N/A,0 Mo
+827,Clemson University,Admit,Industrial Engineering,Fall 2017,164,155,4,319,101,IIT Indore,Mechanical Engineering,7.5,N/A,0 Mo
+828,"University of Maryland, College Park",Reject,Software Engineering,Fall 2016,168,157,4,325,101,IIT Indore,Computer Science,8.11,N/A,0 Mo
+829,North Carolina State University,Reject,Industrial Engineering,Fall 2017,164,155,4,319,101,IIT Indore,Mechanical Engineering,7.5,N/A,0 Mo
+830,Carnegie Mellon University,Reject,Data Science,Fall 2018,170,157,4,327,N/A,IIT Indore,Computer Science,9.14,1,0 Mo
+831,"University of Texas, Austin",Reject,Computer Engineering,Fall 2015,166,154,3,320,99,IIT Indore,Computer Science,7,N/A,0 Mo
+832,University of Toronto,Reject,Applied Computing,Fall 2019,168,159,3.5,327,111,IIT Indore,EEE,8.43,1,19 Mo
+833,Virginia Tech University,Admit,Industrial Engineering,Fall 2017,164,155,4,319,101,IIT Indore,Mechanical Engineering,7.5,N/A,0 Mo
+834,"University of Michigan, Ann Arbor",Admit,Electrical & Computer Engineering,Fall 2016,167,160,3.5,327,110,IIT Indore,EEE,9.56,N/A,0 Mo
+835,"University of California, Irvine",Reject,Computer Science,Fall 2017,170,153,4,323,115,IIT Indore,Computer Science,8.5,N/A,0 Mo
+836,Carnegie Mellon University,Admit,Software Engineering,Fall 2017,168,153,3.5,321,107,IIT Indore,Computer Science,8.16,N/A,0 Mo
+837,"University of Minnesota, Twin Cities",Admit,Industrial Engineering,Fall 2016,166,158,4,324,110,IIT Indore,Mechanical Engineering,8.81,N/A,0 Mo
+838,"University of Illinois, Urbana Champaign",Admit,Civil & Environmental Engineering,Fall 2020,168,153,3.5,321,106,IIT Indore,Civil Engineering,8.16,N/A,0 Mo
+839,"State University of New York, Stony Brook",Admit,Electrical & Computer Engineering,Fall 2018,168,149,3.5,317,99,IIT Indore,EEE,7.3,N/A,12 Mo
+840,"University of Maryland, College Park",Reject,Computer Science,Fall 2018,170,157,4,327,N/A,IIT Indore,Computer Science,9.14,1,0 Mo
+841,Drexel University,Admit,Electrical Engineering,Nd 2015,170,157,4,327,112,IIT Indore,Computer Science,8,N/A,0 Mo
+842,Arizona State University,Admit,Manufacturing Engineering,Fall 2016,168,149,3,317,102,IIT Indore,Mechanical Engineering,7.33,N/A,0 Mo
+843,Massachusetts Institute of Technology,Reject,Mechanical Engineering,Fall 2019,169,156,3,325,7.5,IIT Indore,Mechanical Engineering,7.64,N/A,0 Mo
+844,"University of Illinois, Urbana Champaign",Admit,Computer Science,Fall 2018,170,157,4,327,N/A,IIT Indore,Computer Science,9.14,1,0 Mo
+845,"University of California, Santa Barbara",Reject,Electrical & Computer Engineering,Fall 2017,168,150,3.5,318,96,IIT Indore,EEE,8.93,1,0 Mo
+846,Carnegie Mellon University,Reject,Computer Science,Fall 2017,170,153,4,323,115,IIT Indore,Computer Science,8.5,N/A,0 Mo
+847,Arizona State University,Admit,Electrical & Computer Engineering,Fall 2018,168,149,3.5,317,99,IIT Indore,EEE,7.3,N/A,12 Mo
+848,University of Arizona,Admit,Electrical & Computer Engineering,Fall 2017,166,150,3,316,100,IIT Indore,ECE,7.9,N/A,0 Mo
+849,"Purdue University, West Lafayette",Reject,Electrical & Computer Engineering,Fall 2016,166,155,3.5,321,101,IIT Indore,ECE,8.9,N/A,0 Mo
+850,"University of California, San Diego",Admit,Electrical & Computer Engineering,Fall 2017,168,150,3.5,318,96,IIT Indore,EEE,8.93,1,0 Mo
+851,"University of Michigan, Ann Arbor",Reject,Computer Science,Fall 2018,170,157,4,327,N/A,IIT Indore,Computer Science,9.14,1,0 Mo
+852,"University of California, Irvine",Admit,Software Engineering,Fall 2017,168,153,3.5,321,107,IIT Indore,Computer Science,8.16,N/A,0 Mo
+853,Rice University,Admit,Electrical Engineering,Fall 2019,170,157,4,327,106,IIT Indore,EEE,8.1,N/A,0 Mo
+854,"State University of New York, Buffalo",Admit,Industrial Engineering,Fall 2017,164,155,4,319,101,IIT Indore,Mechanical Engineering,7.5,N/A,0 Mo
+855,"University of California, Los Angeles",Reject,Computer Science,Fall 2016,170,155,3.5,325,104,IIT Indore,Computer Science,8.5,N/A,0 Mo
+856,Georgia Institute of Technology,Reject,Electrical & Computer Engineering,Fall 2017,168,150,3.5,318,96,IIT Indore,EEE,8.93,1,0 Mo
+857,North Carolina State University,Admit,Computer Engineering,Fall 2018,168,149,3.5,317,99,IIT Indore,EEE,7.3,N/A,12 Mo
+858,"University of California, San Diego",Reject,Computer Science,Fall 2017,170,159,4.5,329,111,IIT Indore,EEE,8.41,N/A,0 Mo
+859,"University of Massachusetts, Amherst",Reject,Electrical & Computer Engineering,Fall 2015,167,152,0,319,100,IIT Indore,EEE,7.9,N/A,0 Mo
+860,"University of Illinois, Urbana Champaign",Admit,Computer Science,Fall 2017,170,162,4,332,114,IIT Indore,Computer Science,9.1,N/A,0 Mo
+861,"University of Texas, Dallas",Reject,Computer Engineering,Fall 2018,168,149,3.5,317,99,IIT Indore,EEE,7.3,N/A,12 Mo
+862,"University of California, Berkeley",Reject,Electrical Engineering,Fall 2016,166,155,3.5,321,101,IIT Indore,ECE,8.9,N/A,0 Mo
+863,North Carolina State University,Reject,Mechanical Engineering,Fall 2015,170,149,0,319,96,IIT Indore,Mechanical Engineering,8.21,N/A,0 Mo
+864,"State University of New York, Stony Brook",Admit,Materials Science & Engineering,Fall 2020,170,150,3.5,320,105,IIT Indore,Metallurgical Engineering,8.04,N/A,0 Mo
+865,Dartmouth College,Admit,Computer Science,Fall 2016,170,155,3.5,325,104,IIT Indore,Computer Science,8.5,N/A,0 Mo
+866,"University of California, San Diego",Reject,Computer Science,Fall 2018,170,157,4,327,N/A,IIT Indore,Computer Science,9.14,1,0 Mo
+867,Columbia University,Admit,Electrical Engineering,Fall 2016,167,160,3.5,327,110,IIT Indore,EEE,9.56,N/A,0 Mo
+868,"University of Maryland, College Park",Reject,Computer Science,Fall 2017,170,153,4,323,115,IIT Indore,Computer Science,8.5,N/A,0 Mo
+869,"University of California, San Diego",Reject,Computer Science,Fall 2017,168,153,3.5,321,107,IIT Indore,Computer Science,8.16,N/A,0 Mo
+870,"University of California, Irvine",Admit,Computer Science,Fall 2017,170,159,4.5,329,111,IIT Indore,EEE,8.41,N/A,0 Mo
+871,"University of California, Los Angeles",Admit,Electrical Engineering,Fall 2017,168,150,3.5,318,96,IIT Indore,EEE,8.93,1,0 Mo
+872,University of Southern California,Admit,Materials Science & Engineering,Fall 2020,167,150,3.5,317,7.5,IIT Indore,Metallurgical Engineering,8.83,0,0 Mo
+873,"University of California, Los Angeles",Reject,Materials Science & Engineering,Fall 2020,170,150,3.5,320,105,IIT Indore,Metallurgical Engineering,8.04,N/A,0 Mo
+874,"University of Texas, Austin",Reject,Mechanical Engineering,Fall 2015,170,149,0,319,96,IIT Indore,Mechanical Engineering,8.21,N/A,0 Mo
+875,University of Washington,Reject,Data Science,Fall 2019,168,159,3.5,327,111,IIT Indore,EEE,8.43,1,19 Mo
+876,Georgia Institute of Technology,Admit,Electrical & Computer Engineering,Fall 2016,167,160,3.5,327,110,IIT Indore,EEE,9.56,N/A,0 Mo
+877,Georgia Institute of Technology,Reject,Electrical & Computer Engineering,Fall 2017,169,160,4,329,117,IIT Indore,EEE,8.3,N/A,0 Mo
+878,Georgia Institute of Technology,Reject,Mechanical Engineering,Fall 2015,170,149,0,319,96,IIT Indore,Mechanical Engineering,8.21,N/A,0 Mo
+879,Carnegie Mellon University,Reject,Computer Science,Fall 2018,168,158,3.5,326,117,IIT Indore,Computer Science,9,N/A,16 Mo
+880,Virginia Tech University,Admit,Industrial Engineering,Fall 2016,168,149,3,317,102,IIT Indore,Mechanical Engineering,7.33,N/A,0 Mo
+881,Arizona State University,Admit,Electrical Engineering,Fall 2017,166,150,3,316,100,IIT Indore,ECE,7.9,N/A,0 Mo
+882,"University of California, San Diego",Reject,Computer Science,Fall 2015,166,154,3,320,99,IIT Indore,Computer Science,7,N/A,0 Mo
+883,Columbia University,Admit,Electrical Engineering,Fall 2017,169,160,4,329,117,IIT Indore,EEE,8.3,N/A,0 Mo
+884,"University of Florida, Gainesville",Admit,Computer Science,Fall 2015,166,154,3,320,99,IIT Indore,Computer Science,7,N/A,0 Mo
+885,Georgia Institute of Technology,Reject,Electrical & Computer Engineering,Fall 2019,170,157,4,327,106,IIT Indore,EEE,8.1,N/A,0 Mo
+886,"University of Massachusetts, Amherst",Reject,Computer Science,Fall 2015,166,154,3,320,99,IIT Indore,Computer Science,7,N/A,0 Mo
+887,Virginia Tech University,Admit,Industrial Engineering,Fall 2016,166,158,4,324,110,IIT Indore,Mechanical Engineering,8.81,N/A,0 Mo
+888,"University of California, Irvine",Admit,Computer Science,Fall 2016,168,157,4,325,101,IIT Indore,Computer Science,8.11,N/A,0 Mo
+889,"State University of New York, Buffalo",Admit,Mechanical Engineering,Fall 2015,170,149,0,319,96,IIT Indore,Mechanical Engineering,8.21,N/A,0 Mo
+890,"University of Illinois, Urbana Champaign",Reject,Electrical & Computer Engineering,Fall 2016,166,155,3.5,321,101,IIT Indore,ECE,8.9,N/A,0 Mo
+891,"Texas A&M University, College Station",Admit,Industrial Engineering,Fall 2016,166,158,4,324,110,IIT Indore,Mechanical Engineering,8.81,N/A,0 Mo
+892,"Texas A&M University, College Station",Admit,Electrical Engineering,Fall 2017,166,150,3,316,100,IIT Indore,ECE,7.9,N/A,0 Mo
+893,"University of California, Los Angeles",Reject,Electrical Engineering,Fall 2016,167,160,3.5,327,110,IIT Indore,EEE,9.56,N/A,0 Mo
+894,Carnegie Mellon University,Reject,Computer Science,Fall 2016,169,154,3.5,323,103,IIT Indore,EEE,8.1,N/A,0 Mo
+895,New York University,Reject,Data Science,Fall 2019,168,159,3.5,327,111,IIT Indore,EEE,8.43,1,19 Mo
+896,University of Washington,Admit,Mechanical Engineering,Fall 2016,170,163,4.5,333,112,IIT Indore,Mechanical Engineering,8.59,N/A,0 Mo
+897,Georgia Institute of Technology,Reject,Electrical & Computer Engineering,Fall 2016,166,155,3.5,321,101,IIT Indore,ECE,8.9,N/A,0 Mo
+898,Georgia Institute of Technology,Reject,Computer Science,Fall 2018,170,157,4,327,N/A,IIT Indore,Computer Science,9.14,1,0 Mo
+899,"State University of New York, Buffalo",Admit,Computer Science,Fall 2018,168,149,3.5,317,99,IIT Indore,EEE,7.3,N/A,12 Mo
+900,"University of California, Berkeley",Reject,Materials Science & Engineering,Fall 2020,170,150,3.5,320,105,IIT Indore,Metallurgical Engineering,8.04,N/A,0 Mo
